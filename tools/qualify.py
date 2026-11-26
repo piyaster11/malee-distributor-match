@@ -37,11 +37,16 @@ DS={
 'Century Pacific Food':['Listed PH food group (site)'],
 'Bidfood Australia':['National foodservice network (site)'],
 'Metcash':['"Australia\'s leading wholesale distribution company" (site)'],
+'Prompt Thai':['Founded 2000 (LinkedIn)'],
+'Al Rasheed Trading':['Oriental-foods importer; Thai range listed (site)'],
+'Ocado Retail (Taste of Thailand shop)':['Online grocer; dedicated Taste of Thailand shop (Thai Trade London post)'],
+'EAT Thai Market':['2 employees (LinkedIn)'],
 'Ettason':['Claims "#1 Asian Food Distributor in Australia" (site)'],
 }
-DFLAG={'Kassir Food & Beverage (Hydro Coco USA)':'Exclusive to a competing coconut-water brand','COFCO W&W International':'Tied to IF (direct Thai competitor)','Fantastic Thai Trading (Shanghai)':'Very small team (2 on LinkedIn)','Century Pacific Food':'Makes its own coconut lines (competitor)','Shanghai Pintai Supply Chain (上海品泰)':'Already sells competing Thai coconut water/juices'}
+DFLAG={'EAT Thai Market':'Very small team (2 on LinkedIn)','Kassir Food & Beverage (Hydro Coco USA)':'Exclusive to a competing coconut-water brand','COFCO W&W International':'Tied to IF (direct Thai competitor)','Fantastic Thai Trading (Shanghai)':'Very small team (2 on LinkedIn)','Century Pacific Food':'Makes its own coconut lines (competitor)','Shanghai Pintai Supply Chain (上海品泰)':'Already sells competing Thai coconut water/juices'}
 def dtype(t):
     t=t.lower()
+    if t.startswith('buyer'): return 'Buyer (type not stated)'
     for k,v in [('retailer','Retailer'),('foodservice','Distributor (foodservice)'),('wholesal','Wholesaler'),('importer','Importer / distributor'),('distributor','Distributor'),('trading','Trader / importer'),('manufacturer','Manufacturer'),('agent','Agent'),('market expansion','Distributor (services)')]:
         if k in t: return v
     return 'Distributor'
@@ -66,6 +71,7 @@ for x in d['distributors']:
     elif n>=55 and size and not any('employees' in z and re.search(r'\b[1-9] employees',z) for z in size): w='High'
     elif n>=40: w='Medium'
     else: w='Low'
+    if w=='High' and 'Company page' not in x.get('st',[]) and not x['f'].get('o'): w='Medium'; reasons.append('Capped at Medium: evidence is from a directory/trade-show/embassy post, not its own site')
     x['q']=dict(rtype=dtype(x['type']),rtypeEv=x['type']+' — per its own site',size=size,role='Not posted',worth=w,reasons=reasons,flags=fl)
 byid={x['id']:x for x in d['distributors']}
 def lead_q(s):
@@ -119,7 +125,20 @@ def lead_q(s):
     pend=(s['src'] in ('TradeKey','Tradewheel')) and not s.get('company')
     return dict(rtype=rt,rtypeEv=ev,size=size,role='Not posted',worth=w,reasons=reasons,flags=flags,detail=det,namePending=pend and s['src']=='TradeKey',score=score)
 for s in d['signals']:
-    if s.get('dist'):
+    if s.get('kind')=='route' and s['src']!='ThaiTradeUSA (DITP)':
+        stale=s['fresh']=='stale'
+        s['q']=dict(rtype='Trade-promotion office / programme',rtypeEv='Government/organiser channel, not a buyer',size=['Gateway to registered importers; no buyer list published'],role='Not posted',worth='Low' if stale else 'Medium',reasons=['Route to buyers rather than a buyer','Ask the office for the registered-buyer list or an introduction']+(['Older than 12 months'] if stale else []),flags=['Older than 12 months'] if stale else [])
+    elif s.get('stype') in ('Trade show','Embassy-TTC') and s['src'] in ('Trade show','Embassy / TTC') and not s.get('dist'):
+        stale=s['fresh']=='stale'
+        s['q']=dict(rtype='Retailer',rtypeEv='Retailer named by Thai consulate',size=['US Midwest retail chain (consulate page)'],role='Not posted',worth='Verify first',reasons=['Asked about Thai imports incl. coconut water','Older than 12 months — confirm still relevant'],flags=['Older than 12 months'] if stale else [])
+    elif s.get('dist') and s['src'] in ('Trade show','Embassy / TTC'):
+        x=byid[s['dist']]; q=dict(x['q'])
+        undated=not s.get('date')
+        q['reasons']=x['q']['reasons']+(['Hosted-buyer testimonial; year not stated'] if undated else (['Named hosted buyer at THAIFEX 2026 (26-30 May)'] if s['stype']=='Trade show' else ['Retailer onboarding Thai products via TTC London']))
+        if (undated or not x['f'].get('o')) and q['worth']=='High': q['worth']='Medium'
+        q['flags']=list(q.get('flags',[]))+(['Year of statement not stated'] if undated else [])
+        s['q']=q
+    elif s.get('dist'):
         x=byid[s['dist']]; q=dict(x['q']); q['reasons']=x['q']['reasons']+['Standing "we want brands" page — no volume stated']; s['q']=q
     elif s['src']=='ThaiTradeUSA (DITP)':
         s['q']=dict(rtype='Trade-promotion program',rtypeEv='DITP business matching for US buyers',size=['Government-run; buyer list via Thai Trade Center LA'],role='Not posted',worth='Medium',reasons=['Buyers pre-screened by DITP','Event already held Apr 2026 — follow up for the buyer list'],flags=[],detail='')

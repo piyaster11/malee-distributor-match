@@ -3,6 +3,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥥</text></svg>">
 <title>Malee Distributor Match — push × pull</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600&family=Sarabun:wght@400;600&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#07080c;--card:#14161e;--card2:#1a1d27;--ink:#eceae3;--muted:#9a978c;--line:#2a2d38;--gold:#d4b06a;--green:#5ecf9a;--blue:#7aa6e8;--purple:#c9a0ff;--red:#e08a7a;--amber:#e0b04a}
@@ -42,23 +43,40 @@ table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:left;p
 form.add{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}form.add label{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:4px}
 .cb{display:flex;flex-wrap:wrap;gap:10px;font-size:13px}.cb label{flex-direction:row!important;align-items:center;color:var(--ink)!important}
 footer{border-top:1px solid var(--line);padding:18px 0 40px;color:var(--muted);font-size:12px}
-@media print{header nav,.controls,.lang,#leads,#markets,#match,#add,#method,footer{display:none!important}#trip{display:block}body{background:#fff;color:#000}.card{border-color:#999;background:#fff}}
+
+.mapbox{height:430px;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#0d0f15}
+.leaflet-tile-pane{filter:invert(1) hue-rotate(180deg) brightness(.85) contrast(.9) saturate(.6)}.leaflet-container{font-family:inherit;background:#0d0f15}.leaflet-tooltip{background:#14161e;color:var(--ink);border:1px solid var(--line);font-size:12px}.leaflet-tooltip-top:before{border-top-color:#14161e}
+.mb{border-radius:50%;border:2px solid rgba(255,255,255,.85);color:#111;font-weight:700;font-size:12px;display:flex;align-items:center;justify-content:center;box-shadow:0 0 0 3px rgba(0,0,0,.35);cursor:pointer}
+.mb.sel{outline:3px solid var(--gold);outline-offset:2px}
+.mchips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}
+.mchip{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:5px 11px;cursor:pointer;font:inherit;font-size:12.5px;display:inline-flex;align-items:center;gap:6px}
+.mchip i,.mlegend i{display:inline-block;width:10px;height:10px;border-radius:50%}.mchip.on{border-color:var(--gold);background:#2a2412}
+.mlegend{font-size:12px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 12px;align-items:center;margin:8px 0}.mlegend span{display:inline-flex;align-items:center;gap:5px}
+:focus-visible{outline:2px solid var(--gold);outline-offset:2px;border-radius:4px}summary:focus-visible{outline-offset:3px}
+@media(max-width:700px){.mapbox{height:300px}
+ table.stack thead{display:none}table.stack,table.stack tbody,table.stack tr,table.stack td{display:block;width:100%}table.stack tr{border-bottom:6px solid var(--bg);padding:6px 0}table.stack td{border:0;padding:4px 10px}table.stack td::before{content:attr(data-l);display:block;font-size:10.5px;text-transform:uppercase;color:var(--muted);letter-spacing:.04em}}
+@media print{#map,#mapSec{display:none!important}th,td{color:#000!important;background:#fff!important}.tag{background:#fff!important;color:#000!important;border:1px solid #999}a{color:#000}.tw{border-color:#999;background:#fff}h2,h3,.kpi .v{color:#000}.note{background:#fff;color:#000;border-color:#999}header nav,.controls,.lang,#mapSec,#leads,#markets,#match,#add,#method,footer{display:none!important}#trip{display:block}body{background:#fff;color:#000}.card{border-color:#999;background:#fff}}
 </style></head><body>
 <header><div class="wrap"><div class="top"><div>
-<p class="kicker" data-i="kicker">Malee Group · Export sales tool · v1</p>
+<p class="kicker" data-i="kicker">Malee Group · Export sales tool · v2</p>
 <h1 data-i="title">Distributor Match: who needs Malee, and where</h1>
 <p class="lead" data-i="sub">Push = where Malee's portfolio fits the market (trade data). Pull = which real importers/distributors need what Malee makes (public evidence + buyers who say so). Every company links to its public source.</p></div>
 <div class="lang"><button id="lenBtn" class="on">EN</button> <button id="lthBtn">ไทย</button></div></div>
-<nav><a href="#leads" data-i="nLeads">🔥 Warm leads</a><a href="#markets" data-i="nMarkets">Markets (push)</a><a href="#match" data-i="nMatch">Distributor match (pull)</a><a href="#trip" data-i="nTrip">Trip planner</a><a href="#add" data-i="nAdd">Add a distributor</a><a href="#method" data-i="nMethod">How scoring works</a></nav>
+<nav><a href="#mapSec" data-i="nMap">🗺 Map</a><a href="#leads" data-i="nLeads">🔥 Warm leads</a><a href="#markets" data-i="nMarkets">Markets (push)</a><a href="#match" data-i="nMatch">Distributor match (pull)</a><a href="#trip" data-i="nTrip">Trip planner</a><a href="#add" data-i="nAdd">Add a distributor</a><a href="#method" data-i="nMethod">How scoring works</a></nav>
 </div></header>
 <main class="wrap">
+<section id="mapSec"><h2 data-i="mapH">Map — where the leads and distributors are</h2>
+<p class="lead" data-i="mapL">Country-level only. Bubble = buyer signals + distributors; colour = best worth-the-effort rating there. Click a bubble or a country chip to filter the page.</p>
+<div id="map" class="mapbox" role="region" aria-label="World map of leads and distributors"></div>
+<div class="mlegend" id="mapLegend"></div><div class="mchips" id="mapChips"></div><div id="mapBar"></div></section>
+
 <section id="leads"><h2 data-i="leadsH">🔥 Warm leads — buyers who said they need it</h2>
 <p class="lead" data-i="leadsL">Public posts where importers/distributors ask for products like Malee's, or publicly invite new brand partners. Company-level only; contact through the source platform. Never invented — if a country has few, that's the real count.</p>
 <div class="kpis" id="leadKpis"></div>
 <div class="controls">
-<select id="lw"></select><select id="lr"></select><select id="lc"></select><select id="lt"></select><select id="lp"></select><select id="lf"></select>
+<select id="ls" aria-label="Source type"></select><select id="lw"></select><select id="lr"></select><select id="lc"></select><select id="lt"></select><select id="lp"></select><select id="lf"></select>
 <button class="btn" id="leadCsv" data-i="csv">Export CSV</button></div>
-<div class="tw"><table><thead><tr><th data-i="thDate">Date</th><th data-i="thCountry">Country</th><th data-i="thType">Type</th><th data-i="thSaid">What they said</th><th data-i="thLead">Lead with</th><th data-i="thSrc">Source</th></tr></thead><tbody id="leadRows"></tbody></table></div>
+<div class="tw"><table class="stack"><thead><tr><th data-i="thDate">Date</th><th data-i="thCountry">Country</th><th data-i="thType">Type</th><th data-i="thSaid">What they said</th><th data-i="thLead">Lead with</th><th data-i="thSrc">Source</th></tr></thead><tbody id="leadRows"></tbody></table></div>
 <p class="small muted" id="leadNote"></p><p class="small unk" data-i="tkNote">TradeKey shows buyer names and contacts only to premium members; sales can still reply to any post through the board with a free account. Ratings are AI assessments from the public post — confirm before committing samples or credit.</p>
 </section>
 
@@ -68,7 +86,7 @@ footer{border-top:1px solid var(--line);padding:18px 0 40px;color:var(--muted);f
 
 <section id="match"><h2 data-i="matchH">Distributor match — pull × push</h2>
 <p class="lead" data-i="matchL">Need score is an AI assessment from the listed public evidence only. "Unknown" means the source didn't say — not a no.</p>
-<div class="controls"><select id="mw"></select><select id="mc"></select><select id="mcat"></select><select id="mch"></select><label class="small muted"><input type="checkbox" id="mwarm"> <span data-i="onlyWarm">Only with buyer/partner signal</span></label><button class="btn" id="distCsv" data-i="csv">Export CSV</button></div>
+<div class="controls"><select id="ms" aria-label="Source type"></select><select id="msort" aria-label="Sort"></select><select id="mw"></select><select id="mc"></select><select id="mcat"></select><select id="mch"></select><label class="small muted"><input type="checkbox" id="mwarm"> <span data-i="onlyWarm">Only with buyer/partner signal</span></label><button class="btn" id="distCsv" data-i="csv">Export CSV</button></div>
 <div class="grid" id="distCards"></div></section>
 
 <section id="trip"><h2 data-i="tripH">Trip planner</h2>
@@ -91,4 +109,5 @@ footer{border-top:1px solid var(--line);padding:18px 0 40px;color:var(--muted);f
 <section id="method"><h2 data-i="methH">How scoring works</h2><div class="card" id="methBody"></div></section>
 </main>
 <footer><div class="wrap" id="foot"></div></footer>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script src="app.js"></script></body></html>

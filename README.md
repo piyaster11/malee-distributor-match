@@ -21,3 +21,10 @@ Run these from the repo root:
 6. Optionally run `python3 tools/pull2.py` to refresh the Comtrade data, then commit and push.
 
 GitHub Pages serves this repo from `docs/` on `main`.
+
+
+## v2 additions (map, source types, trade-show / embassy sources)
+- **Map** (Leaflet + OpenStreetMap tiles, no API key): country-level bubbles (buyer signals + distributors, colour = best worth-the-effort rating); click filters leads / match / trip. Positions are country centres (UAE/Saudi nudged apart).
+- **Source types** on every signal and distributor: Buyer board, Company page, Trade show, Embassy-TTC, Directory. Filter in Leads and Match. `kind: route` marks offices/programmes that can match buyers (not buyers).
+- New manual sources live in `tools/build_data.py` (`M2` list and the `X` distributor list, `DST` source types). Add the source URL, date (or `None` if undated), and keep company-level facts only. `tools/qualify.py` rates them (directory/trade-show/embassy evidence is capped at Medium unless the company invites new brands).
+- Refresh: `python3 tools/build_data.py && python3 tools/qualify.py` from the repo root.

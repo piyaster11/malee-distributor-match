@@ -111,10 +111,20 @@ X=[
 ('CN','Sinodis (西诺迪斯)','https://www.sinodis.com/','Foodservice importer',['HoReCa'],dict(j=None,c=False,a=False,d=True),'Imported bakery/dessert/beverage ingredients for China foodservice (fruit purées, dairy).',[]),
 ('CN','Classic Fine Foods China','https://www.classicfinefoods.com/','Fine-food distributor',['HoReCa','Retail'],dict(j=None,c=None,a=False),'Fine-food specialist for hotels/restaurants; chilled capability.',[]),
 ('CN','DKSH China','https://www.dksh.com/cn-en/home','Market expansion services',['Retail'],dict(j=None,c=None,a=None,o=True),'Market-expansion services provider (distribution for principals).',[]),
+('UK','Prompt Thai','https://linkedin.com/company/prompt-thai','Thai/Oriental food importer-wholesaler',['Wholesale','Retail','HoReCa'],dict(j=True,c=None,a=True),'LinkedIn company page: wholesale importer of Thai & Oriental food and drink; lists "Drinks & Beverages" and "Coconut Products"; founded 2000, Peterborough.',[]),
+('AE','EAT Thai Market','https://linkedin.com/company/eatthaimarket','Thai products importer/distributor',['Retail','E-commerce'],dict(j=True,c=None,a=True),'LinkedIn company page: Thai products importer/distributor in the UAE incl. fruit & vegetable juice.',[]),
+('SA','Al Rasheed Trading','http://rasheedfoods.com/products/thai_products/','Oriental foods importer',['Retail','Wholesale'],dict(j=True,c=True,a=True),'Importer of Oriental foods; Thai range includes fruit cocktail and C-Light fruit drinks (pineapple, mixed fruit, orange, lychee, guava, mango) and a Pinoy coconut drink.',['C-Light','Pinoy']),
+('MY','Village Grocer','https://halalexpo.com/events/thaifex-anuga-asia-2026','Retailer (supermarket chain)',['Retail'],dict(j=None,c=None,a=None),'Named as a confirmed 2026 THAIFEX-Anuga Asia hosted buyer (Halal Expo event page). Supermarket chain; no range data read.',[]),
+('SA','Al Madina Group','https://thaifex-anuga.com/hosted-buyer-programme/','Retailer / importer (private-label buyer)',['Retail'],dict(j=None,c=None,a=None,o=True),'THAIFEX hosted-buyer testimonial (year not stated) by its Head of Imports & Private Label: retailers can "develop their private labels, as well as find specific brands or categories".',[]),
+('UK','Surya Foods','https://thaifex-anuga.com/hosted-buyer-programme/','Buyer (business type not stated)',['Wholesale'],dict(j=None,c=None,a=True),'THAIFEX hosted-buyer testimonial (year not stated): "sources from over 50 suppliers at THAIFEX" and has attended 10+ times.',[]),
+('AE','Golden Praxis','https://thaifex-anuga.com/hosted-buyer-programme/','Buyer (business type not stated)',['Retail'],dict(j=None,c=None,a=None),'THAIFEX hosted-buyer testimonial (year not stated), Dubai-based; gathered international business contacts as a hosted buyer.',[]),
+('UK','Ocado Retail (Taste of Thailand shop)','https://www.linkedin.com/posts/thai-trade-london_ocadothai-tasteofthailand-thaikitchenoftheworld-activity-7507699662582145026-d_im','Online retailer',['Retail','E-commerce'],dict(j=True,c=None,a=True),'Taste of Thailand online shop (curry pastes, sauces, rice, snacks, beverages) with Thai brands onboarded via Thai Trade London (DITP).',[]),
 ]
 dist=[]
 for i,(c,n,u,typ,ch,f,ev,br) in enumerate(X):
     dist.append(dict(id=f'd{i+1}',country=c,name=n,url=u,type=typ,channels=ch,f=f,evidence=ev,brands=br))
+DST={'Prompt Thai':['Directory'],'EAT Thai Market':['Directory'],'Al Rasheed Trading':['Company page'],'Village Grocer':['Trade show'],'Al Madina Group':['Trade show'],'Surya Foods':['Trade show'],'Golden Praxis':['Trade show'],'Ocado Retail (Taste of Thailand shop)':['Embassy-TTC']}
+for d in dist: d['st']=DST.get(d['name'],['Company page'])
 # ---------- SIGNALS ----------
 def prods(s):
     s=s.lower();p=[]
@@ -173,13 +183,36 @@ M=[
 ]
 for s,ty,c,co,said,d,u,p in M:
     sig.append(dict(src=s,type=ty,country=c,company=co,said=said,date=d,url=u,prods=p,manual=True))
+
+# ---- THAIFEX / embassy / trade-promotion sources (t392u/t393u): (stype,type,country,company,said,date,url,prods,kind) ----
+M2=[
+('Trade show','other','US','Wismettac Asian Foods','Named as a confirmed 2026 THAIFEX-Anuga Asia hosted buyer (Halal Expo event page, hosted-buyer list).','2026-05-26','https://halalexpo.com/events/thaifex-anuga-asia-2026',['juice'],'buyer'),
+('Trade show','other','MY','DKSH Malaysia','DKSH (group-level) named as a confirmed 2026 THAIFEX-Anuga Asia hosted buyer; the hosted-buyer list does not say which country office.','2026-05-26','https://halalexpo.com/events/thaifex-anuga-asia-2026',['juice'],'buyer'),
+('Trade show','other','MY','Village Grocer','Named as a confirmed 2026 THAIFEX-Anuga Asia hosted buyer (supermarket chain).','2026-05-26','https://halalexpo.com/events/thaifex-anuga-asia-2026',['juice'],'buyer'),
+('Trade show','oem','SA','Al Madina Group','Hosted-buyer testimonial (year not stated): Saudi retailer wants to "develop their private labels" and "find specific brands or categories".',None,'https://thaifex-anuga.com/hosted-buyer-programme/',['oem'],'buyer'),
+('Trade show','other','UK','Surya Foods','Hosted-buyer testimonial (year not stated): UK buyer "sources from over 50 suppliers" at THAIFEX; attended 10+ times.',None,'https://thaifex-anuga.com/hosted-buyer-programme/',['juice'],'buyer'),
+('Trade show','other','AE','Golden Praxis','Hosted-buyer testimonial (year not stated): Dubai-based buyer met international suppliers at THAIFEX.',None,'https://thaifex-anuga.com/hosted-buyer-programme/',['juice'],'buyer'),
+('Embassy-TTC','partner','UK','Ocado Retail (Taste of Thailand shop)','Thai Trade London: Thai products "coming soon" to Ocado Retail\'s Taste of Thailand online shop; range includes beverages. Ask TTC London how to get a Malee line listed. Post is dated only "2 months ago" (about Sep 2026).','2026-09-26','https://www.linkedin.com/posts/thai-trade-london_ocadothai-tasteofthailand-thaikitchenoftheworld-activity-7507699662582145026-d_im',['juice','coco'],'buyer'),
+('Embassy-TTC','other','US','Kroger','Royal Thai Consulate-General New York met Kroger (US Midwest retailer) to discuss Thai imports incl. coconut water. Older than 12 months.','2025-08-28','https://newyork.thaiembassy.org/en/content/discussion-on-thai-imports-with-kroger-a-leading-r',['coco'],'buyer'),
+('Embassy-TTC','other','UK','Thai Trade London (DITP): online business matching','TTC London invites UK importers to online business matching with Thai F&B suppliers (FOODER 2026 programme closed 23 Oct 2026; F&B matching Mar 2026). Route to ask for the registered-buyer list.','2026-10-01','https://www.thaitradelondon.com/online-business-matching-obm-fooder-2026/',['juice'],'route'),
+('Embassy-TTC','other','US','Thai Trade USA (DITP): F&B online business matching','Second DITP US business-matching round for Thai food & beverage (event 176). Route to ask Thai Trade Center for buyer lists.','2026-03-24','https://thaitradeusa.com/events/176',['juice','coco'],'route'),
+('Trade show','other','US','Summer Fancy Food Show 2026 (New York)','Royal Thai Consulate NY / Thai Trade Center visited 13 Thai exporters at Summer Fancy Food 2026 (29 Jun); range incl. coconut water. Importer names not published.','2026-06-29','https://www.mfa.go.th/en/content/newyork-080726-2',['coco'],'route'),
+('Embassy-TTC','other','AE','Gulfood 2026 Thailand Pavilion (Thai Trade Center Dubai)','Thailand Pavilion at Gulfood 2026 (Dubai, Jan 2026) positioned as a key export platform for halal-certified Thai F&B. Route into UAE/GCC importers.','2026-01-27','https://gulfnews.com/business/corporate-news/thailand-showcases-halal-excellence-and-culinary-innovation-at-gulfood-2026-1.500421848',['juice'],'route'),
+('Embassy-TTC','other','SA','Thai Trade Centre Middle East','DITP Thai Trade Centre Middle East LinkedIn page: contact point for Saudi/GCC importer matching. No specific buyer named.',None,'https://linkedin.com/company/thaitradecentre-middleeast',['juice'],'route'),
+('Embassy-TTC','other','PH','Thai Trade Center Manila (DITP)','Manila TTC says it "regularly facilitates business matching" for Philippine importers, "even on demand". Older than 12 months.','2025-10-24','https://www.philstar.com/business/biz-memos/2025/10/24/2481953/thai-trade-center-business-bridge-connecting-filipino-entrepreneurs-enhance-trade-opportunities-thailand',['juice'],'route'),
+]
+for st,ty,c,co,said,d,u,p,kind in M2:
+    sig.append(dict(src={'Trade show':'Trade show','Embassy-TTC':'Embassy / TTC'}[st],type=ty,country=c,company=co,said=said,date=d,url=u,prods=p,manual=True,stype=st,kind=kind))
 # dedupe by url
 seen=set();S=[]
 for s in sig:
-    if s['url'] in seen: continue
-    seen.add(s['url']);S.append(s)
+    k=(s['url'],s['company'] if s.get('stype') in ('Trade show',) else '')
+    if k in seen: continue
+    seen.add(k);S.append(s)
 for i,s in enumerate(S):
     s['id']=f's{i+1}'
+    if 'stype' not in s: s['stype']={'TradeKey':'Buyer board','go4WorldBusiness':'Buyer board','Tradewheel':'Buyer board','Company website':'Company page','LinkedIn':'Company page','ThaiTradeUSA (DITP)':'Embassy-TTC'}[s['src']]
+    s.setdefault('kind','route' if s['src']=='ThaiTradeUSA (DITP)' else 'buyer')
     tx=(s['said']+' '+' '.join(s['prods'])).lower()
     s['fit']=3 if re.search(r'coco|canned|oem|tropical|mango|guava|pineapple|lychee|nectar|tetra|cocktail|asian|thai',tx) else (1 if re.search(r'apple|pomegranate|orange|organic|blueberry',tx) else 2)
     if s['date']:
@@ -194,6 +227,7 @@ for s in S:
         for nm,d in byname.items():
             if k==nm or k in nm or nm in k:
                 d.setdefault('signals',[]).append(s['id']);s['dist']=d['id']
+                if s['stype'] not in d['st']: d['st'].append(s['stype'])
 json.dump(dict(markets=mk,distributors=dist,signals=S,built='2026-11-26'),open('docs/data.json','w'),ensure_ascii=False,indent=0)
 from collections import Counter
 print('dist',Counter(d['country'] for d in dist))

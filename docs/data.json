@@ -388,6 +388,13 @@
 },
 "evidence": "Importer, wholesaler and distributor of Asian food in North America since 1912; site has a \"Partner with us\" call.",
 "brands": [],
+"st": [
+"Company page",
+"Trade show"
+],
+"signals": [
+"s144"
+],
 "q": {
 "rtype": "Wholesaler",
 "rtypeEv": "Importer/wholesaler — per its own site",
@@ -396,9 +403,9 @@
 "20 offices & branches (site)"
 ],
 "role": "Not posted",
-"worth": "Medium",
+"worth": "High",
 "reasons": [
-"Need 45/100 from evidence",
+"Need 55/100 from evidence",
 "Size evidence: Founded 1912 (as Nishimoto Trading)",
 "Publicly invites new brands"
 ],
@@ -423,6 +430,9 @@
 },
 "evidence": "\"Leading distributor of Asian food, beverages & Japanese liquor\"; Japan-led range.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor",
 "rtypeEv": "Distributor — per its own site",
@@ -454,6 +464,9 @@
 },
 "evidence": "Specialty food distributor focused on Asian restaurants; site lists beverages and chilled/frozen.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor (foodservice)",
 "rtypeEv": "Foodservice distributor — per its own site",
@@ -485,6 +498,9 @@
 },
 "evidence": "\"Source. Import. Distribute. If it's Pan-Asian food, we do it.\" 40-year Asian food importer.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Importer / distributor",
 "rtypeEv": "Importer/distributor — per its own site",
@@ -520,6 +536,9 @@
 },
 "evidence": "Asian food importer with coconut products, beverages, dairy and canned categories; sells on Amazon.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Importer / distributor",
 "rtypeEv": "Importer/distributor — per its own site",
@@ -551,6 +570,9 @@
 },
 "evidence": "Natural/organic & specialty distributor, 19 DCs; says it helps \"suppliers expand their reach\".",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor",
 "rtypeEv": "Distributor — per its own site",
@@ -588,6 +610,9 @@
 "brands": [
 "Chaokoh",
 "Foco"
+],
+"st": [
+"Company page"
 ],
 "q": {
 "rtype": "Importer / distributor",
@@ -629,6 +654,9 @@
 "Mogu Mogu",
 "UFC"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Wholesaler",
 "rtypeEv": "Asian beverage wholesaler — per its own site",
@@ -660,6 +688,9 @@
 },
 "evidence": "Wholesale \"Coconut Water & Asian Juices\" range (Southeast Asian focus).",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Wholesaler",
 "rtypeEv": "Importer/wholesaler — per its own site",
@@ -691,6 +722,9 @@
 "evidence": "US sole distributor of Hydro Coco coconut water — a direct competitor tie.",
 "brands": [
 "Hydro Coco"
+],
+"st": [
+"Company page"
 ],
 "q": {
 "rtype": "Distributor",
@@ -725,6 +759,9 @@
 },
 "evidence": "Distributes coconut water, kombucha etc. with refrigerated trucks; \"constantly on the lookout for new and innovative brands\".",
 "brands": [],
+"st": [
+"Company page"
+],
 "signals": [
 "s136"
 ],
@@ -763,6 +800,9 @@
 },
 "evidence": "\"UK's leading Oriental grocer\", 4,500+ products, 4 superstores (Birmingham, Manchester, Croydon, Cricklewood).",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Wholesaler",
 "rtypeEv": "Oriental wholesaler/grocer — per its own site",
@@ -800,6 +840,9 @@
 "Chaokoh",
 "Foco"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor (foodservice)",
 "rtypeEv": "Asian foodservice wholesaler — per its own site",
@@ -832,6 +875,9 @@
 "brands": [
 "Foco"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Importer / distributor",
 "rtypeEv": "Oriental importer/distributor — per its own site",
@@ -862,6 +908,9 @@
 },
 "evidence": "Importer and distributor of Japanese food (Yutaka); cash & carry.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Importer / distributor",
 "rtypeEv": "Importer/distributor — per its own site",
@@ -893,6 +942,9 @@
 },
 "evidence": "Large UK wholesaler serving independent retail and catering.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Wholesaler",
 "rtypeEv": "Cash & carry wholesaler — per its own site",
@@ -923,6 +975,9 @@
 },
 "evidence": "London distributor (founded 2024) of East/Southeast Asian food & beverage to UK retailers.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor",
 "rtypeEv": "Distributor — per its own site",
@@ -960,6 +1015,9 @@
 "brands": [
 "Aroy-D"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Retailer",
 "rtypeEv": "Asian retailer/wholesaler — per its own site",
@@ -994,6 +1052,9 @@
 "brands": [
 "Foco"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Wholesaler",
 "rtypeEv": "Thai/Asian importer-wholesaler — per its own site",
@@ -1026,6 +1087,9 @@
 },
 "evidence": "Asian importer with DCs in Sydney, Melbourne, Brisbane; invites suppliers seeking an Australian distributor.",
 "brands": [],
+"st": [
+"Company page"
+],
 "signals": [
 "s135"
 ],
@@ -1063,6 +1127,9 @@
 },
 "evidence": "Brisbane Thai food wholesaler/importer; offers \"import or create own brand\".",
 "brands": [],
+"st": [
+"Company page"
+],
 "signals": [
 "s142"
 ],
@@ -1098,6 +1165,9 @@
 },
 "evidence": "Imports Thai grocery (Pomelo rice, sauces); sources and private-labels from Thailand for clients.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Wholesaler",
 "rtypeEv": "Thai importer-wholesaler — per its own site",
@@ -1131,6 +1201,9 @@
 "evidence": "\"#1 Asian Food Distributor in Australia\"; carries Aroy-D.",
 "brands": [
 "Aroy-D"
+],
+"st": [
+"Company page"
 ],
 "q": {
 "rtype": "Distributor",
@@ -1166,6 +1239,9 @@
 "brands": [
 "Yeo's"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor",
 "rtypeEv": "Asian food distributor — per its own site",
@@ -1198,6 +1274,9 @@
 },
 "evidence": "National foodservice distributor (beverages, dairy, chilled).",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor (foodservice)",
 "rtypeEv": "Foodservice distributor — per its own site",
@@ -1230,6 +1309,9 @@
 },
 "evidence": "Australia's leading wholesale distributor (food, liquor, hardware).",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Wholesaler",
 "rtypeEv": "Wholesaler (IGA supply) — per its own site",
@@ -1262,6 +1344,9 @@
 },
 "evidence": "FMCG importer representing 25+ global brands from 16 countries; aims to be largest importer by 2028.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Importer / distributor",
 "rtypeEv": "Importer/distributor — per its own site",
@@ -1297,6 +1382,9 @@
 "brands": [
 "F&N"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Importer / distributor",
 "rtypeEv": "Importer/distributor — per its own site",
@@ -1331,6 +1419,9 @@
 "evidence": "Serves 4,200+ foodservice operators; imports brands and helps them enter the Malaysian market; halal mentioned.",
 "brands": [
 "Marigold"
+],
+"st": [
+"Company page"
 ],
 "signals": [
 "s140"
@@ -1373,6 +1464,9 @@
 "brands": [
 "Yeo's"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor",
 "rtypeEv": "Distributor — per its own site",
@@ -1409,6 +1503,9 @@
 "brands": [
 "Rauch"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Importer / distributor",
 "rtypeEv": "Fine-food importer — per its own site",
@@ -1442,14 +1539,21 @@
 },
 "evidence": "Market-expansion services provider (distribution for principals).",
 "brands": [],
+"st": [
+"Company page",
+"Trade show"
+],
+"signals": [
+"s145"
+],
 "q": {
 "rtype": "Distributor (services)",
 "rtypeEv": "Market expansion services — per its own site",
 "size": [],
 "role": "Not posted",
-"worth": "Low",
+"worth": "Medium",
 "reasons": [
-"Need 30/100 from evidence",
+"Need 40/100 from evidence",
 "No public size data found",
 "Publicly invites new brands"
 ],
@@ -1473,6 +1577,9 @@
 "evidence": "Exclusive distributor of Tree Top juices, Lee Kum Kee, Smucker's etc.",
 "brands": [
 "Tree Top"
+],
+"st": [
+"Company page"
 ],
 "q": {
 "rtype": "Importer / distributor",
@@ -1511,6 +1618,9 @@
 "Welch's",
 "Mott's"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Importer / distributor",
 "rtypeEv": "Importer/distributor — per its own site",
@@ -1546,6 +1656,9 @@
 "evidence": "Imports juices (Fontana) and dairy into SM, Robinsons, Waltermart; \"For International Brands: Let's Expand Together\".",
 "brands": [
 "Fontana"
+],
+"st": [
+"Company page"
 ],
 "signals": [
 "s132"
@@ -1585,6 +1698,9 @@
 },
 "evidence": "\"Home to your Asian cravings\"; imports Asian incl. Thai brands for supermarkets.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Importer / distributor",
 "rtypeEv": "Asian food importer — per its own site",
@@ -1618,6 +1734,9 @@
 "brands": [
 "Mogu Mogu"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor",
 "rtypeEv": "Beverage distributor — per its own site",
@@ -1649,6 +1768,9 @@
 },
 "evidence": "Large PH food group with coconut and milk lines (also coconut OEM exporter) — partly a competitor.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor",
 "rtypeEv": "Food manufacturer/distributor — per its own site",
@@ -1684,6 +1806,9 @@
 },
 "evidence": "\"Asian Food Importers in the UAE, Qatar, Saudi Arabia, Bahrain\".",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Importer / distributor",
 "rtypeEv": "Asian food importer — per its own site",
@@ -1716,6 +1841,9 @@
 "evidence": "Distributes Asian instant food & drinks from Korea, Thailand, Japan; carries IF coconut water.",
 "brands": [
 "IF"
+],
+"st": [
+"Company page"
 ],
 "q": {
 "rtype": "Importer / distributor",
@@ -1750,6 +1878,9 @@
 },
 "evidence": "\"Distribute your brand\"; moves beverages & juices to 1,500+ doors in UAE/GCC.",
 "brands": [],
+"st": [
+"Company page"
+],
 "signals": [
 "s137"
 ],
@@ -1791,6 +1922,9 @@
 "brands": [
 "Santé"
 ],
+"st": [
+"Company page"
+],
 "signals": [
 "s138"
 ],
@@ -1825,6 +1959,9 @@
 },
 "evidence": "Beverage trading (Pepsi, Coca-Cola, Red Bull, Perrier, Voss per its brand pages).",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Trader / importer",
 "rtypeEv": "F&B trading — per its own site",
@@ -1856,6 +1993,9 @@
 "brands": [
 "Del Monte"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor",
 "rtypeEv": "FMCG distributor — per its own site",
@@ -1885,6 +2025,9 @@
 },
 "evidence": "Supermarket chain and FMCG distribution across UAE, Bahrain, Kuwait, Qatar, Oman.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Retailer",
 "rtypeEv": "Retailer + FMCG distributor — per its own site",
@@ -1915,6 +2058,9 @@
 },
 "evidence": "Consumer goods + foodservice distribution across UAE, KSA, UK and others.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor (foodservice)",
 "rtypeEv": "FMCG & foodservice distributor — per its own site",
@@ -1948,6 +2094,9 @@
 "evidence": "3 hubs (Riyadh/Jeddah/Dammam); imports Rubicon mango/guava/lychee drinks; \"for international brands entering the Kingdom\".",
 "brands": [
 "Rubicon"
+],
+"st": [
+"Company page"
 ],
 "signals": [
 "s133"
@@ -1986,6 +2135,9 @@
 },
 "evidence": "\"Your route into Saudi Arabia\" — import, SFDA, listing; juices & drinks category.",
 "brands": [],
+"st": [
+"Company page"
+],
 "signals": [
 "s134"
 ],
@@ -2023,6 +2175,9 @@
 },
 "evidence": "400+ products, imports Asian brands (Mama Suka, Hobe); supplies juices to HoReCa; \"Become a supplier\" form.",
 "brands": [],
+"st": [
+"Company page"
+],
 "signals": [
 "s139"
 ],
@@ -2060,6 +2215,9 @@
 },
 "evidence": "Riyadh F&B trader; dairy, juice, coffee; clients incl. Panda, Danube, Othaim, hotels.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Trader / importer",
 "rtypeEv": "F&B trading — per its own site",
@@ -2094,6 +2252,9 @@
 "brands": [
 "Domty"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor",
 "rtypeEv": "Distributor/e-shop — per its own site",
@@ -2125,6 +2286,9 @@
 },
 "evidence": "One of KSA's largest FMCG distributors (since 1881); 55 brands, 1,500 SKUs; food-service network; works with \"Principals\".",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor",
 "rtypeEv": "FMCG distributor — per its own site",
@@ -2159,6 +2323,9 @@
 "brands": [
 "WILDCOCO"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Importer / distributor",
 "rtypeEv": "Importer — per its own site",
@@ -2192,6 +2359,9 @@
 },
 "evidence": "Brand management, import & distribution (Walmart, Metro, Sam's, Tmall, JD); \"exceptional partner to manufacturers\".",
 "brands": [],
+"st": [
+"Company page"
+],
 "signals": [
 "s141"
 ],
@@ -2231,6 +2401,9 @@
 "brands": [
 "MIRAMAR"
 ],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Agent",
 "rtypeEv": "China general agent — per its own site",
@@ -2262,6 +2435,9 @@
 "evidence": "Appointed IF coconut water distributor (Sep 2025), 1M+ points of sale — tied to a direct competitor.",
 "brands": [
 "IF"
+],
+"st": [
+"Company page"
 ],
 "q": {
 "rtype": "Distributor",
@@ -2297,6 +2473,9 @@
 },
 "evidence": "Imported bakery/dessert/beverage ingredients for China foodservice (fruit purées, dairy).",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor (foodservice)",
 "rtypeEv": "Foodservice importer — per its own site",
@@ -2327,6 +2506,9 @@
 },
 "evidence": "Fine-food specialist for hotels/restaurants; chilled capability.",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor",
 "rtypeEv": "Fine-food distributor — per its own site",
@@ -2357,6 +2539,9 @@
 },
 "evidence": "Market-expansion services provider (distribution for principals).",
 "brands": [],
+"st": [
+"Company page"
+],
 "q": {
 "rtype": "Distributor (services)",
 "rtypeEv": "Market expansion services — per its own site",
@@ -2367,6 +2552,299 @@
 "Need 25/100 from evidence",
 "No public size data found",
 "Publicly invites new brands"
+],
+"flags": []
+}
+},
+{
+"id": "d60",
+"country": "UK",
+"name": "Prompt Thai",
+"url": "https://linkedin.com/company/prompt-thai",
+"type": "Thai/Oriental food importer-wholesaler",
+"channels": [
+"Wholesale",
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": null,
+"a": true
+},
+"evidence": "LinkedIn company page: wholesale importer of Thai & Oriental food and drink; lists \"Drinks & Beverages\" and \"Coconut Products\"; founded 2000, Peterborough.",
+"brands": [],
+"st": [
+"Directory"
+],
+"q": {
+"rtype": "Wholesaler",
+"rtypeEv": "Thai/Oriental food importer-wholesaler — per its own site",
+"size": [
+"Founded 2000 (LinkedIn)"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 55/100 from evidence",
+"Size evidence: Founded 2000 (LinkedIn)",
+"Capped at Medium: evidence is from a directory/trade-show/embassy post, not its own site"
+],
+"flags": []
+}
+},
+{
+"id": "d61",
+"country": "AE",
+"name": "EAT Thai Market",
+"url": "https://linkedin.com/company/eatthaimarket",
+"type": "Thai products importer/distributor",
+"channels": [
+"Retail",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": null,
+"a": true
+},
+"evidence": "LinkedIn company page: Thai products importer/distributor in the UAE incl. fruit & vegetable juice.",
+"brands": [],
+"st": [
+"Directory"
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Thai products importer/distributor — per its own site",
+"size": [
+"2 employees (LinkedIn)"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Need 50/100 from evidence",
+"Size evidence: 2 employees (LinkedIn)"
+],
+"flags": [
+"Very small team (2 on LinkedIn)"
+]
+}
+},
+{
+"id": "d62",
+"country": "SA",
+"name": "Al Rasheed Trading",
+"url": "http://rasheedfoods.com/products/thai_products/",
+"type": "Oriental foods importer",
+"channels": [
+"Retail",
+"Wholesale"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true
+},
+"evidence": "Importer of Oriental foods; Thai range includes fruit cocktail and C-Light fruit drinks (pineapple, mixed fruit, orange, lychee, guava, mango) and a Pinoy coconut drink.",
+"brands": [
+"C-Light",
+"Pinoy"
+],
+"st": [
+"Company page"
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Oriental foods importer — per its own site",
+"size": [
+"Oriental-foods importer; Thai range listed (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 58/100 from evidence",
+"Size evidence: Oriental-foods importer; Thai range listed (site)"
+],
+"flags": []
+}
+},
+{
+"id": "d63",
+"country": "MY",
+"name": "Village Grocer",
+"url": "https://halalexpo.com/events/thaifex-anuga-asia-2026",
+"type": "Retailer (supermarket chain)",
+"channels": [
+"Retail"
+],
+"f": {
+"j": null,
+"c": null,
+"a": null
+},
+"evidence": "Named as a confirmed 2026 THAIFEX-Anuga Asia hosted buyer (Halal Expo event page). Supermarket chain; no range data read.",
+"brands": [],
+"st": [
+"Trade show"
+],
+"signals": [
+"s146"
+],
+"q": {
+"rtype": "Retailer",
+"rtypeEv": "Retailer (supermarket chain) — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 15/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
+},
+{
+"id": "d64",
+"country": "SA",
+"name": "Al Madina Group",
+"url": "https://thaifex-anuga.com/hosted-buyer-programme/",
+"type": "Retailer / importer (private-label buyer)",
+"channels": [
+"Retail"
+],
+"f": {
+"j": null,
+"c": null,
+"a": null,
+"o": true
+},
+"evidence": "THAIFEX hosted-buyer testimonial (year not stated) by its Head of Imports & Private Label: retailers can \"develop their private labels, as well as find specific brands or categories\".",
+"brands": [],
+"st": [
+"Trade show"
+],
+"signals": [
+"s147"
+],
+"q": {
+"rtype": "Retailer",
+"rtypeEv": "Retailer / importer (private-label buyer) — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 35/100 from evidence",
+"No public size data found",
+"Publicly invites new brands"
+],
+"flags": []
+}
+},
+{
+"id": "d65",
+"country": "UK",
+"name": "Surya Foods",
+"url": "https://thaifex-anuga.com/hosted-buyer-programme/",
+"type": "Buyer (business type not stated)",
+"channels": [
+"Wholesale"
+],
+"f": {
+"j": null,
+"c": null,
+"a": true
+},
+"evidence": "THAIFEX hosted-buyer testimonial (year not stated): \"sources from over 50 suppliers at THAIFEX\" and has attended 10+ times.",
+"brands": [],
+"st": [
+"Trade show"
+],
+"signals": [
+"s148"
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Buyer (business type not stated) — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 30/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
+},
+{
+"id": "d66",
+"country": "AE",
+"name": "Golden Praxis",
+"url": "https://thaifex-anuga.com/hosted-buyer-programme/",
+"type": "Buyer (business type not stated)",
+"channels": [
+"Retail"
+],
+"f": {
+"j": null,
+"c": null,
+"a": null
+},
+"evidence": "THAIFEX hosted-buyer testimonial (year not stated), Dubai-based; gathered international business contacts as a hosted buyer.",
+"brands": [],
+"st": [
+"Trade show"
+],
+"signals": [
+"s149"
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Buyer (business type not stated) — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 15/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
+},
+{
+"id": "d67",
+"country": "UK",
+"name": "Ocado Retail (Taste of Thailand shop)",
+"url": "https://www.linkedin.com/posts/thai-trade-london_ocadothai-tasteofthailand-thaikitchenoftheworld-activity-7507699662582145026-d_im",
+"type": "Online retailer",
+"channels": [
+"Retail",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": null,
+"a": true
+},
+"evidence": "Taste of Thailand online shop (curry pastes, sauces, rice, snacks, beverages) with Thai brands onboarded via Thai Trade London (DITP).",
+"brands": [],
+"st": [
+"Embassy-TTC"
+],
+"signals": [
+"s150"
+],
+"q": {
+"rtype": "Retailer",
+"rtypeEv": "Online retailer — per its own site",
+"size": [
+"Online grocer; dedicated Taste of Thailand shop (Thai Trade London post)"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 60/100 from evidence",
+"Size evidence: Online grocer; dedicated Taste of Thailand shop (Thai Trade London post)",
+"Capped at Medium: evidence is from a directory/trade-show/embassy post, not its own site"
 ],
 "flags": []
 }
@@ -2385,6 +2863,8 @@
 "juice"
 ],
 "id": "s1",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 8,
 "fresh": "fresh",
@@ -2421,6 +2901,8 @@
 "juice"
 ],
 "id": "s2",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 14,
 "fresh": "fresh",
@@ -2458,6 +2940,8 @@
 "coco"
 ],
 "id": "s3",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 16,
 "fresh": "fresh",
@@ -2494,6 +2978,8 @@
 "juice"
 ],
 "id": "s4",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 17,
 "fresh": "fresh",
@@ -2529,6 +3015,8 @@
 "canned"
 ],
 "id": "s5",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 17,
 "fresh": "fresh",
@@ -2562,6 +3050,8 @@
 "juice"
 ],
 "id": "s6",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 18,
 "fresh": "fresh",
@@ -2598,6 +3088,8 @@
 "juice"
 ],
 "id": "s7",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 20,
 "fresh": "fresh",
@@ -2636,6 +3128,8 @@
 "juice"
 ],
 "id": "s8",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 20,
 "fresh": "fresh",
@@ -2671,6 +3165,8 @@
 "juice"
 ],
 "id": "s9",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 20,
 "fresh": "fresh",
@@ -2704,6 +3200,8 @@
 "juice"
 ],
 "id": "s10",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 22,
 "fresh": "fresh",
@@ -2738,6 +3236,8 @@
 "canned"
 ],
 "id": "s11",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 26,
 "fresh": "fresh",
@@ -2771,6 +3271,8 @@
 "juice"
 ],
 "id": "s12",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 26,
 "fresh": "fresh",
@@ -2805,6 +3307,8 @@
 "juice"
 ],
 "id": "s13",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 27,
 "fresh": "fresh",
@@ -2840,6 +3344,8 @@
 "coco"
 ],
 "id": "s14",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 29,
 "fresh": "fresh",
@@ -2874,6 +3380,8 @@
 "oem"
 ],
 "id": "s15",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 32,
 "fresh": "fresh",
@@ -2910,6 +3418,8 @@
 "juice"
 ],
 "id": "s16",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 33,
 "fresh": "fresh",
@@ -2943,6 +3453,8 @@
 "juice"
 ],
 "id": "s17",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 33,
 "fresh": "fresh",
@@ -2979,6 +3491,8 @@
 "juice"
 ],
 "id": "s18",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 35,
 "fresh": "fresh",
@@ -3012,6 +3526,8 @@
 "juice"
 ],
 "id": "s19",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 36,
 "fresh": "fresh",
@@ -3048,6 +3564,8 @@
 "canned"
 ],
 "id": "s20",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 36,
 "fresh": "fresh",
@@ -3083,6 +3601,8 @@
 "juice"
 ],
 "id": "s21",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 36,
 "fresh": "fresh",
@@ -3119,6 +3639,8 @@
 "juice"
 ],
 "id": "s22",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 38,
 "fresh": "fresh",
@@ -3155,6 +3677,8 @@
 "juice"
 ],
 "id": "s23",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 40,
 "fresh": "fresh",
@@ -3190,6 +3714,8 @@
 "coco"
 ],
 "id": "s24",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 42,
 "fresh": "fresh",
@@ -3226,6 +3752,8 @@
 "juice"
 ],
 "id": "s25",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 44,
 "fresh": "fresh",
@@ -3266,6 +3794,8 @@
 "canned"
 ],
 "id": "s26",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 46,
 "fresh": "fresh",
@@ -3304,6 +3834,8 @@
 "juice"
 ],
 "id": "s27",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 46,
 "fresh": "fresh",
@@ -3340,6 +3872,8 @@
 "juice"
 ],
 "id": "s28",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 46,
 "fresh": "fresh",
@@ -3376,6 +3910,8 @@
 "juice"
 ],
 "id": "s29",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 1,
 "age": 47,
 "fresh": "fresh",
@@ -3411,6 +3947,8 @@
 "juice"
 ],
 "id": "s30",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 47,
 "fresh": "fresh",
@@ -3444,6 +3982,8 @@
 "juice"
 ],
 "id": "s31",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 47,
 "fresh": "fresh",
@@ -3481,6 +4021,8 @@
 "juice"
 ],
 "id": "s32",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 47,
 "fresh": "fresh",
@@ -3520,6 +4062,8 @@
 "canned"
 ],
 "id": "s33",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 49,
 "fresh": "fresh",
@@ -3559,6 +4103,8 @@
 "juice"
 ],
 "id": "s34",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 50,
 "fresh": "fresh",
@@ -3599,6 +4145,8 @@
 "juice"
 ],
 "id": "s35",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 52,
 "fresh": "fresh",
@@ -3636,6 +4184,8 @@
 "juice"
 ],
 "id": "s36",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 53,
 "fresh": "fresh",
@@ -3673,6 +4223,8 @@
 "juice"
 ],
 "id": "s37",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 53,
 "fresh": "fresh",
@@ -3709,6 +4261,8 @@
 "juice"
 ],
 "id": "s38",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 54,
 "fresh": "fresh",
@@ -3745,6 +4299,8 @@
 "juice"
 ],
 "id": "s39",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 60,
 "fresh": "fresh",
@@ -3785,6 +4341,8 @@
 "juice"
 ],
 "id": "s40",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 61,
 "fresh": "fresh",
@@ -3821,6 +4379,8 @@
 "juice"
 ],
 "id": "s41",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 63,
 "fresh": "fresh",
@@ -3857,6 +4417,8 @@
 "juice"
 ],
 "id": "s42",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 64,
 "fresh": "fresh",
@@ -3891,6 +4453,8 @@
 "juice"
 ],
 "id": "s43",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 65,
 "fresh": "fresh",
@@ -3931,6 +4495,8 @@
 "juice"
 ],
 "id": "s44",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 67,
 "fresh": "fresh",
@@ -3967,6 +4533,8 @@
 "juice"
 ],
 "id": "s45",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 68,
 "fresh": "fresh",
@@ -4002,6 +4570,8 @@
 "coco"
 ],
 "id": "s46",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 69,
 "fresh": "fresh",
@@ -4038,6 +4608,8 @@
 "juice"
 ],
 "id": "s47",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 72,
 "fresh": "fresh",
@@ -4077,6 +4649,8 @@
 "juice"
 ],
 "id": "s48",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 72,
 "fresh": "fresh",
@@ -4110,6 +4684,8 @@
 "juice"
 ],
 "id": "s49",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 72,
 "fresh": "fresh",
@@ -4145,6 +4721,8 @@
 "juice"
 ],
 "id": "s50",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 73,
 "fresh": "fresh",
@@ -4178,6 +4756,8 @@
 "juice"
 ],
 "id": "s51",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 74,
 "fresh": "fresh",
@@ -4216,6 +4796,8 @@
 "juice"
 ],
 "id": "s52",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 74,
 "fresh": "fresh",
@@ -4254,6 +4836,8 @@
 "juice"
 ],
 "id": "s53",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 76,
 "fresh": "fresh",
@@ -4289,6 +4873,8 @@
 "coco"
 ],
 "id": "s54",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 77,
 "fresh": "fresh",
@@ -4323,6 +4909,8 @@
 "canned"
 ],
 "id": "s55",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 77,
 "fresh": "fresh",
@@ -4361,6 +4949,8 @@
 "juice"
 ],
 "id": "s56",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 79,
 "fresh": "fresh",
@@ -4398,6 +4988,8 @@
 "juice"
 ],
 "id": "s57",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 80,
 "fresh": "fresh",
@@ -4431,6 +5023,8 @@
 "juice"
 ],
 "id": "s58",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 80,
 "fresh": "fresh",
@@ -4464,6 +5058,8 @@
 "juice"
 ],
 "id": "s59",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 80,
 "fresh": "fresh",
@@ -4497,6 +5093,8 @@
 "juice"
 ],
 "id": "s60",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 88,
 "fresh": "fresh",
@@ -4534,6 +5132,8 @@
 "juice"
 ],
 "id": "s61",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 88,
 "fresh": "fresh",
@@ -4569,6 +5169,8 @@
 "juice"
 ],
 "id": "s62",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 90,
 "fresh": "fresh",
@@ -4604,6 +5206,8 @@
 "juice"
 ],
 "id": "s63",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 91,
 "fresh": "recent",
@@ -4643,6 +5247,8 @@
 "juice"
 ],
 "id": "s64",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 91,
 "fresh": "recent",
@@ -4681,6 +5287,8 @@
 "juice"
 ],
 "id": "s65",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 92,
 "fresh": "recent",
@@ -4718,6 +5326,8 @@
 "canned"
 ],
 "id": "s66",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 92,
 "fresh": "recent",
@@ -4753,6 +5363,8 @@
 "coco"
 ],
 "id": "s67",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 94,
 "fresh": "recent",
@@ -4786,6 +5398,8 @@
 "coco"
 ],
 "id": "s68",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 94,
 "fresh": "recent",
@@ -4823,6 +5437,8 @@
 "juice"
 ],
 "id": "s69",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 94,
 "fresh": "recent",
@@ -4856,6 +5472,8 @@
 "coco"
 ],
 "id": "s70",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 97,
 "fresh": "recent",
@@ -4892,6 +5510,8 @@
 "juice"
 ],
 "id": "s71",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 98,
 "fresh": "recent",
@@ -4926,6 +5546,8 @@
 "juice"
 ],
 "id": "s72",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 101,
 "fresh": "recent",
@@ -4961,6 +5583,8 @@
 "juice"
 ],
 "id": "s73",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 104,
 "fresh": "recent",
@@ -5000,6 +5624,8 @@
 "canned"
 ],
 "id": "s74",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 105,
 "fresh": "recent",
@@ -5038,6 +5664,8 @@
 "juice"
 ],
 "id": "s75",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 109,
 "fresh": "recent",
@@ -5074,6 +5702,8 @@
 "juice"
 ],
 "id": "s76",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 1,
 "age": 110,
 "fresh": "recent",
@@ -5112,6 +5742,8 @@
 "juice"
 ],
 "id": "s77",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 113,
 "fresh": "recent",
@@ -5148,6 +5780,8 @@
 "juice"
 ],
 "id": "s78",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 114,
 "fresh": "recent",
@@ -5183,6 +5817,8 @@
 "juice"
 ],
 "id": "s79",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 116,
 "fresh": "recent",
@@ -5217,6 +5853,8 @@
 "juice"
 ],
 "id": "s80",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 117,
 "fresh": "recent",
@@ -5251,6 +5889,8 @@
 "juice"
 ],
 "id": "s81",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 125,
 "fresh": "recent",
@@ -5289,6 +5929,8 @@
 "juice"
 ],
 "id": "s82",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 129,
 "fresh": "recent",
@@ -5322,6 +5964,8 @@
 "juice"
 ],
 "id": "s83",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 1,
 "age": 7,
 "fresh": "fresh",
@@ -5362,6 +6006,8 @@
 "juice"
 ],
 "id": "s84",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 7,
 "fresh": "fresh",
@@ -5400,6 +6046,8 @@
 "juice"
 ],
 "id": "s85",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 1,
 "age": 24,
 "fresh": "fresh",
@@ -5438,6 +6086,8 @@
 "juice"
 ],
 "id": "s86",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 29,
 "fresh": "fresh",
@@ -5476,6 +6126,8 @@
 "juice"
 ],
 "id": "s87",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 31,
 "fresh": "fresh",
@@ -5514,6 +6166,8 @@
 "juice"
 ],
 "id": "s88",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 35,
 "fresh": "fresh",
@@ -5552,6 +6206,8 @@
 "juice"
 ],
 "id": "s89",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 42,
 "fresh": "fresh",
@@ -5590,6 +6246,8 @@
 "juice"
 ],
 "id": "s90",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 43,
 "fresh": "fresh",
@@ -5628,6 +6286,8 @@
 "juice"
 ],
 "id": "s91",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 48,
 "fresh": "fresh",
@@ -5666,6 +6326,8 @@
 "juice"
 ],
 "id": "s92",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 51,
 "fresh": "fresh",
@@ -5704,6 +6366,8 @@
 "juice"
 ],
 "id": "s93",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 56,
 "fresh": "fresh",
@@ -5742,6 +6406,8 @@
 "juice"
 ],
 "id": "s94",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 58,
 "fresh": "fresh",
@@ -5780,6 +6446,8 @@
 "juice"
 ],
 "id": "s95",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 59,
 "fresh": "fresh",
@@ -5818,6 +6486,8 @@
 "juice"
 ],
 "id": "s96",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 63,
 "fresh": "fresh",
@@ -5856,6 +6526,8 @@
 "juice"
 ],
 "id": "s97",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 1,
 "age": 64,
 "fresh": "fresh",
@@ -5894,6 +6566,8 @@
 "juice"
 ],
 "id": "s98",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 65,
 "fresh": "fresh",
@@ -5932,6 +6606,8 @@
 "juice"
 ],
 "id": "s99",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 65,
 "fresh": "fresh",
@@ -5970,6 +6646,8 @@
 "juice"
 ],
 "id": "s100",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 65,
 "fresh": "fresh",
@@ -6008,6 +6686,8 @@
 "juice"
 ],
 "id": "s101",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 69,
 "fresh": "fresh",
@@ -6046,6 +6726,8 @@
 "coco"
 ],
 "id": "s102",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 69,
 "fresh": "fresh",
@@ -6086,6 +6768,8 @@
 "juice"
 ],
 "id": "s103",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 1,
 "age": 71,
 "fresh": "fresh",
@@ -6124,6 +6808,8 @@
 "juice"
 ],
 "id": "s104",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 76,
 "fresh": "fresh",
@@ -6162,6 +6848,8 @@
 "juice"
 ],
 "id": "s105",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 78,
 "fresh": "fresh",
@@ -6200,6 +6888,8 @@
 "juice"
 ],
 "id": "s106",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 79,
 "fresh": "fresh",
@@ -6238,6 +6928,8 @@
 "juice"
 ],
 "id": "s107",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 79,
 "fresh": "fresh",
@@ -6276,6 +6968,8 @@
 "canned"
 ],
 "id": "s108",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 79,
 "fresh": "fresh",
@@ -6316,6 +7010,8 @@
 "juice"
 ],
 "id": "s109",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 84,
 "fresh": "fresh",
@@ -6354,6 +7050,8 @@
 "juice"
 ],
 "id": "s110",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 94,
 "fresh": "recent",
@@ -6392,6 +7090,8 @@
 "juice"
 ],
 "id": "s111",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 104,
 "fresh": "recent",
@@ -6430,6 +7130,8 @@
 "juice"
 ],
 "id": "s112",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 105,
 "fresh": "recent",
@@ -6468,6 +7170,8 @@
 "juice"
 ],
 "id": "s113",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 108,
 "fresh": "recent",
@@ -6506,6 +7210,8 @@
 "juice"
 ],
 "id": "s114",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 126,
 "fresh": "recent",
@@ -6545,6 +7251,8 @@
 "canned"
 ],
 "id": "s115",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 128,
 "fresh": "recent",
@@ -6584,6 +7292,8 @@
 "canned"
 ],
 "id": "s116",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 141,
 "fresh": "recent",
@@ -6623,6 +7333,8 @@
 "juice"
 ],
 "id": "s117",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 146,
 "fresh": "recent",
@@ -6662,6 +7374,8 @@
 "canned"
 ],
 "id": "s118",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 150,
 "fresh": "recent",
@@ -6700,6 +7414,8 @@
 "juice"
 ],
 "id": "s119",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 154,
 "fresh": "recent",
@@ -6739,6 +7455,8 @@
 "canned"
 ],
 "id": "s120",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 154,
 "fresh": "recent",
@@ -6779,6 +7497,8 @@
 "juice"
 ],
 "id": "s121",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 160,
 "fresh": "recent",
@@ -6817,6 +7537,8 @@
 "juice"
 ],
 "id": "s122",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 161,
 "fresh": "recent",
@@ -6855,6 +7577,8 @@
 "juice"
 ],
 "id": "s123",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 2,
 "age": 161,
 "fresh": "recent",
@@ -6895,6 +7619,8 @@
 "dairy"
 ],
 "id": "s124",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 168,
 "fresh": "recent",
@@ -6933,6 +7659,8 @@
 "juice"
 ],
 "id": "s125",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 176,
 "fresh": "recent",
@@ -6973,6 +7701,8 @@
 ],
 "manual": true,
 "id": "s126",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 109,
 "fresh": "recent",
@@ -7011,6 +7741,8 @@
 ],
 "manual": true,
 "id": "s127",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 20,
 "fresh": "fresh",
@@ -7049,6 +7781,8 @@
 ],
 "manual": true,
 "id": "s128",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 77,
 "fresh": "fresh",
@@ -7086,6 +7820,8 @@
 ],
 "manual": true,
 "id": "s129",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 18,
 "fresh": "fresh",
@@ -7122,6 +7858,8 @@
 ],
 "manual": true,
 "id": "s130",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 8,
 "fresh": "fresh",
@@ -7160,6 +7898,8 @@
 ],
 "manual": true,
 "id": "s131",
+"stype": "Buyer board",
+"kind": "buyer",
 "fit": 3,
 "age": 265,
 "fresh": "recent",
@@ -7199,6 +7939,8 @@
 ],
 "manual": true,
 "id": "s132",
+"stype": "Company page",
+"kind": "buyer",
 "fit": 3,
 "age": null,
 "fresh": "standing",
@@ -7234,6 +7976,8 @@
 ],
 "manual": true,
 "id": "s133",
+"stype": "Company page",
+"kind": "buyer",
 "fit": 3,
 "age": null,
 "fresh": "standing",
@@ -7269,6 +8013,8 @@
 ],
 "manual": true,
 "id": "s134",
+"stype": "Company page",
+"kind": "buyer",
 "fit": 3,
 "age": null,
 "fresh": "standing",
@@ -7305,6 +8051,8 @@
 ],
 "manual": true,
 "id": "s135",
+"stype": "Company page",
+"kind": "buyer",
 "fit": 3,
 "age": null,
 "fresh": "standing",
@@ -7340,6 +8088,8 @@
 ],
 "manual": true,
 "id": "s136",
+"stype": "Company page",
+"kind": "buyer",
 "fit": 3,
 "age": null,
 "fresh": "standing",
@@ -7375,6 +8125,8 @@
 ],
 "manual": true,
 "id": "s137",
+"stype": "Company page",
+"kind": "buyer",
 "fit": 2,
 "age": null,
 "fresh": "standing",
@@ -7409,6 +8161,8 @@
 ],
 "manual": true,
 "id": "s138",
+"stype": "Company page",
+"kind": "buyer",
 "fit": 2,
 "age": null,
 "fresh": "standing",
@@ -7441,6 +8195,8 @@
 ],
 "manual": true,
 "id": "s139",
+"stype": "Company page",
+"kind": "buyer",
 "fit": 2,
 "age": null,
 "fresh": "standing",
@@ -7476,6 +8232,8 @@
 ],
 "manual": true,
 "id": "s140",
+"stype": "Company page",
+"kind": "buyer",
 "fit": 2,
 "age": null,
 "fresh": "standing",
@@ -7511,6 +8269,8 @@
 ],
 "manual": true,
 "id": "s141",
+"stype": "Company page",
+"kind": "buyer",
 "fit": 3,
 "age": null,
 "fresh": "standing",
@@ -7548,6 +8308,8 @@
 ],
 "manual": true,
 "id": "s142",
+"stype": "Company page",
+"kind": "buyer",
 "fit": 3,
 "age": null,
 "fresh": "standing",
@@ -7581,6 +8343,8 @@
 ],
 "manual": true,
 "id": "s143",
+"stype": "Embassy-TTC",
+"kind": "route",
 "fit": 3,
 "age": 212,
 "fresh": "recent",
@@ -7598,6 +8362,490 @@
 ],
 "flags": [],
 "detail": ""
+}
+},
+{
+"src": "Trade show",
+"type": "other",
+"country": "US",
+"company": "Wismettac Asian Foods",
+"said": "Named as a confirmed 2026 THAIFEX-Anuga Asia hosted buyer (Halal Expo event page, hosted-buyer list).",
+"date": "2026-05-26",
+"url": "https://halalexpo.com/events/thaifex-anuga-asia-2026",
+"prods": [
+"juice"
+],
+"manual": true,
+"stype": "Trade show",
+"kind": "buyer",
+"id": "s144",
+"fit": 3,
+"age": 184,
+"fresh": "recent",
+"dist": "d1",
+"q": {
+"rtype": "Wholesaler",
+"rtypeEv": "Importer/wholesaler — per its own site",
+"size": [
+"Founded 1912 (as Nishimoto Trading)",
+"20 offices & branches (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 55/100 from evidence",
+"Size evidence: Founded 1912 (as Nishimoto Trading)",
+"Publicly invites new brands",
+"Named hosted buyer at THAIFEX 2026 (26-30 May)"
+],
+"flags": []
+}
+},
+{
+"src": "Trade show",
+"type": "other",
+"country": "MY",
+"company": "DKSH Malaysia",
+"said": "DKSH (group-level) named as a confirmed 2026 THAIFEX-Anuga Asia hosted buyer; the hosted-buyer list does not say which country office.",
+"date": "2026-05-26",
+"url": "https://halalexpo.com/events/thaifex-anuga-asia-2026",
+"prods": [
+"juice"
+],
+"manual": true,
+"stype": "Trade show",
+"kind": "buyer",
+"id": "s145",
+"fit": 3,
+"age": 184,
+"fresh": "recent",
+"dist": "d32",
+"q": {
+"rtype": "Distributor (services)",
+"rtypeEv": "Market expansion services — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 40/100 from evidence",
+"No public size data found",
+"Publicly invites new brands",
+"Named hosted buyer at THAIFEX 2026 (26-30 May)"
+],
+"flags": []
+}
+},
+{
+"src": "Trade show",
+"type": "other",
+"country": "MY",
+"company": "Village Grocer",
+"said": "Named as a confirmed 2026 THAIFEX-Anuga Asia hosted buyer (supermarket chain).",
+"date": "2026-05-26",
+"url": "https://halalexpo.com/events/thaifex-anuga-asia-2026",
+"prods": [
+"juice"
+],
+"manual": true,
+"stype": "Trade show",
+"kind": "buyer",
+"id": "s146",
+"fit": 3,
+"age": 184,
+"fresh": "recent",
+"dist": "d63",
+"q": {
+"rtype": "Retailer",
+"rtypeEv": "Retailer (supermarket chain) — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 15/100 from evidence",
+"No public size data found",
+"Named hosted buyer at THAIFEX 2026 (26-30 May)"
+],
+"flags": []
+}
+},
+{
+"src": "Trade show",
+"type": "oem",
+"country": "SA",
+"company": "Al Madina Group",
+"said": "Hosted-buyer testimonial (year not stated): Saudi retailer wants to \"develop their private labels\" and \"find specific brands or categories\".",
+"date": null,
+"url": "https://thaifex-anuga.com/hosted-buyer-programme/",
+"prods": [
+"oem"
+],
+"manual": true,
+"stype": "Trade show",
+"kind": "buyer",
+"id": "s147",
+"fit": 3,
+"age": null,
+"fresh": "standing",
+"dist": "d64",
+"q": {
+"rtype": "Retailer",
+"rtypeEv": "Retailer / importer (private-label buyer) — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 35/100 from evidence",
+"No public size data found",
+"Publicly invites new brands",
+"Hosted-buyer testimonial; year not stated"
+],
+"flags": [
+"Year of statement not stated"
+]
+}
+},
+{
+"src": "Trade show",
+"type": "other",
+"country": "UK",
+"company": "Surya Foods",
+"said": "Hosted-buyer testimonial (year not stated): UK buyer \"sources from over 50 suppliers\" at THAIFEX; attended 10+ times.",
+"date": null,
+"url": "https://thaifex-anuga.com/hosted-buyer-programme/",
+"prods": [
+"juice"
+],
+"manual": true,
+"stype": "Trade show",
+"kind": "buyer",
+"id": "s148",
+"fit": 3,
+"age": null,
+"fresh": "standing",
+"dist": "d65",
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Buyer (business type not stated) — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 30/100 from evidence",
+"No public size data found",
+"Hosted-buyer testimonial; year not stated"
+],
+"flags": [
+"Year of statement not stated"
+]
+}
+},
+{
+"src": "Trade show",
+"type": "other",
+"country": "AE",
+"company": "Golden Praxis",
+"said": "Hosted-buyer testimonial (year not stated): Dubai-based buyer met international suppliers at THAIFEX.",
+"date": null,
+"url": "https://thaifex-anuga.com/hosted-buyer-programme/",
+"prods": [
+"juice"
+],
+"manual": true,
+"stype": "Trade show",
+"kind": "buyer",
+"id": "s149",
+"fit": 3,
+"age": null,
+"fresh": "standing",
+"dist": "d66",
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Buyer (business type not stated) — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 15/100 from evidence",
+"No public size data found",
+"Hosted-buyer testimonial; year not stated"
+],
+"flags": [
+"Year of statement not stated"
+]
+}
+},
+{
+"src": "Embassy / TTC",
+"type": "partner",
+"country": "UK",
+"company": "Ocado Retail (Taste of Thailand shop)",
+"said": "Thai Trade London: Thai products \"coming soon\" to Ocado Retail's Taste of Thailand online shop; range includes beverages. Ask TTC London how to get a Malee line listed. Post is dated only \"2 months ago\" (about Sep 2026).",
+"date": "2026-09-26",
+"url": "https://www.linkedin.com/posts/thai-trade-london_ocadothai-tasteofthailand-thaikitchenoftheworld-activity-7507699662582145026-d_im",
+"prods": [
+"juice",
+"coco"
+],
+"manual": true,
+"stype": "Embassy-TTC",
+"kind": "buyer",
+"id": "s150",
+"fit": 3,
+"age": 61,
+"fresh": "fresh",
+"dist": "d67",
+"q": {
+"rtype": "Retailer",
+"rtypeEv": "Online retailer — per its own site",
+"size": [
+"Online grocer; dedicated Taste of Thailand shop (Thai Trade London post)"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 60/100 from evidence",
+"Size evidence: Online grocer; dedicated Taste of Thailand shop (Thai Trade London post)",
+"Capped at Medium: evidence is from a directory/trade-show/embassy post, not its own site",
+"Retailer onboarding Thai products via TTC London"
+],
+"flags": []
+}
+},
+{
+"src": "Embassy / TTC",
+"type": "other",
+"country": "US",
+"company": "Kroger",
+"said": "Royal Thai Consulate-General New York met Kroger (US Midwest retailer) to discuss Thai imports incl. coconut water. Older than 12 months.",
+"date": "2025-08-28",
+"url": "https://newyork.thaiembassy.org/en/content/discussion-on-thai-imports-with-kroger-a-leading-r",
+"prods": [
+"coco"
+],
+"manual": true,
+"stype": "Embassy-TTC",
+"kind": "buyer",
+"id": "s151",
+"fit": 3,
+"age": 455,
+"fresh": "stale",
+"q": {
+"rtype": "Retailer",
+"rtypeEv": "Retailer named by Thai consulate",
+"size": [
+"US Midwest retail chain (consulate page)"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Asked about Thai imports incl. coconut water",
+"Older than 12 months — confirm still relevant"
+],
+"flags": [
+"Older than 12 months"
+]
+}
+},
+{
+"src": "Embassy / TTC",
+"type": "other",
+"country": "UK",
+"company": "Thai Trade London (DITP): online business matching",
+"said": "TTC London invites UK importers to online business matching with Thai F&B suppliers (FOODER 2026 programme closed 23 Oct 2026; F&B matching Mar 2026). Route to ask for the registered-buyer list.",
+"date": "2026-10-01",
+"url": "https://www.thaitradelondon.com/online-business-matching-obm-fooder-2026/",
+"prods": [
+"juice"
+],
+"manual": true,
+"stype": "Embassy-TTC",
+"kind": "route",
+"id": "s152",
+"fit": 3,
+"age": 56,
+"fresh": "fresh",
+"q": {
+"rtype": "Trade-promotion office / programme",
+"rtypeEv": "Government/organiser channel, not a buyer",
+"size": [
+"Gateway to registered importers; no buyer list published"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Route to buyers rather than a buyer",
+"Ask the office for the registered-buyer list or an introduction"
+],
+"flags": []
+}
+},
+{
+"src": "Embassy / TTC",
+"type": "other",
+"country": "US",
+"company": "Thai Trade USA (DITP): F&B online business matching",
+"said": "Second DITP US business-matching round for Thai food & beverage (event 176). Route to ask Thai Trade Center for buyer lists.",
+"date": "2026-03-24",
+"url": "https://thaitradeusa.com/events/176",
+"prods": [
+"juice",
+"coco"
+],
+"manual": true,
+"stype": "Embassy-TTC",
+"kind": "route",
+"id": "s153",
+"fit": 3,
+"age": 247,
+"fresh": "recent",
+"q": {
+"rtype": "Trade-promotion office / programme",
+"rtypeEv": "Government/organiser channel, not a buyer",
+"size": [
+"Gateway to registered importers; no buyer list published"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Route to buyers rather than a buyer",
+"Ask the office for the registered-buyer list or an introduction"
+],
+"flags": []
+}
+},
+{
+"src": "Trade show",
+"type": "other",
+"country": "US",
+"company": "Summer Fancy Food Show 2026 (New York)",
+"said": "Royal Thai Consulate NY / Thai Trade Center visited 13 Thai exporters at Summer Fancy Food 2026 (29 Jun); range incl. coconut water. Importer names not published.",
+"date": "2026-06-29",
+"url": "https://www.mfa.go.th/en/content/newyork-080726-2",
+"prods": [
+"coco"
+],
+"manual": true,
+"stype": "Trade show",
+"kind": "route",
+"id": "s154",
+"fit": 3,
+"age": 150,
+"fresh": "recent",
+"q": {
+"rtype": "Trade-promotion office / programme",
+"rtypeEv": "Government/organiser channel, not a buyer",
+"size": [
+"Gateway to registered importers; no buyer list published"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Route to buyers rather than a buyer",
+"Ask the office for the registered-buyer list or an introduction"
+],
+"flags": []
+}
+},
+{
+"src": "Embassy / TTC",
+"type": "other",
+"country": "AE",
+"company": "Gulfood 2026 Thailand Pavilion (Thai Trade Center Dubai)",
+"said": "Thailand Pavilion at Gulfood 2026 (Dubai, Jan 2026) positioned as a key export platform for halal-certified Thai F&B. Route into UAE/GCC importers.",
+"date": "2026-01-27",
+"url": "https://gulfnews.com/business/corporate-news/thailand-showcases-halal-excellence-and-culinary-innovation-at-gulfood-2026-1.500421848",
+"prods": [
+"juice"
+],
+"manual": true,
+"stype": "Embassy-TTC",
+"kind": "route",
+"id": "s155",
+"fit": 3,
+"age": 303,
+"fresh": "recent",
+"q": {
+"rtype": "Trade-promotion office / programme",
+"rtypeEv": "Government/organiser channel, not a buyer",
+"size": [
+"Gateway to registered importers; no buyer list published"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Route to buyers rather than a buyer",
+"Ask the office for the registered-buyer list or an introduction"
+],
+"flags": []
+}
+},
+{
+"src": "Embassy / TTC",
+"type": "other",
+"country": "SA",
+"company": "Thai Trade Centre Middle East",
+"said": "DITP Thai Trade Centre Middle East LinkedIn page: contact point for Saudi/GCC importer matching. No specific buyer named.",
+"date": null,
+"url": "https://linkedin.com/company/thaitradecentre-middleeast",
+"prods": [
+"juice"
+],
+"manual": true,
+"stype": "Embassy-TTC",
+"kind": "route",
+"id": "s156",
+"fit": 3,
+"age": null,
+"fresh": "standing",
+"q": {
+"rtype": "Trade-promotion office / programme",
+"rtypeEv": "Government/organiser channel, not a buyer",
+"size": [
+"Gateway to registered importers; no buyer list published"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Route to buyers rather than a buyer",
+"Ask the office for the registered-buyer list or an introduction"
+],
+"flags": []
+}
+},
+{
+"src": "Embassy / TTC",
+"type": "other",
+"country": "PH",
+"company": "Thai Trade Center Manila (DITP)",
+"said": "Manila TTC says it \"regularly facilitates business matching\" for Philippine importers, \"even on demand\". Older than 12 months.",
+"date": "2025-10-24",
+"url": "https://www.philstar.com/business/biz-memos/2025/10/24/2481953/thai-trade-center-business-bridge-connecting-filipino-entrepreneurs-enhance-trade-opportunities-thailand",
+"prods": [
+"juice"
+],
+"manual": true,
+"stype": "Embassy-TTC",
+"kind": "route",
+"id": "s157",
+"fit": 2,
+"age": 398,
+"fresh": "stale",
+"q": {
+"rtype": "Trade-promotion office / programme",
+"rtypeEv": "Government/organiser channel, not a buyer",
+"size": [
+"Gateway to registered importers; no buyer list published"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Route to buyers rather than a buyer",
+"Ask the office for the registered-buyer list or an introduction",
+"Older than 12 months"
+],
+"flags": [
+"Older than 12 months"
+]
 }
 }
 ],
