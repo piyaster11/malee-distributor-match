@@ -1,0 +1,3946 @@
+{
+"markets": {
+"CN": {
+"code": "CN",
+"name": "China",
+"name_th": "จีน",
+"hs": {
+"2009": {
+"year": "2024",
+"world": 920558353.0,
+"w2021": 495298018.0,
+"thai": 287036463.0
+},
+"2202": {
+"year": "2024",
+"world": 998860931.0,
+"w2021": 943878183.0,
+"thai": 72820819.0
+},
+"2008": {
+"year": "2024",
+"world": 1267668744.0,
+"w2021": 879595702.0,
+"thai": 133561206.0
+},
+"0402": {
+"year": "2024",
+"world": 2356971295.0,
+"w2021": 4663138955.0,
+"thai": 788053.0
+}
+},
+"bev_imports": 3187088028.0,
+"bev_growth": 0.37447241959270894,
+"thai_share": 0.15481796664073816,
+"year": "2024",
+"parts": {
+"size": 18.7,
+"growth": 14.4,
+"thai": 7.7,
+"access": 20
+},
+"fit": 68,
+"fta": "ACFTA + RCEP in force",
+"fta_th": "ACFTA + RCEP มีผลแล้ว",
+"fta_src": "https://www.thaifta.com/",
+"halal": false
+},
+"US": {
+"code": "US",
+"name": "United States",
+"name_th": "สหรัฐอเมริกา",
+"hs": {
+"2009": {
+"year": "2024",
+"world": 4282895194.0,
+"w2021": 2438896993.0,
+"thai": 308389162.0
+},
+"2202": {
+"year": "2024",
+"world": 3265849167.0,
+"w2021": 4046941961.0,
+"thai": 95113688.0
+},
+"2008": {
+"year": "2024",
+"world": 4447383792.0,
+"w2021": 3837798954.0,
+"thai": 412035912.0
+},
+"0402": {
+"year": "2024",
+"world": 205799993.0,
+"w2021": 95275049.0,
+"thai": 0
+}
+},
+"bev_imports": 11996128153.0,
+"bev_growth": 0.16200589946146327,
+"thai_share": 0.06798349864210558,
+"year": "2024",
+"parts": {
+"size": 30.0,
+"growth": 9.1,
+"thai": 3.4,
+"access": 0
+},
+"fit": 47,
+"fta": "No Thai FTA (US tariff on Thai goods applies; check current rate)",
+"fta_th": "ไม่มี FTA (ใช้ภาษีสหรัฐฯ กับสินค้าไทย ตรวจอัตราปัจจุบัน)",
+"fta_src": "https://www.thaifta.com/",
+"halal": false
+},
+"AE": {
+"code": "AE",
+"name": "UAE",
+"name_th": "สหรัฐอาหรับเอมิเรตส์",
+"hs": {
+"2009": {
+"year": "2023",
+"world": 144091972.897,
+"w2021": 122959895.031,
+"thai": 11627262.766
+},
+"2202": {
+"year": "2023",
+"world": 178084012.693,
+"w2021": 125237514.629,
+"thai": 3178208.094
+},
+"2008": {
+"year": "2023",
+"world": 119725488.041,
+"w2021": 91908190.642,
+"thai": 15376307.309
+},
+"0402": {
+"year": "2023",
+"world": 1026564334.203,
+"w2021": 880561589.572,
+"thai": 537905.872
+}
+},
+"bev_imports": 441901473.63100004,
+"bev_growth": 0.2993066660431627,
+"thai_share": 0.06829979072258677,
+"year": "2023",
+"parts": {
+"size": 1.9,
+"growth": 12.5,
+"thai": 3.4,
+"access": 8
+},
+"fit": 29,
+"fta": "No FTA in force yet; Thai–UAE CEPA talks concluded 7 Oct 2026, signing expected Q1 2027",
+"fta_th": "ยังไม่มี FTA ที่มีผล; เจรจา CEPA ไทย–UAE จบแล้ว 7 ต.ค. 2026 คาดลงนามไตรมาส 1/2027",
+"fta_src": "https://www.wam.ae/en/article/c2n1hr9-uae-thailand-conclude-cepa-negotiations-opening",
+"halal": true
+},
+"SA": {
+"code": "SA",
+"name": "Saudi Arabia",
+"name_th": "ซาอุดีอาระเบีย",
+"hs": {
+"2009": {
+"year": "2024",
+"world": 353223631.969,
+"w2021": 235610391.976,
+"thai": 2751510.065
+},
+"2202": {
+"year": "2024",
+"world": 93053571.007,
+"w2021": 142401013.773,
+"thai": 2739020.465
+},
+"2008": {
+"year": "2024",
+"world": 161218042.636,
+"w2021": 110635716.167,
+"thai": 7384348.882
+},
+"0402": {
+"year": "2024",
+"world": 906914357.594,
+"w2021": 704767984.781,
+"thai": 118668.797
+}
+},
+"bev_imports": 607495245.612,
+"bev_growth": 0.2432187121659346,
+"thai_share": 0.021193383001754443,
+"year": "2024",
+"parts": {
+"size": 4.7,
+"growth": 11.1,
+"thai": 1.1,
+"access": 0
+},
+"fit": 19,
+"fta": "No Thai FTA (GCC tariff applies)",
+"fta_th": "ไม่มี FTA กับไทย (ใช้ภาษีศุลกากร GCC)",
+"fta_src": "https://www.thaifta.com/",
+"halal": true
+},
+"PH": {
+"code": "PH",
+"name": "Philippines",
+"name_th": "ฟิลิปปินส์",
+"hs": {
+"2009": {
+"year": "2024",
+"world": 36700704.0,
+"w2021": 34543895.0,
+"thai": 7093159.0
+},
+"2202": {
+"year": "2024",
+"world": 258361253.0,
+"w2021": 139909967.0,
+"thai": 140672647.0
+},
+"2008": {
+"year": "2024",
+"world": 56349370.0,
+"w2021": 46361153.0,
+"thai": 5063317.0
+},
+"0402": {
+"year": "2024",
+"world": 606791700.0,
+"w2021": 542649461.0,
+"thai": 1276770.0
+}
+},
+"bev_imports": 351411327.0,
+"bev_growth": 0.5914285855968626,
+"thai_share": 0.4349009586705781,
+"year": "2024",
+"parts": {
+"size": 0.0,
+"growth": 19.8,
+"thai": 15,
+"access": 20
+},
+"fit": 61,
+"fta": "ATIGA (ASEAN) + RCEP in force",
+"fta_th": "ATIGA (อาเซียน) + RCEP มีผลแล้ว",
+"fta_src": "https://www.thaifta.com/",
+"halal": false
+},
+"MY": {
+"code": "MY",
+"name": "Malaysia",
+"name_th": "มาเลเซีย",
+"hs": {
+"2009": {
+"year": "2024",
+"world": 49382620.265,
+"w2021": 39358155.157,
+"thai": 6095284.77
+},
+"2202": {
+"year": "2024",
+"world": 143017484.244,
+"w2021": 117244809.645,
+"thai": 83684939.972
+},
+"2008": {
+"year": "2024",
+"world": 164244670.733,
+"w2021": 131988318.276,
+"thai": 25225444.941
+},
+"0402": {
+"year": "2024",
+"world": 602486240.355,
+"w2021": 568030566.08,
+"thai": 3379867.429
+}
+},
+"bev_imports": 356644775.242,
+"bev_growth": 0.23581270867979276,
+"thai_share": 0.3224655950867732,
+"year": "2024",
+"parts": {
+"size": 0.1,
+"growth": 10.9,
+"thai": 15,
+"access": 20
+},
+"fit": 51,
+"fta": "ATIGA (ASEAN) + RCEP in force",
+"fta_th": "ATIGA (อาเซียน) + RCEP มีผลแล้ว",
+"fta_src": "https://www.thaifta.com/",
+"halal": true
+},
+"AU": {
+"code": "AU",
+"name": "Australia",
+"name_th": "ออสเตรเลีย",
+"hs": {
+"2009": {
+"year": "2024",
+"world": 232570006.989,
+"w2021": 175514326.243,
+"thai": 39006416.297
+},
+"2202": {
+"year": "2024",
+"world": 461108875.756,
+"w2021": 405822789.559,
+"thai": 10868829.968
+},
+"2008": {
+"year": "2024",
+"world": 349349937.919,
+"w2021": 300815802.888,
+"thai": 25324507.878
+},
+"0402": {
+"year": "2024",
+"world": 225434644.071,
+"w2021": 231434216.653,
+"thai": 0
+}
+},
+"bev_imports": 1043028820.664,
+"bev_growth": 0.18236736348716187,
+"thai_share": 0.0720974844157492,
+"year": "2024",
+"parts": {
+"size": 9.2,
+"growth": 9.6,
+"thai": 3.6,
+"access": 20
+},
+"fit": 47,
+"fta": "TAFTA + AANZFTA + RCEP in force",
+"fta_th": "TAFTA + AANZFTA + RCEP มีผลแล้ว",
+"fta_src": "https://www.thaifta.com/",
+"halal": false
+},
+"UK": {
+"code": "UK",
+"name": "United Kingdom",
+"name_th": "สหราชอาณาจักร",
+"hs": {
+"2009": {
+"year": "2024",
+"world": 1282077986.805,
+"w2021": 1051978145.71,
+"thai": 3673438.168
+},
+"2202": {
+"year": "2024",
+"world": 2124114239.508,
+"w2021": 1285801554.598,
+"thai": 18857991.234
+},
+"2008": {
+"year": "2024",
+"world": 736847407.799,
+"w2021": 543226966.912,
+"thai": 16316741.647
+},
+"0402": {
+"year": "2024",
+"world": 264926284.802,
+"w2021": 206327514.431,
+"thai": 0
+}
+},
+"bev_imports": 4143039634.1119995,
+"bev_growth": 0.43805277552855704,
+"thai_share": 0.009376731694560905,
+"year": "2024",
+"parts": {
+"size": 21.0,
+"growth": 16.0,
+"thai": 0.5,
+"access": 0
+},
+"fit": 42,
+"fta": "No Thai FTA (UK Global Tariff applies)",
+"fta_th": "ไม่มี FTA (ใช้ UK Global Tariff)",
+"fta_src": "https://www.thaifta.com/",
+"halal": false
+}
+},
+"distributors": [
+{
+"id": "d1",
+"country": "US",
+"name": "Wismettac Asian Foods",
+"url": "https://www.wismettacusa.com/",
+"type": "Importer/wholesaler",
+"channels": [
+"Ethnic Asian",
+"Wholesale"
+],
+"f": {
+"j": null,
+"c": null,
+"a": true,
+"o": true
+},
+"evidence": "Importer, wholesaler and distributor of Asian food in North America since 1912; site has a \"Partner with us\" call.",
+"brands": []
+},
+{
+"id": "d2",
+"country": "US",
+"name": "JFC International",
+"url": "https://www.jfc.com/",
+"type": "Distributor",
+"channels": [
+"Ethnic Asian",
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": false,
+"a": true
+},
+"evidence": "\"Leading distributor of Asian food, beverages & Japanese liquor\"; Japan-led range.",
+"brands": []
+},
+{
+"id": "d3",
+"country": "US",
+"name": "HF Foods Group",
+"url": "https://www.hffoodsgroup.com/",
+"type": "Foodservice distributor",
+"channels": [
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": false,
+"a": true
+},
+"evidence": "Specialty food distributor focused on Asian restaurants; site lists beverages and chilled/frozen.",
+"brands": []
+},
+{
+"id": "d4",
+"country": "US",
+"name": "Rhee Bros (Assi)",
+"url": "https://www.rheebros.com/",
+"type": "Importer/distributor",
+"channels": [
+"Ethnic Asian",
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": null,
+"c": null,
+"a": true
+},
+"evidence": "\"Source. Import. Distribute. If it's Pan-Asian food, we do it.\" 40-year Asian food importer.",
+"brands": []
+},
+{
+"id": "d5",
+"country": "US",
+"name": "Sun Hing Foods",
+"url": "https://www.sunhingfoods.com/",
+"type": "Importer/distributor",
+"channels": [
+"Ethnic Asian",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true,
+"d": true,
+"k": true
+},
+"evidence": "Asian food importer with coconut products, beverages, dairy and canned categories; sells on Amazon.",
+"brands": []
+},
+{
+"id": "d6",
+"country": "US",
+"name": "KeHE Distributors",
+"url": "https://www.kehe.com/",
+"type": "Distributor",
+"channels": [
+"Retail",
+"E-commerce"
+],
+"f": {
+"j": null,
+"c": null,
+"a": false,
+"o": true
+},
+"evidence": "Natural/organic & specialty distributor, 19 DCs; says it helps \"suppliers expand their reach\".",
+"brands": []
+},
+{
+"id": "d7",
+"country": "US",
+"name": "Vasinee Food Corporation",
+"url": "https://vasineefoodcorp.com/",
+"type": "Thai importer/distributor",
+"channels": [
+"Ethnic Asian",
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true,
+"d": true
+},
+"evidence": "Family-owned importer of Thai foods since 1987; range shows Chaokoh and Foco coconut drinks.",
+"brands": [
+"Chaokoh",
+"Foco"
+]
+},
+{
+"id": "d8",
+"country": "US",
+"name": "Sun Fat USA",
+"url": "https://sunfatusa.com/product-category/beverages/",
+"type": "Asian beverage wholesaler",
+"channels": [
+"Ethnic Asian",
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true,
+"d": true,
+"k": true
+},
+"evidence": "Asian beverages supplier: coconut water, tropical juices, Thai tea; carries Chaokoh, Foco, Mogu Mogu, UFC.",
+"brands": [
+"Chaokoh",
+"Foco",
+"Mogu Mogu",
+"UFC"
+]
+},
+{
+"id": "d9",
+"country": "US",
+"name": "Jan's Food",
+"url": "https://www.jansfood.com/beverages",
+"type": "Importer/wholesaler",
+"channels": [
+"Ethnic Asian",
+"Wholesale"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true,
+"d": true
+},
+"evidence": "Wholesale \"Coconut Water & Asian Juices\" range (Southeast Asian focus).",
+"brands": []
+},
+{
+"id": "d10",
+"country": "US",
+"name": "Kassir Food & Beverage (Hydro Coco USA)",
+"url": "https://www.hydrococo-usa.com/learn-more",
+"type": "Brand distributor",
+"channels": [
+"Retail",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": true,
+"a": false
+},
+"evidence": "US sole distributor of Hydro Coco coconut water — a direct competitor tie.",
+"brands": [
+"Hydro Coco"
+]
+},
+{
+"id": "d11",
+"country": "US",
+"name": "The Drinks Company (Miami)",
+"url": "https://linkedin.com/company/the-drinks-company-llc",
+"type": "Boutique beverage distributor",
+"channels": [
+"HoReCa",
+"Retail"
+],
+"f": {
+"j": true,
+"c": true,
+"a": false,
+"o": true
+},
+"evidence": "Distributes coconut water, kombucha etc. with refrigerated trucks; \"constantly on the lookout for new and innovative brands\".",
+"brands": [],
+"signals": [
+"s136"
+]
+},
+{
+"id": "d12",
+"country": "UK",
+"name": "Wing Yip",
+"url": "https://www.wingyip.com/",
+"type": "Oriental wholesaler/grocer",
+"channels": [
+"Ethnic Asian",
+"Wholesale",
+"Retail"
+],
+"f": {
+"j": null,
+"c": null,
+"a": true
+},
+"evidence": "\"UK's leading Oriental grocer\", 4,500+ products, 4 superstores (Birmingham, Manchester, Croydon, Cricklewood).",
+"brands": []
+},
+{
+"id": "d13",
+"country": "UK",
+"name": "Chuanglee",
+"url": "https://chuanglee.co.uk/catalogue/soft-drink-asian",
+"type": "Asian foodservice wholesaler",
+"channels": [
+"HoReCa",
+"Ethnic Asian"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true,
+"d": true
+},
+"evidence": "Asian soft-drink catalogue incl. Chaokoh and Foco coconut drinks; London + nationwide.",
+"brands": [
+"Chaokoh",
+"Foco"
+]
+},
+{
+"id": "d14",
+"country": "UK",
+"name": "Chadha Oriental Foods",
+"url": "https://chadhaorientalfoods.co.uk/brands/foco/",
+"type": "Oriental importer/distributor",
+"channels": [
+"Ethnic Asian",
+"Wholesale"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true
+},
+"evidence": "Distributes Foco coconut water (330 ml, 1 L UHT) and Foco Thai fruit drinks (mango, guava, lychee…).",
+"brands": [
+"Foco"
+]
+},
+{
+"id": "d15",
+"country": "UK",
+"name": "Tazaki Foods",
+"url": "https://www.tazakifoods.com/",
+"type": "Importer/distributor",
+"channels": [
+"HoReCa",
+"Retail"
+],
+"f": {
+"j": true,
+"c": false,
+"a": true
+},
+"evidence": "Importer and distributor of Japanese food (Yutaka); cash & carry.",
+"brands": []
+},
+{
+"id": "d16",
+"country": "UK",
+"name": "Bestway Wholesale",
+"url": "https://www.bestwaywholesale.co.uk/",
+"type": "Cash & carry wholesaler",
+"channels": [
+"Wholesale",
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": null,
+"a": null
+},
+"evidence": "Large UK wholesaler serving independent retail and catering.",
+"brands": []
+},
+{
+"id": "d17",
+"country": "UK",
+"name": "Delightful Brands (Digi East Wholesale)",
+"url": "https://www.delightfulbrands.co.uk/about-us",
+"type": "Distributor",
+"channels": [
+"Retail",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true
+},
+"evidence": "London distributor (founded 2024) of East/Southeast Asian food & beverage to UK retailers.",
+"brands": []
+},
+{
+"id": "d18",
+"country": "UK",
+"name": "Longdan",
+"url": "https://longdan.co.uk/",
+"type": "Asian retailer/wholesaler",
+"channels": [
+"Ethnic Asian",
+"Retail",
+"E-commerce",
+"Wholesale"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true,
+"d": true
+},
+"evidence": "\"Home of Asia\" stores + online, with bulk-buy; Thai, Filipino, Malaysian ranges; carries Aroy-D.",
+"brands": [
+"Aroy-D"
+]
+},
+{
+"id": "d19",
+"country": "AU",
+"name": "BKK Australia",
+"url": "https://bkk.com.au/about-us/",
+"type": "Thai/Asian importer-wholesaler",
+"channels": [
+"Ethnic Asian",
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true,
+"d": true
+},
+"evidence": "Since 1980; first to import Thai jasmine rice; beverages in range; Foco seen.",
+"brands": [
+"Foco"
+]
+},
+{
+"id": "d20",
+"country": "AU",
+"name": "Mur Thai Food Co",
+"url": "https://www.murthaifood.com.au/aboutus",
+"type": "Importer/distributor",
+"channels": [
+"Ethnic Asian"
+],
+"f": {
+"j": true,
+"c": null,
+"a": true,
+"o": true
+},
+"evidence": "Asian importer with DCs in Sydney, Melbourne, Brisbane; invites suppliers seeking an Australian distributor.",
+"brands": [],
+"signals": [
+"s135"
+]
+},
+{
+"id": "d21",
+"country": "AU",
+"name": "Ma Siam",
+"url": "https://masiam.com.au/",
+"type": "Thai importer-wholesaler",
+"channels": [
+"HoReCa",
+"Ethnic Asian"
+],
+"f": {
+"j": null,
+"c": null,
+"a": true,
+"o": true
+},
+"evidence": "Brisbane Thai food wholesaler/importer; offers \"import or create own brand\".",
+"brands": [],
+"signals": [
+"s142"
+]
+},
+{
+"id": "d22",
+"country": "AU",
+"name": "Auspac Trading",
+"url": "https://www.auspactrading.com.au/about-us/",
+"type": "Thai importer-wholesaler",
+"channels": [
+"Retail",
+"Ethnic Asian"
+],
+"f": {
+"j": false,
+"c": false,
+"a": true,
+"o": true
+},
+"evidence": "Imports Thai grocery (Pomelo rice, sauces); sources and private-labels from Thailand for clients.",
+"brands": []
+},
+{
+"id": "d23",
+"country": "AU",
+"name": "Ettason",
+"url": "https://www.ettason.com.au/",
+"type": "Asian food distributor",
+"channels": [
+"Retail",
+"HoReCa",
+"Ethnic Asian"
+],
+"f": {
+"j": null,
+"c": null,
+"a": true
+},
+"evidence": "\"#1 Asian Food Distributor in Australia\"; carries Aroy-D.",
+"brands": [
+"Aroy-D"
+]
+},
+{
+"id": "d24",
+"country": "AU",
+"name": "Oriental Merchant",
+"url": "https://www.orientalmerchant.com.au/",
+"type": "Asian food distributor",
+"channels": [
+"Ethnic Asian",
+"Retail"
+],
+"f": {
+"j": null,
+"c": null,
+"a": true
+},
+"evidence": "Asian food specialist since the 1970s; operations in AU, NZ, SG, Europe, Canada.",
+"brands": [
+"Yeo's"
+]
+},
+{
+"id": "d25",
+"country": "AU",
+"name": "Bidfood Australia",
+"url": "https://www.bidfood.com.au/",
+"type": "Foodservice distributor",
+"channels": [
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": null,
+"a": false,
+"d": true
+},
+"evidence": "National foodservice distributor (beverages, dairy, chilled).",
+"brands": []
+},
+{
+"id": "d26",
+"country": "AU",
+"name": "Metcash",
+"url": "https://www.metcash.com/",
+"type": "Wholesaler (IGA supply)",
+"channels": [
+"Wholesale",
+"Retail"
+],
+"f": {
+"j": null,
+"c": null,
+"a": false
+},
+"evidence": "Australia's leading wholesale distributor (food, liquor, hardware).",
+"brands": []
+},
+{
+"id": "d27",
+"country": "MY",
+"name": "Box World",
+"url": "https://boxworld.com.my/",
+"type": "Importer/distributor",
+"channels": [
+"Retail"
+],
+"f": {
+"j": null,
+"c": null,
+"a": false,
+"o": true
+},
+"evidence": "FMCG importer representing 25+ global brands from 16 countries; aims to be largest importer by 2028.",
+"brands": []
+},
+{
+"id": "d28",
+"country": "MY",
+"name": "Sea Millenium Trade",
+"url": "https://smtsb.com.my/",
+"type": "Importer/distributor",
+"channels": [
+"Wholesale",
+"Retail"
+],
+"f": {
+"j": true,
+"c": false,
+"a": null
+},
+"evidence": "FMCG importer since 2001, 800+ products incl. \"Drinks and Juice\"; Peninsular coverage.",
+"brands": [
+"F&N"
+]
+},
+{
+"id": "d29",
+"country": "MY",
+"name": "Best Marketing & Distribution",
+"url": "https://www.bestmarketingdistribution.com/",
+"type": "F&B distributor",
+"channels": [
+"HoReCa",
+"Retail"
+],
+"f": {
+"j": true,
+"c": false,
+"a": null,
+"o": true
+},
+"evidence": "Serves 4,200+ foodservice operators; imports brands and helps them enter the Malaysian market; halal mentioned.",
+"brands": [
+"Marigold"
+],
+"signals": [
+"s140"
+]
+},
+{
+"id": "d30",
+"country": "MY",
+"name": "SCC Group",
+"url": "https://sccgroup.com.my/",
+"type": "Distributor",
+"channels": [
+"Retail",
+"HoReCa",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": false,
+"a": null,
+"d": true,
+"o": true
+},
+"evidence": "200+ third-party brands, 170 vehicles incl. 100 reefers; beverages incl. Yeo's, Bundaberg.",
+"brands": [
+"Yeo's"
+]
+},
+{
+"id": "d31",
+"country": "MY",
+"name": "Sri Manisan",
+"url": "https://srimanisan.com/",
+"type": "Fine-food importer",
+"channels": [
+"HoReCa",
+"Retail"
+],
+"f": {
+"j": true,
+"c": false,
+"a": false,
+"d": true
+},
+"evidence": "Importer of international ambient & chilled brands for hotels, bakeries, supermarkets; carries Rauch juices.",
+"brands": [
+"Rauch"
+]
+},
+{
+"id": "d32",
+"country": "MY",
+"name": "DKSH Malaysia",
+"url": "https://www.dksh.com/my-en/home",
+"type": "Market expansion services",
+"channels": [
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": null,
+"c": null,
+"a": null,
+"o": true
+},
+"evidence": "Market-expansion services provider (distribution for principals).",
+"brands": []
+},
+{
+"id": "d33",
+"country": "PH",
+"name": "SYSU International",
+"url": "https://www.sysuinc.com.ph/about/",
+"type": "Importer/exclusive distributor",
+"channels": [
+"Retail"
+],
+"f": {
+"j": true,
+"c": false,
+"a": true
+},
+"evidence": "Exclusive distributor of Tree Top juices, Lee Kum Kee, Smucker's etc.",
+"brands": [
+"Tree Top"
+]
+},
+{
+"id": "d34",
+"country": "PH",
+"name": "Fly Ace Corporation",
+"url": "https://ph.linkedin.com/company/fly-ace-corporation",
+"type": "Importer/distributor",
+"channels": [
+"Retail",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": null,
+"a": null,
+"d": true,
+"k": true
+},
+"evidence": "50+ years; categories: canned fruit, juices, milk; brands incl. Welch's, Mott's, Old Orchard, Jolly.",
+"brands": [
+"Welch's",
+"Mott's"
+]
+},
+{
+"id": "d35",
+"country": "PH",
+"name": "Grand Alliance Import Corp. (GAIC)",
+"url": "https://gaic.com.ph/pages/about-us",
+"type": "Importer/distributor",
+"channels": [
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": false,
+"a": false,
+"d": true,
+"o": true
+},
+"evidence": "Imports juices (Fontana) and dairy into SM, Robinsons, Waltermart; \"For International Brands: Let's Expand Together\".",
+"brands": [
+"Fontana"
+],
+"signals": [
+"s132"
+]
+},
+{
+"id": "d36",
+"country": "PH",
+"name": "McAsia Foodtrade",
+"url": "https://mcasiafoodtrade.ph/",
+"type": "Asian food importer",
+"channels": [
+"Retail",
+"HoReCa",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": null,
+"a": true,
+"d": true
+},
+"evidence": "\"Home to your Asian cravings\"; imports Asian incl. Thai brands for supermarkets.",
+"brands": []
+},
+{
+"id": "d37",
+"country": "PH",
+"name": "Gold River Management",
+"url": "https://goldrivermanagement.com.ph/our-brands/",
+"type": "Beverage distributor",
+"channels": [
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true,
+"o": true
+},
+"evidence": "Beverage distributor (\"we help FMCG brands thrive\"); Thai drinks incl. Mogu Mogu.",
+"brands": [
+"Mogu Mogu"
+]
+},
+{
+"id": "d38",
+"country": "PH",
+"name": "Century Pacific Food",
+"url": "https://www.centurypacific.com.ph/",
+"type": "Food manufacturer/distributor",
+"channels": [
+"Retail"
+],
+"f": {
+"j": false,
+"c": true,
+"a": false,
+"d": true
+},
+"evidence": "Large PH food group with coconut and milk lines (also coconut OEM exporter) — partly a competitor.",
+"brands": []
+},
+{
+"id": "d39",
+"country": "AE",
+"name": "Hygenix General Trading",
+"url": "https://hygenixgt.com/",
+"type": "Asian food importer",
+"channels": [
+"Retail",
+"HoReCa",
+"Ethnic Asian"
+],
+"f": {
+"j": null,
+"c": true,
+"a": true
+},
+"evidence": "\"Asian Food Importers in the UAE, Qatar, Saudi Arabia, Bahrain\".",
+"brands": []
+},
+{
+"id": "d40",
+"country": "AE",
+"name": "A Mart Foodstuff Trading",
+"url": "https://amartuae.com/",
+"type": "Asian importer",
+"channels": [
+"Ethnic Asian"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true
+},
+"evidence": "Distributes Asian instant food & drinks from Korea, Thailand, Japan; carries IF coconut water.",
+"brands": [
+"IF"
+]
+},
+{
+"id": "d41",
+"country": "AE",
+"name": "Ghori Trading",
+"url": "https://ghoritrading.com/distribution/food-fmcg-distributor-uae",
+"type": "FMCG distributor",
+"channels": [
+"Retail",
+"HoReCa",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": false,
+"a": false,
+"d": true,
+"o": true
+},
+"evidence": "\"Distribute your brand\"; moves beverages & juices to 1,500+ doors in UAE/GCC.",
+"brands": [],
+"signals": [
+"s137"
+]
+},
+{
+"id": "d42",
+"country": "AE",
+"name": "Aldiqa Foodstuff Trading",
+"url": "https://aldiqatrading.com/",
+"type": "Importer/distributor",
+"channels": [
+"Retail",
+"Wholesale",
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": false,
+"a": false,
+"d": true,
+"o": true
+},
+"evidence": "Santé no-sugar juices, Twist energy; \"Become a Partner\"; supplies private-label customers.",
+"brands": [
+"Santé"
+],
+"signals": [
+"s138"
+]
+},
+{
+"id": "d43",
+"country": "AE",
+"name": "Shams Al Aseel Foodstuff Trading",
+"url": "https://alaseelfoodstuff.com/",
+"type": "F&B trading",
+"channels": [
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": false,
+"a": false
+},
+"evidence": "Beverage trading (Pepsi, Coca-Cola, Red Bull, Perrier, Voss per its brand pages).",
+"brands": []
+},
+{
+"id": "d44",
+"country": "AE",
+"name": "Treasure Islands Food & Beverages",
+"url": "https://www.treasureislands.ae/",
+"type": "FMCG distributor",
+"channels": [
+"Retail"
+],
+"f": {
+"j": true,
+"c": false,
+"a": false
+},
+"evidence": "Dubai FMCG distributor; brands seen incl. Del Monte.",
+"brands": [
+"Del Monte"
+]
+},
+{
+"id": "d45",
+"country": "AE",
+"name": "Al Maya Group",
+"url": "https://www.almaya.ae/",
+"type": "Retailer + FMCG distributor",
+"channels": [
+"Retail"
+],
+"f": {
+"j": null,
+"c": null,
+"a": null
+},
+"evidence": "Supermarket chain and FMCG distribution across UAE, Bahrain, Kuwait, Qatar, Oman.",
+"brands": []
+},
+{
+"id": "d46",
+"country": "AE",
+"name": "Transmed",
+"url": "https://www.transmed.com/",
+"type": "FMCG & foodservice distributor",
+"channels": [
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": null,
+"c": null,
+"a": null
+},
+"evidence": "Consumer goods + foodservice distribution across UAE, KSA, UK and others.",
+"brands": []
+},
+{
+"id": "d47",
+"country": "SA",
+"name": "TAN Gulf",
+"url": "https://tangulf.com/",
+"type": "Distributor/brand builder",
+"channels": [
+"Retail",
+"HoReCa",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": false,
+"a": false,
+"o": true
+},
+"evidence": "3 hubs (Riyadh/Jeddah/Dammam); imports Rubicon mango/guava/lychee drinks; \"for international brands entering the Kingdom\".",
+"brands": [
+"Rubicon"
+],
+"signals": [
+"s133"
+]
+},
+{
+"id": "d48",
+"country": "SA",
+"name": "Sunrise Distribution",
+"url": "https://sunrise-ksa.com/",
+"type": "FMCG importer",
+"channels": [
+"Retail",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": false,
+"a": false,
+"o": true
+},
+"evidence": "\"Your route into Saudi Arabia\" — import, SFDA, listing; juices & drinks category.",
+"brands": [],
+"signals": [
+"s134"
+]
+},
+{
+"id": "d49",
+"country": "SA",
+"name": "Al-Sahah Foods",
+"url": "https://alsahahfood.com/services",
+"type": "Importer/distributor",
+"channels": [
+"HoReCa",
+"Retail"
+],
+"f": {
+"j": true,
+"c": null,
+"a": true,
+"o": true
+},
+"evidence": "400+ products, imports Asian brands (Mama Suka, Hobe); supplies juices to HoReCa; \"Become a supplier\" form.",
+"brands": [],
+"signals": [
+"s139"
+]
+},
+{
+"id": "d50",
+"country": "SA",
+"name": "MultiBrands",
+"url": "https://linkedin.com/company/mbftcl",
+"type": "F&B trading",
+"channels": [
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": true,
+"c": false,
+"a": false,
+"d": true
+},
+"evidence": "Riyadh F&B trader; dairy, juice, coffee; clients incl. Panda, Danube, Othaim, hotels.",
+"brands": []
+},
+{
+"id": "d51",
+"country": "SA",
+"name": "Alnours",
+"url": "https://al-nours.com/",
+"type": "Distributor/e-shop",
+"channels": [
+"Retail",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": false,
+"a": false
+},
+"evidence": "Official Domty distributor: mango, guava, cocktail nectars (200 ml) in Riyadh & Jeddah.",
+"brands": [
+"Domty"
+]
+},
+{
+"id": "d52",
+"country": "SA",
+"name": "Binzagr Company",
+"url": "https://www.binzagr.com/",
+"type": "FMCG distributor",
+"channels": [
+"Retail",
+"HoReCa"
+],
+"f": {
+"j": null,
+"c": null,
+"a": null,
+"o": true
+},
+"evidence": "One of KSA's largest FMCG distributors (since 1881); 55 brands, 1,500 SKUs; food-service network; works with \"Principals\".",
+"brands": []
+},
+{
+"id": "d53",
+"country": "CN",
+"name": "Shanghai Pintai Supply Chain (上海品泰)",
+"url": "http://www.tangjiu.cn/z_zcpintai",
+"type": "Importer",
+"channels": [
+"Wholesale"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true
+},
+"evidence": "Imports Thai juices (durian, mangosteen, watermelon) and coconut water (WILDCOCO); recruiting regional agents.",
+"brands": [
+"WILDCOCO"
+]
+},
+{
+"id": "d54",
+"country": "CN",
+"name": "Fantastic Thai Trading (Shanghai)",
+"url": "https://linkedin.com/company/fantastic-thai-trading-company",
+"type": "Importer/brand manager",
+"channels": [
+"Retail",
+"E-commerce"
+],
+"f": {
+"j": null,
+"c": false,
+"a": true,
+"o": true
+},
+"evidence": "Brand management, import & distribution (Walmart, Metro, Sam's, Tmall, JD); \"exceptional partner to manufacturers\".",
+"brands": [],
+"signals": [
+"s141"
+]
+},
+{
+"id": "d55",
+"country": "CN",
+"name": "Zhongke Muzhen (中科沐臻)",
+"url": "http://www.flce-asia.com/exhibition_news_1/show/582.html",
+"type": "China general agent",
+"channels": [
+"Wholesale"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true
+},
+"evidence": "Mainland general agent for Thai MIRAMAR coconut water and aloe drinks (FLCEAsia 2025 exhibitor).",
+"brands": [
+"MIRAMAR"
+]
+},
+{
+"id": "d56",
+"country": "CN",
+"name": "COFCO W&W International",
+"url": "https://www.iffamily.com/news-activities/ifbh-limited-signed-strategic-partnership-contract-with-cofco-appointed-as-new-distributor-for-ifbh-coconut-water/",
+"type": "State trading distributor",
+"channels": [
+"Retail",
+"E-commerce"
+],
+"f": {
+"j": true,
+"c": true,
+"a": true
+},
+"evidence": "Appointed IF coconut water distributor (Sep 2025), 1M+ points of sale — tied to a direct competitor.",
+"brands": [
+"IF"
+]
+},
+{
+"id": "d57",
+"country": "CN",
+"name": "Sinodis (西诺迪斯)",
+"url": "https://www.sinodis.com/",
+"type": "Foodservice importer",
+"channels": [
+"HoReCa"
+],
+"f": {
+"j": null,
+"c": false,
+"a": false,
+"d": true
+},
+"evidence": "Imported bakery/dessert/beverage ingredients for China foodservice (fruit purées, dairy).",
+"brands": []
+},
+{
+"id": "d58",
+"country": "CN",
+"name": "Classic Fine Foods China",
+"url": "https://www.classicfinefoods.com/",
+"type": "Fine-food distributor",
+"channels": [
+"HoReCa",
+"Retail"
+],
+"f": {
+"j": null,
+"c": null,
+"a": false
+},
+"evidence": "Fine-food specialist for hotels/restaurants; chilled capability.",
+"brands": []
+},
+{
+"id": "d59",
+"country": "CN",
+"name": "DKSH China",
+"url": "https://www.dksh.com/cn-en/home",
+"type": "Market expansion services",
+"channels": [
+"Retail"
+],
+"f": {
+"j": null,
+"c": null,
+"a": null,
+"o": true
+},
+"evidence": "Market-expansion services provider (distribution for principals).",
+"brands": []
+}
+],
+"signals": [
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Looking for supplier who can provide Tetra Pack Juice 1 Ltr",
+"date": "2026-11-18",
+"url": "https://importer.tradekey.com/buyoffer/Looking-For-Supplier-Who-Can-Provide-Tetra-Pack-Juice-1-Ltr-3574987.html",
+"prods": [
+"juice"
+],
+"id": "s1",
+"fit": 3,
+"age": 8,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "Amatili Pty Ltd",
+"said": "Supplier of Coconut water",
+"date": "2026-11-12",
+"url": "https://importer.tradekey.com/buyoffer/Supplier-Of-Coconut-Water-1814727.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s2",
+"fit": 3,
+"age": 14,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "Quotation required for Coconut water",
+"date": "2026-11-10",
+"url": "https://importer.tradekey.com/buyoffer/Quotation-Required-For-Coconut-Water-2014739.html",
+"prods": [
+"coco"
+],
+"id": "s3",
+"fit": 3,
+"age": 16,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Bulk Procurement Inquiry for Juice",
+"date": "2026-11-09",
+"url": "https://importer.tradekey.com/buyoffer/Bulk-Procurement-Inquiry-For-Juice-3824355.html",
+"prods": [
+"juice"
+],
+"id": "s4",
+"fit": 2,
+"age": 17,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Buy About Canned Fruit in Syrup",
+"date": "2026-11-09",
+"url": "https://importer.tradekey.com/buyoffer/Buy-About-Canned-Fruit-In-Syrup-Canned-Food-3313357.html",
+"prods": [
+"canned"
+],
+"id": "s5",
+"fit": 3,
+"age": 17,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Buying in bulk",
+"date": "2026-11-08",
+"url": "https://importer.tradekey.com/buyoffer/Buying-In-Bulk-3662785.html",
+"prods": [
+"juice"
+],
+"id": "s6",
+"fit": 2,
+"age": 18,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Looking for Coconut water",
+"date": "2026-11-06",
+"url": "https://importer.tradekey.com/buyoffer/Looking-For-Coconut-Water-2072075.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s7",
+"fit": 3,
+"age": 20,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "TRUGANINA FOODS",
+"said": "I need company to supply Soft drinks and bottle juices",
+"date": "2026-11-06",
+"url": "https://importer.tradekey.com/buyoffer/I-Need-Company-To-Supply-Soft-Drinks-And-Bottle-Juices-3439641.html",
+"prods": [
+"juice"
+],
+"id": "s8",
+"fit": 2,
+"age": 20,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Want to buy juice",
+"date": "2026-11-06",
+"url": "https://importer.tradekey.com/buyoffer/Want-To-Buy-Juice-3262893.html",
+"prods": [
+"juice"
+],
+"id": "s9",
+"fit": 2,
+"age": 20,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "I Want to purchase Juice",
+"date": "2026-11-04",
+"url": "https://importer.tradekey.com/buyoffer/I-Want-To-Purchase-Juice-3605723.html",
+"prods": [
+"juice"
+],
+"id": "s10",
+"fit": 2,
+"age": 22,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "We require Juices, 3 flavours, Mango : 1000QTY , Mix Fruit cocktail : 2500QTY , Berry Blast : 2500 QTY",
+"date": "2026-10-31",
+"url": "https://importer.tradekey.com/buyoffer/We-Require-Juices-3-Flavours-Mango-1000QTY-Mix-Fruit-Cocktail-2500QTY-Berry-Blast-2500-QTY-3518173.html",
+"prods": [
+"juice",
+"canned"
+],
+"id": "s11",
+"fit": 3,
+"age": 26,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "Food Products",
+"date": "2026-10-31",
+"url": "https://importer.tradekey.com/buyoffer/Food-Products-3286289.html",
+"prods": [
+"juice"
+],
+"id": "s12",
+"fit": 2,
+"age": 26,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "Proeye Agencies",
+"said": "Looking to buy Coconut Water pouches",
+"date": "2026-10-30",
+"url": "https://importer.tradekey.com/buyoffer/Looking-To-Buy-Coconut-Water-Pouches-1530385.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s13",
+"fit": 3,
+"age": 27,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "I am looking for company to supply Coconut Water, Australia",
+"date": "2026-10-28",
+"url": "https://importer.tradekey.com/buyoffer/I-Am-Looking-For-Company-To-Supply-Coconut-Water-3702687.html",
+"prods": [
+"coco"
+],
+"id": "s14",
+"fit": 3,
+"age": 29,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "oem",
+"country": "US",
+"company": "NYC Organic",
+"said": "Private Label service",
+"date": "2026-10-25",
+"url": "https://importer.tradekey.com/buyoffer/Private-Label-Service-3616717.html",
+"prods": [
+"juice",
+"oem"
+],
+"id": "s15",
+"fit": 3,
+"age": 32,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Want to buy Coconut Water and Coconut milk",
+"date": "2026-10-24",
+"url": "https://importer.tradekey.com/buyoffer/Want-To-Buy-Coconut-Water-And-Coconut-Milk-3301503.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s16",
+"fit": 3,
+"age": 33,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Required Baverage from quality sellers",
+"date": "2026-10-24",
+"url": "https://importer.tradekey.com/buyoffer/Required-Baverage-From-Quality-Sellers-1970493.html",
+"prods": [
+"juice"
+],
+"id": "s17",
+"fit": 2,
+"age": 33,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "I Want to purchase juice",
+"date": "2026-10-22",
+"url": "https://importer.tradekey.com/buyoffer/I-Want-To-Purchase-Juice-3112369.html",
+"prods": [
+"juice"
+],
+"id": "s18",
+"fit": 2,
+"age": 35,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AE",
+"company": "All Thingsfood for F",
+"said": "I Want to buy Tropical Juice",
+"date": "2026-10-21",
+"url": "https://importer.tradekey.com/buyoffer/I-Want-To-Buy-Tropical-Juice-3735585.html",
+"prods": [
+"juice"
+],
+"id": "s19",
+"fit": 3,
+"age": 36,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Quotation required from Canned carbonated Juice suppliers",
+"date": "2026-10-21",
+"url": "https://importer.tradekey.com/buyoffer/Quotation-Required-From-Canned-Carbonated-Juice-Suppliers-2157389.html",
+"prods": [
+"juice",
+"canned"
+],
+"id": "s20",
+"fit": 3,
+"age": 36,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Looking for Cold Press Juice suppliers",
+"date": "2026-10-21",
+"url": "https://importer.tradekey.com/buyoffer/Looking-For-Cold-Press-Juice-Suppliers-2004835.html",
+"prods": [
+"juice"
+],
+"id": "s21",
+"fit": 2,
+"age": 36,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Looking for Coconut Water",
+"date": "2026-10-19",
+"url": "https://importer.tradekey.com/buyoffer/Looking-For-Coconut-Water-2177197.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s22",
+"fit": 3,
+"age": 38,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Quotation required for Coconut water",
+"date": "2026-10-17",
+"url": "https://importer.tradekey.com/buyoffer/Quotation-Required-For-Coconut-Water-2190165.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s23",
+"fit": 3,
+"age": 40,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Monthly Supply Requirement for Coconut Water, USA",
+"date": "2026-10-15",
+"url": "https://importer.tradekey.com/buyoffer/Monthly-Supply-Requirement-For-Coconut-Water-3833075.html",
+"prods": [
+"coco"
+],
+"id": "s24",
+"fit": 3,
+"age": 42,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Want to buy Organic Coconut water",
+"date": "2026-10-13",
+"url": "https://importer.tradekey.com/buyoffer/Want-To-Buy-Organic-Coconut-Water-2136609.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s25",
+"fit": 3,
+"age": 44,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "Urban Remedy Group Pty Ltd",
+"said": "Need Coconut canned Water",
+"date": "2026-10-11",
+"url": "https://importer.tradekey.com/buyoffer/Need-Coconut-Canned-Water-1443824.html",
+"prods": [
+"coco",
+"juice",
+"canned"
+],
+"id": "s26",
+"fit": 3,
+"age": 46,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "Brazilian Professionals, LLC.",
+"said": "Looking to purchase Coconut Water",
+"date": "2026-10-11",
+"url": "https://importer.tradekey.com/buyoffer/Looking-To-Purchase-Coconut-Water-2398603.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s27",
+"fit": 3,
+"age": 46,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Need to buy Coconut Water",
+"date": "2026-10-11",
+"url": "https://importer.tradekey.com/buyoffer/Need-To-Buy-Coconut-Water-2165757.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s28",
+"fit": 3,
+"age": 46,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "Interested to buy organic seabuckthorn juice",
+"date": "2026-10-10",
+"url": "https://importer.tradekey.com/buyoffer/Interested-To-Buy-Organic-Seabuckthorn-Juice-1793247.html",
+"prods": [
+"juice"
+],
+"id": "s29",
+"fit": 1,
+"age": 47,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Inquiry About Fresh graviola- soursop- fruit from Brazil",
+"date": "2026-10-10",
+"url": "https://importer.tradekey.com/buyoffer/Inquiry-About-Fresh-Graviola-Soursop-Fruit-From-Brazil-3713645.html",
+"prods": [
+"juice"
+],
+"id": "s30",
+"fit": 2,
+"age": 47,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "Sokad Group",
+"said": "I want supply of Fruit Juice, Spices, Herbs, Face Mask Seeds",
+"date": "2026-10-10",
+"url": "https://importer.tradekey.com/buyoffer/I-Want-Supply-Of-Fruit-Juice-Spices-Herbs-Face-Mask-Seeds-3614637.html",
+"prods": [
+"juice"
+],
+"id": "s31",
+"fit": 2,
+"age": 47,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "Sokad Group",
+"said": "Want to purchase Tea, Cosmetics, Fruit Juice, Seed, Herbal Products, Meat",
+"date": "2026-10-10",
+"url": "https://importer.tradekey.com/buyoffer/Want-To-Purchase-Tea-Cosmetics-Fruit-Juice-Seed-Herbal-Products-Meat-3439839.html",
+"prods": [
+"juice"
+],
+"id": "s32",
+"fit": 2,
+"age": 47,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Canned Tuna, Coconut Milk, Escargot",
+"date": "2026-10-08",
+"url": "https://importer.tradekey.com/buyoffer/Canned-Tuna-Coconut-Milk-Escargot-3723501.html",
+"prods": [
+"coco",
+"juice",
+"canned"
+],
+"id": "s33",
+"fit": 3,
+"age": 49,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "stiebs, llc",
+"said": "Need to buy Coconut water",
+"date": "2026-10-07",
+"url": "https://importer.tradekey.com/buyoffer/Need-To-Buy-Coconut-Water-2102449.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s34",
+"fit": 3,
+"age": 50,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Buy Coconut Water",
+"date": "2026-10-05",
+"url": "https://importer.tradekey.com/buyoffer/Buy-Coconut-Water-1911573.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s35",
+"fit": 3,
+"age": 52,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "The Wholefood Factory",
+"said": "Quotation required for Coconut products",
+"date": "2026-10-04",
+"url": "https://importer.tradekey.com/buyoffer/Quotation-Required-For-Coconut-Products-2087369.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s36",
+"fit": 3,
+"age": 53,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Looking for quality Soft drinks sellers",
+"date": "2026-10-04",
+"url": "https://importer.tradekey.com/buyoffer/Looking-For-Quality-Soft-Drinks-Sellers-2027301.html",
+"prods": [
+"juice"
+],
+"id": "s37",
+"fit": 2,
+"age": 53,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "G-ocean Inc",
+"said": "Buy Coconut Water 100% Natural",
+"date": "2026-10-03",
+"url": "https://importer.tradekey.com/buyoffer/Buy-Coconut-Water-100-Natural-2464467.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s38",
+"fit": 3,
+"age": 54,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Buy Organic Fresh Green Coconuts from Thailand",
+"date": "2026-09-27",
+"url": "https://importer.tradekey.com/buyoffer/Buy-Organic-Fresh-Green-Coconuts-From-Thailand-2065567.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s39",
+"fit": 3,
+"age": 60,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "Looking to buy Tang fruit juice",
+"date": "2026-09-26",
+"url": "https://importer.tradekey.com/buyoffer/Looking-To-Buy-Tang-Fruit-Juice-2210615.html",
+"prods": [
+"juice"
+],
+"id": "s40",
+"fit": 2,
+"age": 61,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "Buy or sell supplier required",
+"date": "2026-09-24",
+"url": "https://importer.tradekey.com/buyoffer/Buy-Or-Sell-Supplier-Required-2237091.html",
+"prods": [
+"juice"
+],
+"id": "s41",
+"fit": 2,
+"age": 63,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Buy Fruit juice",
+"date": "2026-09-23",
+"url": "https://importer.tradekey.com/buyoffer/Buy-Fruit-Juice-3617529.html",
+"prods": [
+"juice"
+],
+"id": "s42",
+"fit": 2,
+"age": 64,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Coconut Water and Coconut products",
+"date": "2026-09-22",
+"url": "https://importer.tradekey.com/buyoffer/Coconut-Water-And-Coconut-Products-2059709.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s43",
+"fit": 3,
+"age": 65,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "SA",
+"company": "Taj Al Mulook General Trading Est.",
+"said": "Food Ingredients & Additives",
+"date": "2026-09-20",
+"url": "https://importer.tradekey.com/buyoffer/Food-Ingredients-amp-Additives-338915.html",
+"prods": [
+"juice"
+],
+"id": "s44",
+"fit": 2,
+"age": 67,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "I would like to purchase Coconut Water from quality suppliers",
+"date": "2026-09-19",
+"url": "https://importer.tradekey.com/buyoffer/I-Would-Like-To-Purchase-Coconut-Water-From-Quality-Suppliers-2029279.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s45",
+"fit": 3,
+"age": 68,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "I need Coconut water, Construction & Real Estate, Australia",
+"date": "2026-09-18",
+"url": "https://importer.tradekey.com/buyoffer/I-Need-Coconut-Water-1978003.html",
+"prods": [
+"coco"
+],
+"id": "s46",
+"fit": 3,
+"age": 69,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Organic Dried Coconut Water sellers required",
+"date": "2026-09-15",
+"url": "https://importer.tradekey.com/buyoffer/Organic-Dried-Coconut-Water-Sellers-Required-2205311.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s47",
+"fit": 3,
+"age": 72,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "I need company to supply Juices",
+"date": "2026-09-15",
+"url": "https://importer.tradekey.com/buyoffer/I-Need-Company-To-Supply-Juices-3653071.html",
+"prods": [
+"juice"
+],
+"id": "s48",
+"fit": 2,
+"age": 72,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Buy Juices",
+"date": "2026-09-15",
+"url": "https://importer.tradekey.com/buyoffer/Buy-Juices-3623423.html",
+"prods": [
+"juice"
+],
+"id": "s49",
+"fit": 2,
+"age": 72,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Don Simon Juice",
+"date": "2026-09-14",
+"url": "https://importer.tradekey.com/buyoffer/Don-Simon-Juice-3616895.html",
+"prods": [
+"juice"
+],
+"id": "s50",
+"fit": 2,
+"age": 73,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AE",
+"company": "AK SPARK INDIA PVT LTD CO. INDIA",
+"said": "Buy About Fermented Black Carrot Juice, Fermeted Carrot Juice, Turnip Juice",
+"date": "2026-09-13",
+"url": "https://importer.tradekey.com/buyoffer/Buy-About-Fermented-Black-Carrot-Juice-Fermeted-Carrot-Juice-Turnip-Juice-3541653.html",
+"prods": [
+"juice"
+],
+"id": "s51",
+"fit": 2,
+"age": 74,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "SA",
+"company": "Abdullah AlDossary Trading and Est",
+"said": "Want to buy coconut Juice (Quantity: 2x20' cuntainer 4400), Packaging & Printing - Dammam, Saudi Arabia",
+"date": "2026-09-13",
+"url": "https://importer.tradekey.com/buyoffer/Want-To-Buy-Coconut-Juice-Quantity-2x20-039-Cuntainer-4400--1440176.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s52",
+"fit": 3,
+"age": 74,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "I would like to purchase Coconut water",
+"date": "2026-09-11",
+"url": "https://importer.tradekey.com/buyoffer/I-Would-Like-To-Purchase-Coconut-Water-2135559.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s53",
+"fit": 3,
+"age": 76,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Demand for Coconut water",
+"date": "2026-09-10",
+"url": "https://importer.tradekey.com/buyoffer/Demand-For-Coconut-Water-1960037.html",
+"prods": [
+"coco"
+],
+"id": "s54",
+"fit": 3,
+"age": 77,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AE",
+"company": "Dufotex Scaffolds Trading LLC/ Dufotex Foodstuff Trading LLC",
+"said": "We require foodstuff mostly canned foods",
+"date": "2026-09-10",
+"url": "https://importer.tradekey.com/buyoffer/We-Require-Foodstuff-Mostly-Canned-Foods-3500627.html",
+"prods": [
+"juice",
+"canned"
+],
+"id": "s55",
+"fit": 3,
+"age": 77,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "mYme international",
+"said": "Juice sellers required, Business Services, Australia",
+"date": "2026-09-08",
+"url": "https://importer.tradekey.com/buyoffer/Juice-Sellers-Required-2327433.html",
+"prods": [
+"juice"
+],
+"id": "s56",
+"fit": 2,
+"age": 79,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Want to purchase CAN JUICE",
+"date": "2026-09-07",
+"url": "https://importer.tradekey.com/buyoffer/Want-To-Purchase-CAN-JUICE-3551643.html",
+"prods": [
+"juice"
+],
+"id": "s57",
+"fit": 2,
+"age": 80,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "In need for hibiscus flower",
+"date": "2026-09-07",
+"url": "https://importer.tradekey.com/buyoffer/In-Need-For-Hibiscus-Flower-3045811.html",
+"prods": [
+"juice"
+],
+"id": "s58",
+"fit": 2,
+"age": 80,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "Buying Juice & Carbonated drink",
+"date": "2026-09-07",
+"url": "https://importer.tradekey.com/buyoffer/Buying-Juice-amp-Carbonated-Drink-1154629.html",
+"prods": [
+"juice"
+],
+"id": "s59",
+"fit": 2,
+"age": 80,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AE",
+"company": "Al Waseem  Consulting LLC UAE",
+"said": "Anyone selling Rice, Fruit juice, Cement, Honey and Salt",
+"date": "2026-08-30",
+"url": "https://importer.tradekey.com/buyoffer/Anyone-Selling-Rice-Fruit-Juice-Cement-Honey-And-Salt-3561935.html",
+"prods": [
+"juice"
+],
+"id": "s60",
+"fit": 2,
+"age": 88,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "Triton Investments Corporation",
+"said": "Looking to buy Cranberry Juice",
+"date": "2026-08-30",
+"url": "https://importer.tradekey.com/buyoffer/Looking-To-Buy-Cranberry-Juice-3521537.html",
+"prods": [
+"juice"
+],
+"id": "s61",
+"fit": 2,
+"age": 88,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Buying in bulk",
+"date": "2026-08-28",
+"url": "https://importer.tradekey.com/buyoffer/Buying-In-Bulk-3663517.html",
+"prods": [
+"juice"
+],
+"id": "s62",
+"fit": 2,
+"age": 90,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "ND International Pty Ltd",
+"said": "Juice seller contact us, Business Services, Australia",
+"date": "2026-08-27",
+"url": "https://importer.tradekey.com/buyoffer/Juice-Seller-Contact-Us-2195095.html",
+"prods": [
+"juice"
+],
+"id": "s63",
+"fit": 2,
+"age": 91,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "SA",
+"company": "Al Fadul Trading Co",
+"said": "Need buyers",
+"date": "2026-08-27",
+"url": "https://importer.tradekey.com/buyoffer/Need-Buyers-1675531.html",
+"prods": [
+"juice"
+],
+"id": "s64",
+"fit": 2,
+"age": 91,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AE",
+"company": "Alusia Restaurant LLC",
+"said": "Buy About Don Simon Juice",
+"date": "2026-08-26",
+"url": "https://importer.tradekey.com/buyoffer/Buy-About-Don-Simon-Juice-3551295.html",
+"prods": [
+"juice"
+],
+"id": "s65",
+"fit": 2,
+"age": 92,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Buy About Canned Coconut Milk",
+"date": "2026-08-26",
+"url": "https://importer.tradekey.com/buyoffer/Buy-About-Canned-Coconut-Milk-3295623.html",
+"prods": [
+"coco",
+"juice",
+"canned"
+],
+"id": "s66",
+"fit": 3,
+"age": 92,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Want to buy Coconut Water",
+"date": "2026-08-24",
+"url": "https://importer.tradekey.com/buyoffer/Want-To-Buy-Coconut-Water-1424192.html",
+"prods": [
+"coco"
+],
+"id": "s67",
+"fit": 3,
+"age": 94,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "SA",
+"company": "Diyafa Trading",
+"said": "Coconut water",
+"date": "2026-08-24",
+"url": "https://importer.tradekey.com/buyoffer/Coconut-Water-2147499.html",
+"prods": [
+"coco"
+],
+"id": "s68",
+"fit": 3,
+"age": 94,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "I Want to purchase juice",
+"date": "2026-08-24",
+"url": "https://importer.tradekey.com/buyoffer/I-Want-To-Purchase-Juice-3545913.html",
+"prods": [
+"juice"
+],
+"id": "s69",
+"fit": 2,
+"age": 94,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Required Coconut Water 100% from quality sellers, Chemicals, Australia",
+"date": "2026-08-21",
+"url": "https://importer.tradekey.com/buyoffer/Required-Coconut-Water-100-From-Quality-Sellers-1918895.html",
+"prods": [
+"coco"
+],
+"id": "s70",
+"fit": 3,
+"age": 97,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Want supplier who can provide juices Model 2059",
+"date": "2026-08-20",
+"url": "https://importer.tradekey.com/buyoffer/Want-Supplier-Who-Can-Provide-Juices-Model-2059-3529617.html",
+"prods": [
+"juice"
+],
+"id": "s71",
+"fit": 2,
+"age": 98,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Searching for Coconut water",
+"date": "2026-08-17",
+"url": "https://importer.tradekey.com/buyoffer/Searching-For-Coconut-Water-2005687.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s72",
+"fit": 3,
+"age": 101,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AE",
+"company": "Kabbani Bros trading",
+"said": "Want to buy Juice 2 kg",
+"date": "2026-08-14",
+"url": "https://importer.tradekey.com/buyoffer/Want-To-Buy-Juice-2-Kg-3490425.html",
+"prods": [
+"juice"
+],
+"id": "s73",
+"fit": 2,
+"age": 104,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "Platinum Produce",
+"said": "Suppliers of Canned Coconut Water contact us",
+"date": "2026-08-13",
+"url": "https://importer.tradekey.com/buyoffer/Suppliers-Of-Canned-Coconut-Water-Contact-Us-1849095.html",
+"prods": [
+"coco",
+"juice",
+"canned"
+],
+"id": "s74",
+"fit": 3,
+"age": 105,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Required Coconut Water from quality suppliers",
+"date": "2026-08-09",
+"url": "https://importer.tradekey.com/buyoffer/Required-Coconut-Water-From-Quality-Suppliers-1822657.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s75",
+"fit": 3,
+"age": 109,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "Organic juice",
+"date": "2026-08-08",
+"url": "https://importer.tradekey.com/buyoffer/Organic-Juice-3311119.html",
+"prods": [
+"juice"
+],
+"id": "s76",
+"fit": 1,
+"age": 110,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "NYC Organic",
+"said": "Need to purchase Coconut water",
+"date": "2026-08-05",
+"url": "https://importer.tradekey.com/buyoffer/Need-To-Purchase-Coconut-Water-3616177.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s77",
+"fit": 3,
+"age": 113,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "The New Tea Company",
+"said": "Need to purchase Coconut Water",
+"date": "2026-08-04",
+"url": "https://importer.tradekey.com/buyoffer/Need-To-Purchase-Coconut-Water-2961169.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s78",
+"fit": 3,
+"age": 114,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Need supply of juice",
+"date": "2026-08-02",
+"url": "https://importer.tradekey.com/buyoffer/Need-Supply-Of-Juice-3304715.html",
+"prods": [
+"juice"
+],
+"id": "s79",
+"fit": 2,
+"age": 116,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Looking to buy Coconut water",
+"date": "2026-08-01",
+"url": "https://importer.tradekey.com/buyoffer/Looking-To-Buy-Coconut-Water-1778967.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s80",
+"fit": 3,
+"age": 117,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "AU",
+"company": "prudentia intl pty ltd",
+"said": "I need Coconut Water",
+"date": "2026-07-24",
+"url": "https://importer.tradekey.com/buyoffer/I-Need-Coconut-Water-1442110.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s81",
+"fit": 3,
+"age": 125,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Demand for Coconut WATER",
+"date": "2026-07-20",
+"url": "https://importer.tradekey.com/buyoffer/Demand-For-COCONUT-WATER-1731501.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s82",
+"fit": 3,
+"age": 129,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Wanted: Juice Like Bottled Pomegranate Juice",
+"date": "2026-11-19",
+"url": "https://www.go4worldbusiness.com/buylead/view/1335628/wanted-:-juice-like-bottled-pomegranate-juice.html",
+"prods": [
+"juice"
+],
+"id": "s83",
+"fit": 1,
+"age": 7,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Wanted: Beverages Like Fruit Juices, Soft Drinks, Energy Drinks — Type: Fruit Juices, Soft Drinks, Carbonated Drinks, Energy Drinks, Flavoured Water, Tea, And Coffee",
+"date": "2026-11-19",
+"url": "https://www.go4worldbusiness.com/buylead/view/1335669/wanted-:-beverages-like-fruit-juices-soft-drinks-energy-drinks.html",
+"prods": [
+"juice"
+],
+"id": "s84",
+"fit": 2,
+"age": 7,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "UK",
+"company": "",
+"said": "Wanted: Fresh Apple Juice",
+"date": "2026-11-02",
+"url": "https://www.go4worldbusiness.com/buylead/view/1332475/wanted-:-fresh-apple-juice.html",
+"prods": [
+"juice"
+],
+"id": "s85",
+"fit": 1,
+"age": 24,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "PH",
+"company": "",
+"said": "Wanted: Fruit  Juices — Type : Apple , Guava , Orange",
+"date": "2026-10-28",
+"url": "https://www.go4worldbusiness.com/buylead/view/1331631/wanted-:-fruit-juices.html",
+"prods": [
+"juice"
+],
+"id": "s86",
+"fit": 3,
+"age": 29,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Wanted: Beverages Like Soft Drinks, Juices — Type: Soft Drinks, Juices (Like Flavored Drinks)",
+"date": "2026-10-26",
+"url": "https://www.go4worldbusiness.com/buylead/view/1331087/wanted-:-beverages-like-soft-drinks-juices.html",
+"prods": [
+"juice"
+],
+"id": "s87",
+"fit": 2,
+"age": 31,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "MY",
+"company": "",
+"said": "Wanted: Beverages Like Soft Drinks, Fruit Juices — Type: Carbonated Beverages, Non-Carbonated Beverages (Like Soft Drinks, Fruit Juices)",
+"date": "2026-10-22",
+"url": "https://www.go4worldbusiness.com/buylead/view/1330693/wanted-:-beverages-like-soft-drinks-fruit-juices.html",
+"prods": [
+"juice"
+],
+"id": "s88",
+"fit": 2,
+"age": 35,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "MY",
+"company": "",
+"said": "Wanted: Beverages Like Juices, Soft Drinks, Energy Drinks",
+"date": "2026-10-15",
+"url": "https://www.go4worldbusiness.com/buylead/view/1329516/wanted-:-beverages-like-juices-soft-drinks-energy-drinks.html",
+"prods": [
+"juice"
+],
+"id": "s89",
+"fit": 2,
+"age": 42,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "MY",
+"company": "",
+"said": "Wanted: Beverages Like Juices, Soft Drinks, Energy Drinks",
+"date": "2026-10-14",
+"url": "https://www.go4worldbusiness.com/buylead/view/1329205/wanted-:-beverages-like-juices-soft-drinks-energy-drinks.html",
+"prods": [
+"juice"
+],
+"id": "s90",
+"fit": 2,
+"age": 43,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Wanted: Beverages Like Soft Drinks, Juices — Type: Soft Drinks, Juices (Like Flavored Drinks)",
+"date": "2026-10-09",
+"url": "https://www.go4worldbusiness.com/buylead/view/1328421/wanted-:-beverages-like-soft-drinks-juices.html",
+"prods": [
+"juice"
+],
+"id": "s91",
+"fit": 2,
+"age": 48,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "UK",
+"company": "",
+"said": "Wanted: Beverages Like Soft Drinks, Juices — Type: Soft Drinks, Juices (Like Flavored Drinks)",
+"date": "2026-10-06",
+"url": "https://www.go4worldbusiness.com/buylead/view/1327817/wanted-:-beverages-like-soft-drinks-juices.html",
+"prods": [
+"juice"
+],
+"id": "s92",
+"fit": 2,
+"age": 51,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Wanted: Beverages Like Soft Drinks, Fruit Juice — Type: Carbonated Drinks, Non-Carbonated Drinks (Like Soft Drinks, Fruit Juice)",
+"date": "2026-10-01",
+"url": "https://www.go4worldbusiness.com/buylead/view/1327179/wanted-:-beverages-like-soft-drinks-fruit-juice.html",
+"prods": [
+"juice"
+],
+"id": "s93",
+"fit": 2,
+"age": 56,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Wanted: Beverages Like Sparkling Water, Red Bull, Soft Drinks — Type: Fruit Juice, Boom Boom Energy Drink, Sparkling Water, Red Bull, Soft Drinks, Etc",
+"date": "2026-09-29",
+"url": "https://www.go4worldbusiness.com/buylead/view/1326682/wanted-:-beverages-like-sparkling-water-red-bull-soft-drinks.html",
+"prods": [
+"juice"
+],
+"id": "s94",
+"fit": 2,
+"age": 58,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "MY",
+"company": "",
+"said": "Wanted: Beverages Like Soft Drinks, Juices Beverages",
+"date": "2026-09-28",
+"url": "https://www.go4worldbusiness.com/buylead/view/1326420/wanted-:-beverages-like-soft-drinks-juices-beverages.html",
+"prods": [
+"juice"
+],
+"id": "s95",
+"fit": 2,
+"age": 59,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "Wanted: Beverages Like Soft Drinks, Fruit Juices",
+"date": "2026-09-24",
+"url": "https://www.go4worldbusiness.com/buylead/view/1325790/wanted-:-beverages-like-soft-drinks-fruit-juices.html",
+"prods": [
+"juice"
+],
+"id": "s96",
+"fit": 2,
+"age": 63,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Wanted: Organic Beverages Like Organic Juices, Organic Tea — Type: Organic Juices, Organic Tea & Coffee, Probiotic & Fermented Drinks",
+"date": "2026-09-23",
+"url": "https://www.go4worldbusiness.com/buylead/view/1325582/wanted-:-organic-beverages-like-organic-juices-organic-tea.html",
+"prods": [
+"juice"
+],
+"id": "s97",
+"fit": 1,
+"age": 64,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "MY",
+"company": "",
+"said": "Wanted: Packaged Beverages Like Fruit Drinks",
+"date": "2026-09-22",
+"url": "https://www.go4worldbusiness.com/buylead/view/1325115/wanted-:-packaged-beverages-like-fruit-drinks.html",
+"prods": [
+"juice"
+],
+"id": "s98",
+"fit": 2,
+"age": 65,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Wanted: Beverages Like Fruit Drinks, Flavored Drinks",
+"date": "2026-09-22",
+"url": "https://www.go4worldbusiness.com/buylead/view/1324989/wanted-:-beverages-like-fruit-drinks-flavored-drinks.html",
+"prods": [
+"juice"
+],
+"id": "s99",
+"fit": 2,
+"age": 65,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Wanted:  Beverages Like Soft Drinks, Fruit Juices",
+"date": "2026-09-22",
+"url": "https://www.go4worldbusiness.com/buylead/view/1325085/wanted-:-beverages-like-soft-drinks-fruit-juices.html",
+"prods": [
+"juice"
+],
+"id": "s100",
+"fit": 2,
+"age": 65,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "UK",
+"company": "",
+"said": "Wanted: Beverages Like Soft Drinks, Juices",
+"date": "2026-09-18",
+"url": "https://www.go4worldbusiness.com/buylead/view/1324613/wanted-:-beverages-like-soft-drinks-juices.html",
+"prods": [
+"juice"
+],
+"id": "s101",
+"fit": 2,
+"age": 69,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Wanted: Organic Coconut Water — Type: Organic Coconut Water",
+"date": "2026-09-18",
+"url": "https://www.go4worldbusiness.com/buylead/view/1324647/wanted-:-organic-coconut-water.html",
+"prods": [
+"coco"
+],
+"id": "s102",
+"fit": 3,
+"age": 69,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "PH",
+"company": "",
+"said": "Wanted: Apple Juice",
+"date": "2026-09-16",
+"url": "https://www.go4worldbusiness.com/buylead/view/1323978/wanted-:-apple-juice.html",
+"prods": [
+"juice"
+],
+"id": "s103",
+"fit": 1,
+"age": 71,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "PH",
+"company": "",
+"said": "Wanted: Fruit Juices Like Apple, Guava And Orange Juice — Type: Apple, Guava, Orange",
+"date": "2026-09-11",
+"url": "https://www.go4worldbusiness.com/buylead/view/1323000/wanted-:-fruit-juices-like-apple-guava-and-orange-juice.html",
+"prods": [
+"juice"
+],
+"id": "s104",
+"fit": 3,
+"age": 76,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Wanted: Japanese Drinks Like Juice Drinks, Ramune — Type: Juice Drinks, Ramune & Others",
+"date": "2026-09-09",
+"url": "https://www.go4worldbusiness.com/buylead/view/1322302/wanted-:-japanese-drinks-like-juice-drinks-ramune.html",
+"prods": [
+"juice"
+],
+"id": "s105",
+"fit": 2,
+"age": 78,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "Wanted:  Beverages Like Fruit Juices, Soft Drinks Beverages",
+"date": "2026-09-08",
+"url": "https://www.go4worldbusiness.com/buylead/view/1322081/wanted-:-beverages-like-fruit-juices-soft-drinks-beverages.html",
+"prods": [
+"juice"
+],
+"id": "s106",
+"fit": 2,
+"age": 79,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "UK",
+"company": "",
+"said": "Wanted: Fresh Fruit Juice Like Citrus, Tropical, Berry Juices",
+"date": "2026-09-08",
+"url": "https://www.go4worldbusiness.com/buylead/view/1322240/wanted-:-fresh-fruit-juice-like-citrus-tropical-berry-juices.html",
+"prods": [
+"juice"
+],
+"id": "s107",
+"fit": 3,
+"age": 79,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Wanted: Canned Food Like Canned Meat And Canned Fruits",
+"date": "2026-09-08",
+"url": "https://www.go4worldbusiness.com/buylead/view/1322003/wanted-:-canned-food-like-canned-meat-and-canned-fruits.html",
+"prods": [
+"canned"
+],
+"id": "s108",
+"fit": 3,
+"age": 79,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "UK",
+"company": "",
+"said": "Wanted: Beverages Like Fruit Juices, Soft Drinks, Energy Drinks",
+"date": "2026-09-03",
+"url": "https://www.go4worldbusiness.com/buylead/view/1321330/wanted-:-beverages-like-fruit-juices-soft-drinks-energy-drinks.html",
+"prods": [
+"juice"
+],
+"id": "s109",
+"fit": 2,
+"age": 84,
+"fresh": "fresh"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "MY",
+"company": "",
+"said": "Wanted: Fruit Juices And Beverages Like Energy Drinks, Soft Drink — Type: Fruit Juices, Carbonated Drinks, Energy Drinks, Soft Drink Need Good Brands With Catalogs For Each",
+"date": "2026-08-24",
+"url": "https://www.go4worldbusiness.com/buylead/view/1318674/wanted-:-fruit-juices-and-beverages-like-energy-drinks-soft-drink.html",
+"prods": [
+"juice"
+],
+"id": "s110",
+"fit": 2,
+"age": 94,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "UK",
+"company": "",
+"said": "Wanted: Beverages Like Soft Drinks, Juices — Type: Soft Drinks, Juices (like Flavored Drinks)",
+"date": "2026-08-14",
+"url": "https://www.go4worldbusiness.com/buylead/view/1316872/wanted-:-beverages-like-soft-drinks-juices.html",
+"prods": [
+"juice"
+],
+"id": "s111",
+"fit": 2,
+"age": 104,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "PH",
+"company": "",
+"said": "Wanted: Fruit Juices Like Pomegranates, Guava And Orange Juice — Type: Pomegranates, Guava, Orange, Apples, Mixed Fruit Juice",
+"date": "2026-08-13",
+"url": "https://www.go4worldbusiness.com/buylead/view/1316621/wanted-:-fruit-juices-like-pomegranates-guava-and-orange-juice.html",
+"prods": [
+"juice"
+],
+"id": "s112",
+"fit": 3,
+"age": 105,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "PH",
+"company": "",
+"said": "Wanted: Fruit Juices Like Apple, Guava And Orange Juice — Type: Apple, Guava, Orange",
+"date": "2026-08-10",
+"url": "https://www.go4worldbusiness.com/buylead/view/1315885/wanted-:-fruit-juices-like-apple-guava-and-orange-juice.html",
+"prods": [
+"juice"
+],
+"id": "s113",
+"fit": 3,
+"age": 108,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "UK",
+"company": "",
+"said": "Wanted: Fresh Fruit Juice Like Citrus, Tropical, And Berry Juice — Type: Citrus, Tropical, And Berry Juice",
+"date": "2026-07-23",
+"url": "https://www.go4worldbusiness.com/buylead/view/1312814/wanted-:-fresh-fruit-juice-like-citrus-tropical-and-berry-juice.html",
+"prods": [
+"juice"
+],
+"id": "s114",
+"fit": 3,
+"age": 126,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "PH",
+"company": "",
+"said": "Wanted: Fruit Juices Like Orange, Pineapple Juice — Type: Orange, Pineapple 100% Natural",
+"date": "2026-07-21",
+"url": "https://www.go4worldbusiness.com/buylead/view/1312243/wanted-:-fruit-juices-like-orange-pineapple-juice.html",
+"prods": [
+"juice",
+"canned"
+],
+"id": "s115",
+"fit": 3,
+"age": 128,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "US",
+"company": "",
+"said": "Wanted: Fruit Juices Like Mango, Guava, Cocktail, Passion Juice — Type: Mango, Guava, Cocktail, Passion, Etc. Juices In Glass Bottles And PET 200ml, 300ml, 500ml And 1 Liter",
+"date": "2026-07-08",
+"url": "https://www.go4worldbusiness.com/buylead/view/1309556/wanted-:-fruit-juices-like-mango-guava-cocktail-passion-juice.html",
+"prods": [
+"juice",
+"canned"
+],
+"id": "s116",
+"fit": 3,
+"age": 141,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Wanted: Coconut Water",
+"date": "2026-07-03",
+"url": "https://www.go4worldbusiness.com/buylead/view/1308776/wanted-:-coconut-water.html",
+"prods": [
+"coco",
+"juice"
+],
+"id": "s117",
+"fit": 3,
+"age": 146,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "MY",
+"company": "",
+"said": "Wanted: Juices Like Mango, Pineapple And Apple Juices",
+"date": "2026-06-29",
+"url": "https://www.go4worldbusiness.com/buylead/view/1307564/wanted-:-juices-like-mango-pineapple-and-apple-juices.html",
+"prods": [
+"juice",
+"canned"
+],
+"id": "s118",
+"fit": 3,
+"age": 150,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "Wanted: Fresh Juice Like Fruit And Vegetable Juice",
+"date": "2026-06-25",
+"url": "https://www.go4worldbusiness.com/buylead/view/1307134/wanted-:-fresh-juice-like-fruit-and-vegetable-juice.html",
+"prods": [
+"juice"
+],
+"id": "s119",
+"fit": 2,
+"age": 154,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "PH",
+"company": "",
+"said": "Wanted: Canned Food Like Coconut Cream , Cream — Type : Coconut Cream , Cream canned mushroom , corn etc",
+"date": "2026-06-25",
+"url": "https://www.go4worldbusiness.com/buylead/view/1306990/wanted-:-canned-food-like-coconut-cream-cream.html",
+"prods": [
+"coco",
+"canned"
+],
+"id": "s120",
+"fit": 3,
+"age": 154,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "MY",
+"company": "",
+"said": "Wanted: Beverages Like Juice Drinks, Energy Drinks",
+"date": "2026-06-19",
+"url": "https://www.go4worldbusiness.com/buylead/view/1305944/wanted-:-beverages-like-juice-drinks-energy-drinks.html",
+"prods": [
+"juice"
+],
+"id": "s121",
+"fit": 2,
+"age": 160,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AU",
+"company": "",
+"said": "Wanted: Beverages Like Soft Drinks, Juices — Type: Soft Drinks, Juices (like Flavored Drinks)",
+"date": "2026-06-18",
+"url": "https://www.go4worldbusiness.com/buylead/view/1305548/wanted-:-beverages-like-soft-drinks-juices.html",
+"prods": [
+"juice"
+],
+"id": "s122",
+"fit": 2,
+"age": 161,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "Wanted: Beverages Like Soft Drinks, Fruit Juices And Energy Drinks",
+"date": "2026-06-18",
+"url": "https://www.go4worldbusiness.com/buylead/view/1305619/wanted-:-beverages-like-soft-drinks-fruit-juices-and-energy-drinks.html",
+"prods": [
+"juice"
+],
+"id": "s123",
+"fit": 2,
+"age": 161,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "SA",
+"company": "",
+"said": "Wanted: Coconut Product Like Coconut Water, Coconut Milk — Type: Coconut Water, Coconut Milk (cooking), Coconut Milk Drink",
+"date": "2026-06-11",
+"url": "https://www.go4worldbusiness.com/buylead/view/1304270/wanted-:-coconut-product-like-coconut-water-coconut-milk.html",
+"prods": [
+"coco",
+"juice",
+"dairy"
+],
+"id": "s124",
+"fit": 3,
+"age": 168,
+"fresh": "recent"
+},
+{
+"src": "go4WorldBusiness",
+"type": "product",
+"country": "AE",
+"company": "",
+"said": "Wanted: Beverages Like Juices — Type : Orange Juice, Mix Fruit Juice, Mango Juice, Pomegranate Juice Contact Via Email Only",
+"date": "2026-06-03",
+"url": "https://www.go4worldbusiness.com/buylead/view/1302652/wanted-:-beverages-like-juices.html",
+"prods": [
+"juice"
+],
+"id": "s125",
+"fit": 3,
+"age": 176,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "PK",
+"company": "Venus Foods (Lahore)",
+"said": "Importer with national distribution; main lines pineapple, fruit cocktail and pure juices \"mainly from Thailand\"; wants a canner ONLY from Thailand/Malaysia; 30 FCLs.",
+"date": "2026-04-24",
+"url": "https://importer.tradekey.com/buyoffer/Canned-Prineapple-And-Fruit-Cocktail-725248.html",
+"prods": [
+"canned",
+"juice"
+],
+"manual": true,
+"id": "s126",
+"fit": 3,
+"age": 216,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "PK",
+"company": "",
+"said": "Urgently needs canned fruit cocktail and canned pineapple, 3 containers a month.",
+"date": "2026-06-29",
+"url": "https://importer.tradekey.com/buyoffer/Canned-Fruit-Cocktail-And-Pineapple-789103.html",
+"prods": [
+"canned"
+],
+"manual": true,
+"id": "s127",
+"fit": 3,
+"age": 150,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "oem",
+"country": "PH",
+"company": "",
+"said": "Coconut water supplier required: 33,000 L monthly, UHT 330 ml/500 ml/1 L twist cap; \"can provide own brand labelling\".",
+"date": "2026-08-16",
+"url": "https://importer.tradekey.com/buyoffer/Coconut-Water-Supplier-Required-2135369.html",
+"prods": [
+"coco",
+"oem"
+],
+"manual": true,
+"id": "s128",
+"fit": 3,
+"age": 102,
+"fresh": "recent"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "VN",
+"company": "HAMOON Co., Ltd",
+"said": "Needs original coconut water, no sugar, 330 ml PET or paper pack; wants to move fast.",
+"date": "2026-09-05",
+"url": "https://importer.tradekey.com/buyoffer/Buy-About-Coconut-Water-Beverage-3492353.html",
+"prods": [
+"coco"
+],
+"manual": true,
+"id": "s129",
+"fit": 3,
+"age": 82,
+"fresh": "fresh"
+},
+{
+"src": "TradeKey",
+"type": "product",
+"country": "MV",
+"company": "",
+"said": "Adding organic tender coconut water to a regional wholesale range; opening order then scalable replenishment; pilot lot, FOB/CIF.",
+"date": "2026-08-20",
+"url": "https://importer.tradekey.com/buyoffer/Looking-For-Manufacturers-Of-Organic-Tender-Coconut-Water-For-Maldives-3870925.html",
+"prods": [
+"coco"
+],
+"manual": true,
+"id": "s130",
+"fit": 3,
+"age": 98,
+"fresh": "recent"
+},
+{
+"src": "Tradewheel",
+"type": "product",
+"country": "CN",
+"company": "",
+"said": "Beverage distribution company seeks 100% natural coconut water, UHT/NFC, no added sugar, Brix 4.5–5.5, 330 ml/1 L Tetra Pak or aseptic bulk; monthly.",
+"date": "2026-03-06",
+"url": "https://www.tradewheel.com/buyers/need-bulk-supply-of-coconut-water-from-beverage/943748/",
+"prods": [
+"coco"
+],
+"manual": true,
+"id": "s131",
+"fit": 3,
+"age": 265,
+"fresh": "recent"
+},
+{
+"src": "Company website",
+"type": "partner",
+"country": "PH",
+"company": "Grand Alliance Import Corp. (GAIC)",
+"said": "\"For International Brands: Let's Expand Together\" — full-service entry into PH (import, regulatory, retail distribution); juices & beverages.",
+"date": "",
+"url": "https://gaic.com.ph/pages/about-us",
+"prods": [
+"juice",
+"coco"
+],
+"manual": true,
+"id": "s132",
+"fit": 3,
+"age": null,
+"fresh": "standing",
+"dist": "d35"
+},
+{
+"src": "Company website",
+"type": "partner",
+"country": "SA",
+"company": "TAN Gulf",
+"said": "\"One partner from regulatory approval to shelf … for international brands entering the Kingdom\"; imports Rubicon tropical juice drinks.",
+"date": "",
+"url": "https://tangulf.com/",
+"prods": [
+"juice",
+"coco"
+],
+"manual": true,
+"id": "s133",
+"fit": 3,
+"age": null,
+"fresh": "standing",
+"dist": "d47"
+},
+{
+"src": "Company website",
+"type": "partner",
+"country": "SA",
+"company": "Sunrise Distribution",
+"said": "\"Your route into Saudi Arabia\" for brand owners & exporters; juices and drinks category.",
+"date": "",
+"url": "https://sunrise-ksa.com/",
+"prods": [
+"juice",
+"coco"
+],
+"manual": true,
+"id": "s134",
+"fit": 3,
+"age": null,
+"fresh": "standing",
+"dist": "d48"
+},
+{
+"src": "Company website",
+"type": "partner",
+"country": "AU",
+"company": "Mur Thai Food Co",
+"said": "\"If you are a supplier … looking for a distributor … in the Australian market we would like to hear from you.\"",
+"date": "",
+"url": "https://www.murthaifood.com.au/aboutus",
+"prods": [
+"coco",
+"juice",
+"canned"
+],
+"manual": true,
+"id": "s135",
+"fit": 3,
+"age": null,
+"fresh": "standing",
+"dist": "d20"
+},
+{
+"src": "LinkedIn",
+"type": "partner",
+"country": "US",
+"company": "The Drinks Company (Miami)",
+"said": "\"Constantly on the lookout for new and innovative brands to add to our portfolio\" (coconut water, kombucha…).",
+"date": "",
+"url": "https://linkedin.com/company/the-drinks-company-llc",
+"prods": [
+"coco",
+"juice"
+],
+"manual": true,
+"id": "s136",
+"fit": 3,
+"age": null,
+"fresh": "standing",
+"dist": "d11"
+},
+{
+"src": "Company website",
+"type": "partner",
+"country": "AE",
+"company": "Ghori Trading",
+"said": "\"Distribute your brand\" — moves beverages & juices to 1,500+ retail doors in UAE/GCC.",
+"date": "",
+"url": "https://ghoritrading.com/distribution/food-fmcg-distributor-uae",
+"prods": [
+"juice"
+],
+"manual": true,
+"id": "s137",
+"fit": 2,
+"age": null,
+"fresh": "standing",
+"dist": "d41"
+},
+{
+"src": "Company website",
+"type": "partner",
+"country": "AE",
+"company": "Aldiqa Foodstuff Trading",
+"said": "\"Become a Partner\"; supplies juices/beverages and serves private-label customers across ME, Africa, Asia.",
+"date": "",
+"url": "https://aldiqatrading.com/",
+"prods": [
+"juice"
+],
+"manual": true,
+"id": "s138",
+"fit": 2,
+"age": null,
+"fresh": "standing",
+"dist": "d42"
+},
+{
+"src": "Company website",
+"type": "partner",
+"country": "SA",
+"company": "Al-Sahah Foods",
+"said": "\"Become a supplier — join our network of trusted suppliers\"; supplies juices to hotels/restaurants.",
+"date": "",
+"url": "https://alsahahfood.com/services",
+"prods": [
+"juice"
+],
+"manual": true,
+"id": "s139",
+"fit": 2,
+"age": null,
+"fresh": "standing",
+"dist": "d49"
+},
+{
+"src": "Company website",
+"type": "partner",
+"country": "MY",
+"company": "Best Marketing & Distribution",
+"said": "Imports brands and assists them \"in entering the local market\"; 4,200+ foodservice outlets.",
+"date": "",
+"url": "https://www.bestmarketingdistribution.com/",
+"prods": [
+"juice",
+"dairy"
+],
+"manual": true,
+"id": "s140",
+"fit": 2,
+"age": null,
+"fresh": "standing",
+"dist": "d29"
+},
+{
+"src": "LinkedIn",
+"type": "partner",
+"country": "CN",
+"company": "Fantastic Thai Trading (Shanghai)",
+"said": "\"Will continue to be an exceptional partner to manufacturers … helping excellent brands to achieve success in China\" (Walmart, Sam's, Tmall, JD).",
+"date": "",
+"url": "https://linkedin.com/company/fantastic-thai-trading-company",
+"prods": [
+"coco",
+"juice"
+],
+"manual": true,
+"id": "s141",
+"fit": 3,
+"age": null,
+"fresh": "standing",
+"dist": "d54"
+},
+{
+"src": "Company website",
+"type": "partner",
+"country": "AU",
+"company": "Ma Siam",
+"said": "Brisbane Thai importer offering \"Import or Create Own Brand\" packaging for clients.",
+"date": "",
+"url": "https://masiam.com.au/",
+"prods": [
+"oem",
+"juice"
+],
+"manual": true,
+"id": "s142",
+"fit": 3,
+"age": null,
+"fresh": "standing",
+"dist": "d21"
+},
+{
+"src": "ThaiTradeUSA (DITP)",
+"type": "other",
+"country": "US",
+"company": "DITP Thailand–U.S. Online Business Matching",
+"said": "US buyers matched with Thai suppliers of coconut water & canned pineapple (Malee International listed). Ask Thai Trade Center LA which buyers registered.",
+"date": "2026-04-28",
+"url": "https://thaitradeusa.com/events/179",
+"prods": [
+"coco",
+"canned"
+],
+"manual": true,
+"id": "s143",
+"fit": 3,
+"age": 212,
+"fresh": "recent"
+}
+],
+"built": "2026-11-26"
+}

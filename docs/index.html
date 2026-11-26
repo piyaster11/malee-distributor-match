@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥥</text></svg>">
+<title>Malee Distributor Match — push × pull</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600&family=Sarabun:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#07080c;--card:#14161e;--card2:#1a1d27;--ink:#eceae3;--muted:#9a978c;--line:#2a2d38;--gold:#d4b06a;--green:#5ecf9a;--blue:#7aa6e8;--purple:#c9a0ff;--red:#e08a7a;--amber:#e0b04a}
+*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--ink);font-family:"Libre Franklin","Sarabun",system-ui,sans-serif}
+a{color:var(--gold)}.wrap{max-width:1200px;margin:0 auto;padding:0 18px}
+header{background:linear-gradient(180deg,#10131c,#0a0c11);border-bottom:1px solid var(--line)}
+header .wrap{padding:22px 18px 16px}.kicker{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);margin:0 0 6px}
+h1{font-family:"Source Serif 4",Georgia,serif;font-size:clamp(26px,4vw,40px);margin:0 0 8px;line-height:1.15}
+h2{font-family:"Source Serif 4",Georgia,serif;font-size:24px;margin:0 0 6px}h3{font-size:15px;margin:0 0 4px}
+.lead{color:var(--muted);margin:0 0 14px;max-width:90ch;font-size:14px}
+nav{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13px;margin-top:10px}nav a{color:var(--muted);text-decoration:none}nav a:hover{color:var(--gold)}
+.top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap}
+.lang button,.btn,.chips button{border:1px solid var(--line);background:var(--card);color:var(--muted);border-radius:999px;padding:6px 12px;cursor:pointer;font:inherit;font-size:13px}
+.lang button.on,.chips button.on{background:var(--ink);color:#111;border-color:var(--ink)}
+.btn.primary{background:var(--gold);color:#111;border-color:var(--gold);font-weight:600}
+section{margin:26px 0 34px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:12px 0}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px}.kpi .l{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}.kpi .v{font-family:"Source Serif 4",serif;font-size:24px;font-weight:600}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0 12px}
+select,input,textarea{background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:10px;padding:7px 10px;font:inherit;font-size:13px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:13px 15px;font-size:13.5px}
+.card.warm{border-color:#5a4a22;box-shadow:0 0 0 1px rgba(212,176,106,.15) inset}
+.tag{display:inline-block;font-size:11px;font-weight:600;border-radius:999px;padding:2px 8px;margin:0 4px 4px 0;background:#2a2d38;color:var(--muted)}
+.t-product{background:rgba(94,207,154,.15);color:var(--green)}.t-partner{background:rgba(201,160,255,.15);color:var(--purple)}.t-oem{background:rgba(122,166,232,.15);color:var(--blue)}.t-other{background:#2a2d38;color:var(--muted)}
+.f-fresh{background:rgba(94,207,154,.15);color:var(--green)}.f-recent{background:rgba(224,176,74,.15);color:var(--amber)}.f-stale{background:rgba(224,138,122,.15);color:var(--red)}.f-standing{background:#2a2d38;color:var(--ink)}
+.fit3{color:var(--green)}.fit2{color:var(--amber)}.fit1{color:var(--muted)}
+.score{display:flex;gap:10px;margin:8px 0}.score div{flex:1;background:var(--card2);border-radius:10px;padding:6px 8px;text-align:center}.score b{display:block;font-family:"Source Serif 4",serif;font-size:22px}.score small{color:var(--muted);font-size:11px}
+.bar{height:6px;background:#2a2d38;border-radius:4px;overflow:hidden;margin:4px 0}.bar i{display:block;height:100%;background:var(--gold)}
+ul.why{margin:6px 0;padding-left:18px}ul.why li{margin:2px 0}
+.muted{color:var(--muted)}.small{font-size:12px}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}th{font-size:11px;text-transform:uppercase;color:var(--muted);background:var(--card2)}
+.tw{overflow:auto;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+.unk{color:var(--amber)}
+.note{background:#1a1610;border:1px solid #3a2f14;border-radius:12px;padding:10px 12px;font-size:13px;color:#e6d6a8;margin:10px 0}
+form.add{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}form.add label{font-size:12px;color:var(--muted);display:flex;flex-direction:column;gap:4px}
+.cb{display:flex;flex-wrap:wrap;gap:10px;font-size:13px}.cb label{flex-direction:row!important;align-items:center;color:var(--ink)!important}
+footer{border-top:1px solid var(--line);padding:18px 0 40px;color:var(--muted);font-size:12px}
+@media print{header nav,.controls,.lang,#leads,#markets,#match,#add,#method,footer{display:none!important}#trip{display:block}body{background:#fff;color:#000}.card{border-color:#999;background:#fff}}
+</style></head><body>
+<header><div class="wrap"><div class="top"><div>
+<p class="kicker" data-i="kicker">Malee Group · Export sales tool · v1</p>
+<h1 data-i="title">Distributor Match: who needs Malee, and where</h1>
+<p class="lead" data-i="sub">Push = where Malee's portfolio fits the market (trade data). Pull = which real importers/distributors need what Malee makes (public evidence + buyers who say so). Every company links to its public source.</p></div>
+<div class="lang"><button id="lenBtn" class="on">EN</button> <button id="lthBtn">ไทย</button></div></div>
+<nav><a href="#leads" data-i="nLeads">🔥 Warm leads</a><a href="#markets" data-i="nMarkets">Markets (push)</a><a href="#match" data-i="nMatch">Distributor match (pull)</a><a href="#trip" data-i="nTrip">Trip planner</a><a href="#add" data-i="nAdd">Add a distributor</a><a href="#method" data-i="nMethod">How scoring works</a></nav>
+</div></header>
+<main class="wrap">
+<section id="leads"><h2 data-i="leadsH">🔥 Warm leads — buyers who said they need it</h2>
+<p class="lead" data-i="leadsL">Public posts where importers/distributors ask for products like Malee's, or publicly invite new brand partners. Company-level only; contact through the source platform. Never invented — if a country has few, that's the real count.</p>
+<div class="kpis" id="leadKpis"></div>
+<div class="controls">
+<select id="lc"></select><select id="lt"></select><select id="lp"></select><select id="lf"></select>
+<button class="btn" id="leadCsv" data-i="csv">Export CSV</button></div>
+<div class="tw"><table><thead><tr><th data-i="thDate">Date</th><th data-i="thCountry">Country</th><th data-i="thType">Type</th><th data-i="thSaid">What they said</th><th data-i="thLead">Lead with</th><th data-i="thSrc">Source</th></tr></thead><tbody id="leadRows"></tbody></table></div>
+<p class="small muted" id="leadNote"></p>
+</section>
+
+<section id="markets"><h2 data-i="mktH">Markets — push score</h2>
+<p class="lead" data-i="mktL">UN Comtrade imports of HS 2009 (juices), 2202 (other non-alcoholic drinks — includes energy/soft drinks, so it overstates the nectar market) and 2008 (prepared/canned fruit). Latest reported year; growth vs 2021.</p>
+<div class="grid" id="mktCards"></div></section>
+
+<section id="match"><h2 data-i="matchH">Distributor match — pull × push</h2>
+<p class="lead" data-i="matchL">Need score is an AI assessment from the listed public evidence only. "Unknown" means the source didn't say — not a no.</p>
+<div class="controls"><select id="mc"></select><select id="mcat"></select><select id="mch"></select><label class="small muted"><input type="checkbox" id="mwarm"> <span data-i="onlyWarm">Only with buyer/partner signal</span></label><button class="btn" id="distCsv" data-i="csv">Export CSV</button></div>
+<div class="grid" id="distCards"></div></section>
+
+<section id="trip"><h2 data-i="tripH">Trip planner</h2>
+<p class="lead" data-i="tripL">Pick the country you're visiting: top 10 distributors to meet, plus that country's warm leads. Print or save as PDF.</p>
+<div class="controls"><select id="tc"></select><button class="btn" onclick="window.print()" data-i="print">Print / PDF</button></div>
+<div id="tripOut"></div></section>
+
+<section id="add"><h2 data-i="addH">Add a distributor you met</h2>
+<p class="lead" data-i="addL">Saved only in this browser (localStorage). It's scored the same way and appears in the match list and trip planner.</p>
+<form class="add" id="addForm">
+<label><span data-i="fName">Company name *</span><input name="name" required></label>
+<label><span data-i="fCountry">Country *</span><select name="country" id="fc"></select></label>
+<label><span data-i="fUrl">Website / source URL</span><input name="url" type="url" placeholder="https://"></label>
+<label><span data-i="fNote">Notes (what they said)</span><input name="note"></label>
+<div class="cb"><label><input type="checkbox" name="j"> <span data-i="cJ">Sells juice/drinks</span></label><label><input type="checkbox" name="c"> <span data-i="cC">Has coconut water</span></label><label><input type="checkbox" name="a"> <span data-i="cA">Asian/Thai shelf</span></label><label><input type="checkbox" name="o"> <span data-i="cO">Wants new brands</span></label><label><input type="checkbox" name="w"> <span data-i="cW">Said they need Malee-type products</span></label></div>
+<div class="cb"><label><input type="checkbox" name="ch" value="Retail"> Retail</label><label><input type="checkbox" name="ch" value="HoReCa"> HoReCa</label><label><input type="checkbox" name="ch" value="Ethnic Asian"> Ethnic Asian</label><label><input type="checkbox" name="ch" value="E-commerce"> E-commerce</label><label><input type="checkbox" name="ch" value="Wholesale"> Wholesale</label></div>
+<div><button class="btn primary" type="submit" data-i="save">Save & score</button></div></form>
+<div id="mine" class="grid" style="margin-top:12px"></div></section>
+
+<section id="method"><h2 data-i="methH">How scoring works</h2><div class="card" id="methBody"></div></section>
+</main>
+<footer><div class="wrap" id="foot"></div></footer>
+<script src="app.js"></script></body></html>
