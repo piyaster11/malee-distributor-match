@@ -29,6 +29,7 @@ select,input,textarea{background:var(--card);color:var(--ink);border:1px solid v
 .tag{display:inline-block;font-size:11px;font-weight:600;border-radius:999px;padding:2px 8px;margin:0 4px 4px 0;background:#2a2d38;color:var(--muted)}
 .t-product{background:rgba(94,207,154,.15);color:var(--green)}.t-partner{background:rgba(201,160,255,.15);color:var(--purple)}.t-oem{background:rgba(122,166,232,.15);color:var(--blue)}.t-other{background:#2a2d38;color:var(--muted)}
 .f-fresh{background:rgba(94,207,154,.15);color:var(--green)}.f-recent{background:rgba(224,176,74,.15);color:var(--amber)}.f-stale{background:rgba(224,138,122,.15);color:var(--red)}.f-standing{background:#2a2d38;color:var(--ink)}
+.w-High{background:rgba(94,207,154,.18);color:var(--green)}.w-Medium{background:rgba(224,176,74,.15);color:var(--amber)}.w-Low{background:#2a2d38;color:var(--muted)}.w-Verifyfirst{background:rgba(224,138,122,.15);color:var(--red)}details summary{cursor:pointer;color:var(--gold);margin-top:4px}details div{margin:3px 0}
 .fit3{color:var(--green)}.fit2{color:var(--amber)}.fit1{color:var(--muted)}
 .score{display:flex;gap:10px;margin:8px 0}.score div{flex:1;background:var(--card2);border-radius:10px;padding:6px 8px;text-align:center}.score b{display:block;font-family:"Source Serif 4",serif;font-size:22px}.score small{color:var(--muted);font-size:11px}
 .bar{height:6px;background:#2a2d38;border-radius:4px;overflow:hidden;margin:4px 0}.bar i{display:block;height:100%;background:var(--gold)}
@@ -55,10 +56,10 @@ footer{border-top:1px solid var(--line);padding:18px 0 40px;color:var(--muted);f
 <p class="lead" data-i="leadsL">Public posts where importers/distributors ask for products like Malee's, or publicly invite new brand partners. Company-level only; contact through the source platform. Never invented — if a country has few, that's the real count.</p>
 <div class="kpis" id="leadKpis"></div>
 <div class="controls">
-<select id="lc"></select><select id="lt"></select><select id="lp"></select><select id="lf"></select>
+<select id="lw"></select><select id="lr"></select><select id="lc"></select><select id="lt"></select><select id="lp"></select><select id="lf"></select>
 <button class="btn" id="leadCsv" data-i="csv">Export CSV</button></div>
 <div class="tw"><table><thead><tr><th data-i="thDate">Date</th><th data-i="thCountry">Country</th><th data-i="thType">Type</th><th data-i="thSaid">What they said</th><th data-i="thLead">Lead with</th><th data-i="thSrc">Source</th></tr></thead><tbody id="leadRows"></tbody></table></div>
-<p class="small muted" id="leadNote"></p>
+<p class="small muted" id="leadNote"></p><p class="small unk" data-i="tkNote">TradeKey shows buyer names and contacts only to premium members; sales can still reply to any post through the board with a free account. Ratings are AI assessments from the public post — confirm before committing samples or credit.</p>
 </section>
 
 <section id="markets"><h2 data-i="mktH">Markets — push score</h2>
@@ -67,7 +68,7 @@ footer{border-top:1px solid var(--line);padding:18px 0 40px;color:var(--muted);f
 
 <section id="match"><h2 data-i="matchH">Distributor match — pull × push</h2>
 <p class="lead" data-i="matchL">Need score is an AI assessment from the listed public evidence only. "Unknown" means the source didn't say — not a no.</p>
-<div class="controls"><select id="mc"></select><select id="mcat"></select><select id="mch"></select><label class="small muted"><input type="checkbox" id="mwarm"> <span data-i="onlyWarm">Only with buyer/partner signal</span></label><button class="btn" id="distCsv" data-i="csv">Export CSV</button></div>
+<div class="controls"><select id="mw"></select><select id="mc"></select><select id="mcat"></select><select id="mch"></select><label class="small muted"><input type="checkbox" id="mwarm"> <span data-i="onlyWarm">Only with buyer/partner signal</span></label><button class="btn" id="distCsv" data-i="csv">Export CSV</button></div>
 <div class="grid" id="distCards"></div></section>
 
 <section id="trip"><h2 data-i="tripH">Trip planner</h2>

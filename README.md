@@ -17,6 +17,7 @@ Run these from the repo root:
 2. Re-parse those pages into `data/sig/tk_keep.json` and `data/sig/g4_keep.json`. The parsing steps are inline in `tools/build_data.py`'s history; if the page markup changed, adjust the regexes.
 3. Add hand-verified partner-seeking pages and new leads to the `M` list in `tools/build_data.py`. Each entry needs a source URL and a date.
 4. `python3 tools/build_data.py` writes `docs/data.json`. Posts older than 12 months are marked stale.
-5. Optionally run `python3 tools/pull2.py` to refresh the Comtrade data, then commit and push.
+5. Qualification: curl each lead's detail page into a folder outside the repo (it contains personal names, so don't commit it), run `python3 tools/profile.py <that folder>` to write the sanitized `data/profiles.json`, then run `python3 tools/qualify.py` to add requester type, size signals and the worth-the-effort rating, which is an AI assessment.
+6. Optionally run `python3 tools/pull2.py` to refresh the Comtrade data, then commit and push.
 
 GitHub Pages serves this repo from `docs/` on `main`.

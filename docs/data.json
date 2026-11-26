@@ -387,7 +387,23 @@
 "o": true
 },
 "evidence": "Importer, wholesaler and distributor of Asian food in North America since 1912; site has a \"Partner with us\" call.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Wholesaler",
+"rtypeEv": "Importer/wholesaler — per its own site",
+"size": [
+"Founded 1912 (as Nishimoto Trading)",
+"20 offices & branches (site)"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 45/100 from evidence",
+"Size evidence: Founded 1912 (as Nishimoto Trading)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d2",
@@ -406,7 +422,21 @@
 "a": true
 },
 "evidence": "\"Leading distributor of Asian food, beverages & Japanese liquor\"; Japan-led range.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Distributor — per its own site",
+"size": [
+"\"A century of success\" (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 70/100 from evidence",
+"Size evidence: \"A century of success\" (site)"
+],
+"flags": []
+}
 },
 {
 "id": "d3",
@@ -423,7 +453,19 @@
 "a": true
 },
 "evidence": "Specialty food distributor focused on Asian restaurants; site lists beverages and chilled/frozen.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Distributor (foodservice)",
+"rtypeEv": "Foodservice distributor — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 60/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d4",
@@ -442,7 +484,22 @@
 "a": true
 },
 "evidence": "\"Source. Import. Distribute. If it's Pan-Asian food, we do it.\" 40-year Asian food importer.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [
+"40 years (site)",
+"4,000+ products (site)"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 30/100 from evidence",
+"Size evidence: 40 years (site)"
+],
+"flags": []
+}
 },
 {
 "id": "d5",
@@ -462,7 +519,19 @@
 "k": true
 },
 "evidence": "Asian food importer with coconut products, beverages, dairy and canned categories; sells on Amazon.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 65/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d6",
@@ -481,7 +550,22 @@
 "o": true
 },
 "evidence": "Natural/organic & specialty distributor, 19 DCs; says it helps \"suppliers expand their reach\".",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Distributor — per its own site",
+"size": [
+"19 distribution centers (site)"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 30/100 from evidence",
+"Size evidence: 19 distribution centers (site)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d7",
@@ -504,7 +588,21 @@
 "brands": [
 "Chaokoh",
 "Foco"
-]
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Thai importer/distributor — per its own site",
+"size": [
+"In business since 1987 (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 63/100 from evidence",
+"Size evidence: In business since 1987 (site)"
+],
+"flags": []
+}
 },
 {
 "id": "d8",
@@ -530,7 +628,19 @@
 "Foco",
 "Mogu Mogu",
 "UFC"
-]
+],
+"q": {
+"rtype": "Wholesaler",
+"rtypeEv": "Asian beverage wholesaler — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 68/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d9",
@@ -549,7 +659,19 @@
 "d": true
 },
 "evidence": "Wholesale \"Coconut Water & Asian Juices\" range (Southeast Asian focus).",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Wholesaler",
+"rtypeEv": "Importer/wholesaler — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 60/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d10",
@@ -569,7 +691,21 @@
 "evidence": "US sole distributor of Hydro Coco coconut water — a direct competitor tie.",
 "brands": [
 "Hydro Coco"
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Brand distributor — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 43/100 from evidence",
+"No public size data found"
+],
+"flags": [
+"Exclusive to a competing coconut-water brand"
 ]
+}
 },
 {
 "id": "d11",
@@ -591,7 +727,23 @@
 "brands": [],
 "signals": [
 "s136"
-]
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Boutique beverage distributor — per its own site",
+"size": [
+"6 employees (LinkedIn)",
+"Refrigerated truck fleet (LinkedIn)"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 75/100 from evidence",
+"Size evidence: 6 employees (LinkedIn)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d12",
@@ -610,7 +762,22 @@
 "a": true
 },
 "evidence": "\"UK's leading Oriental grocer\", 4,500+ products, 4 superstores (Birmingham, Manchester, Croydon, Cricklewood).",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Wholesaler",
+"rtypeEv": "Oriental wholesaler/grocer — per its own site",
+"size": [
+"Since the 1970s",
+"4 superstores; 4,500+ products (site)"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 30/100 from evidence",
+"Size evidence: Since the 1970s"
+],
+"flags": []
+}
 },
 {
 "id": "d13",
@@ -632,7 +799,19 @@
 "brands": [
 "Chaokoh",
 "Foco"
-]
+],
+"q": {
+"rtype": "Distributor (foodservice)",
+"rtypeEv": "Asian foodservice wholesaler — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 58/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d14",
@@ -652,7 +831,19 @@
 "evidence": "Distributes Foco coconut water (330 ml, 1 L UHT) and Foco Thai fruit drinks (mango, guava, lychee…).",
 "brands": [
 "Foco"
-]
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Oriental importer/distributor — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 58/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d15",
@@ -670,7 +861,19 @@
 "a": true
 },
 "evidence": "Importer and distributor of Japanese food (Yutaka); cash & carry.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 65/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d16",
@@ -689,7 +892,19 @@
 "a": null
 },
 "evidence": "Large UK wholesaler serving independent retail and catering.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Wholesaler",
+"rtypeEv": "Cash & carry wholesaler — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 40/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d17",
@@ -707,7 +922,21 @@
 "a": true
 },
 "evidence": "London distributor (founded 2024) of East/Southeast Asian food & beverage to UK retailers.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Distributor — per its own site",
+"size": [
+"Founded 2024 (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 60/100 from evidence",
+"Size evidence: Founded 2024 (site)"
+],
+"flags": []
+}
 },
 {
 "id": "d18",
@@ -730,7 +959,19 @@
 "evidence": "\"Home of Asia\" stores + online, with bulk-buy; Thai, Filipino, Malaysian ranges; carries Aroy-D.",
 "brands": [
 "Aroy-D"
-]
+],
+"q": {
+"rtype": "Retailer",
+"rtypeEv": "Asian retailer/wholesaler — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 63/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d19",
@@ -752,7 +993,21 @@
 "evidence": "Since 1980; first to import Thai jasmine rice; beverages in range; Foco seen.",
 "brands": [
 "Foco"
-]
+],
+"q": {
+"rtype": "Wholesaler",
+"rtypeEv": "Thai/Asian importer-wholesaler — per its own site",
+"size": [
+"Established 1980 (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 63/100 from evidence",
+"Size evidence: Established 1980 (site)"
+],
+"flags": []
+}
 },
 {
 "id": "d20",
@@ -773,7 +1028,22 @@
 "brands": [],
 "signals": [
 "s135"
-]
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [
+"DCs in Sydney, Melbourne, Brisbane (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 75/100 from evidence",
+"Size evidence: DCs in Sydney, Melbourne, Brisbane (site)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d21",
@@ -795,7 +1065,20 @@
 "brands": [],
 "signals": [
 "s142"
-]
+],
+"q": {
+"rtype": "Wholesaler",
+"rtypeEv": "Thai importer-wholesaler — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 55/100 from evidence",
+"No public size data found",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d22",
@@ -814,7 +1097,20 @@
 "o": true
 },
 "evidence": "Imports Thai grocery (Pomelo rice, sauces); sources and private-labels from Thailand for clients.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Wholesaler",
+"rtypeEv": "Thai importer-wholesaler — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 45/100 from evidence",
+"No public size data found",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d23",
@@ -835,7 +1131,21 @@
 "evidence": "\"#1 Asian Food Distributor in Australia\"; carries Aroy-D.",
 "brands": [
 "Aroy-D"
-]
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Asian food distributor — per its own site",
+"size": [
+"Claims \"#1 Asian Food Distributor in Australia\" (site)"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 30/100 from evidence",
+"Size evidence: Claims \"#1 Asian Food Distributor in Australia\" (site)"
+],
+"flags": []
+}
 },
 {
 "id": "d24",
@@ -855,7 +1165,21 @@
 "evidence": "Asian food specialist since the 1970s; operations in AU, NZ, SG, Europe, Canada.",
 "brands": [
 "Yeo's"
-]
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Asian food distributor — per its own site",
+"size": [
+"Since the 1970s; AU, NZ, SG, Europe, Canada sites"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 25/100 from evidence",
+"Size evidence: Since the 1970s; AU, NZ, SG, Europe, Canada sites"
+],
+"flags": []
+}
 },
 {
 "id": "d25",
@@ -873,7 +1197,21 @@
 "d": true
 },
 "evidence": "National foodservice distributor (beverages, dairy, chilled).",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Distributor (foodservice)",
+"rtypeEv": "Foodservice distributor — per its own site",
+"size": [
+"National foodservice network (site)"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 30/100 from evidence",
+"Size evidence: National foodservice network (site)"
+],
+"flags": []
+}
 },
 {
 "id": "d26",
@@ -891,7 +1229,21 @@
 "a": false
 },
 "evidence": "Australia's leading wholesale distributor (food, liquor, hardware).",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Wholesaler",
+"rtypeEv": "Wholesaler (IGA supply) — per its own site",
+"size": [
+"\"Australia's leading wholesale distribution company\" (site)"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 10/100 from evidence",
+"Size evidence: \"Australia's leading wholesale distribution company\" (site)"
+],
+"flags": []
+}
 },
 {
 "id": "d27",
@@ -909,7 +1261,22 @@
 "o": true
 },
 "evidence": "FMCG importer representing 25+ global brands from 16 countries; aims to be largest importer by 2028.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [
+"Since 2015; 25+ brands from 16 countries (site)"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 25/100 from evidence",
+"Size evidence: Since 2015; 25+ brands from 16 countries (site)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d28",
@@ -929,7 +1296,21 @@
 "evidence": "FMCG importer since 2001, 800+ products incl. \"Drinks and Juice\"; Peninsular coverage.",
 "brands": [
 "F&N"
-]
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [
+"Since 2001; 800+ products; 10,000+ customers (site)"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 50/100 from evidence",
+"Size evidence: Since 2001; 800+ products; 10,000+ customers (site)"
+],
+"flags": []
+}
 },
 {
 "id": "d29",
@@ -953,7 +1334,22 @@
 ],
 "signals": [
 "s140"
-]
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "F&B distributor — per its own site",
+"size": [
+"Since 2014; 4,200+ foodservice outlets, 350+ retailers/wholesalers; 2,000+ products (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 80/100 from evidence",
+"Size evidence: Since 2014; 4,200+ foodservice outlets, 350+ retailers/wholesalers; 2,000+ products (site)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d30",
@@ -976,7 +1372,22 @@
 "evidence": "200+ third-party brands, 170 vehicles incl. 100 reefers; beverages incl. Yeo's, Bundaberg.",
 "brands": [
 "Yeo's"
-]
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Distributor — per its own site",
+"size": [
+"200+ brands; 170+ vehicles incl. 100 refrigerated (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 75/100 from evidence",
+"Size evidence: 200+ brands; 170+ vehicles incl. 100 refrigerated (site)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d31",
@@ -997,7 +1408,21 @@
 "evidence": "Importer of international ambient & chilled brands for hotels, bakeries, supermarkets; carries Rauch juices.",
 "brands": [
 "Rauch"
-]
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Fine-food importer — per its own site",
+"size": [
+"30 years; 100+ products (site)"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 50/100 from evidence",
+"Size evidence: 30 years; 100+ products (site)"
+],
+"flags": []
+}
 },
 {
 "id": "d32",
@@ -1016,7 +1441,20 @@
 "o": true
 },
 "evidence": "Market-expansion services provider (distribution for principals).",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Distributor (services)",
+"rtypeEv": "Market expansion services — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 30/100 from evidence",
+"No public size data found",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d33",
@@ -1035,7 +1473,21 @@
 "evidence": "Exclusive distributor of Tree Top juices, Lee Kum Kee, Smucker's etc.",
 "brands": [
 "Tree Top"
-]
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/exclusive distributor — per its own site",
+"size": [
+"Since 1948; nationwide network (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 60/100 from evidence",
+"Size evidence: Since 1948; nationwide network (site)"
+],
+"flags": []
+}
 },
 {
 "id": "d34",
@@ -1058,7 +1510,21 @@
 "brands": [
 "Welch's",
 "Mott's"
-]
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [
+"50+ years; 5 categories; 7,360 LinkedIn followers"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 40/100 from evidence",
+"Size evidence: 50+ years; 5 categories; 7,360 LinkedIn followers"
+],
+"flags": []
+}
 },
 {
 "id": "d35",
@@ -1083,7 +1549,22 @@
 ],
 "signals": [
 "s132"
-]
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [
+"In SM, Robinsons, Waltermart; YCH 3PL warehousing (site / WOFEX 2026)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 80/100 from evidence",
+"Size evidence: In SM, Robinsons, Waltermart; YCH 3PL warehousing (site / WOFEX 2026)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d36",
@@ -1103,7 +1584,19 @@
 "d": true
 },
 "evidence": "\"Home to your Asian cravings\"; imports Asian incl. Thai brands for supermarkets.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Asian food importer — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 55/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d37",
@@ -1124,7 +1617,20 @@
 "evidence": "Beverage distributor (\"we help FMCG brands thrive\"); Thai drinks incl. Mogu Mogu.",
 "brands": [
 "Mogu Mogu"
-]
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Beverage distributor — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 78/100 from evidence",
+"No public size data found",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d38",
@@ -1142,7 +1648,23 @@
 "d": true
 },
 "evidence": "Large PH food group with coconut and milk lines (also coconut OEM exporter) — partly a competitor.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Food manufacturer/distributor — per its own site",
+"size": [
+"Listed PH food group (site)"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 15/100 from evidence",
+"Size evidence: Listed PH food group (site)"
+],
+"flags": [
+"Makes its own coconut lines (competitor)"
+]
+}
 },
 {
 "id": "d39",
@@ -1161,7 +1683,21 @@
 "a": true
 },
 "evidence": "\"Asian Food Importers in the UAE, Qatar, Saudi Arabia, Bahrain\".",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Asian food importer — per its own site",
+"size": [
+"Imports for UAE, Qatar, KSA, Bahrain (site)"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 40/100 from evidence",
+"Size evidence: Imports for UAE, Qatar, KSA, Bahrain (site)"
+],
+"flags": []
+}
 },
 {
 "id": "d40",
@@ -1180,7 +1716,19 @@
 "evidence": "Distributes Asian instant food & drinks from Korea, Thailand, Japan; carries IF coconut water.",
 "brands": [
 "IF"
-]
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Asian importer — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 53/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d41",
@@ -1204,7 +1752,22 @@
 "brands": [],
 "signals": [
 "s137"
-]
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "FMCG distributor — per its own site",
+"size": [
+"1,500+ retail doors UAE/GCC (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 85/100 from evidence",
+"Size evidence: 1,500+ retail doors UAE/GCC (site)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d42",
@@ -1230,7 +1793,20 @@
 ],
 "signals": [
 "s138"
-]
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 85/100 from evidence",
+"No public size data found",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d43",
@@ -1248,7 +1824,19 @@
 "a": false
 },
 "evidence": "Beverage trading (Pepsi, Coca-Cola, Red Bull, Perrier, Voss per its brand pages).",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Trader / importer",
+"rtypeEv": "F&B trading — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 50/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d44",
@@ -1267,7 +1855,19 @@
 "evidence": "Dubai FMCG distributor; brands seen incl. Del Monte.",
 "brands": [
 "Del Monte"
-]
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "FMCG distributor — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 45/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d45",
@@ -1284,7 +1884,19 @@
 "a": null
 },
 "evidence": "Supermarket chain and FMCG distribution across UAE, Bahrain, Kuwait, Qatar, Oman.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Retailer",
+"rtypeEv": "Retailer + FMCG distributor — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 5/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d46",
@@ -1302,7 +1914,19 @@
 "a": null
 },
 "evidence": "Consumer goods + foodservice distribution across UAE, KSA, UK and others.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Distributor (foodservice)",
+"rtypeEv": "FMCG & foodservice distributor — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 10/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d47",
@@ -1327,7 +1951,22 @@
 ],
 "signals": [
 "s133"
-]
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Distributor/brand builder — per its own site",
+"size": [
+"3 hubs; 27 cities; 9,441+ channel reach points (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 85/100 from evidence",
+"Size evidence: 3 hubs; 27 cities; 9,441+ channel reach points (site)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d48",
@@ -1349,7 +1988,22 @@
 "brands": [],
 "signals": [
 "s134"
-]
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "FMCG importer — per its own site",
+"size": [
+"12 retail/marketplace/app partners; Riyadh HQ (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 80/100 from evidence",
+"Size evidence: 12 retail/marketplace/app partners; Riyadh HQ (site)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d49",
@@ -1371,7 +2025,22 @@
 "brands": [],
 "signals": [
 "s139"
-]
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [
+"400+ products (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 80/100 from evidence",
+"Size evidence: 400+ products (site)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d50",
@@ -1390,7 +2059,21 @@
 "d": true
 },
 "evidence": "Riyadh F&B trader; dairy, juice, coffee; clients incl. Panda, Danube, Othaim, hotels.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Trader / importer",
+"rtypeEv": "F&B trading — per its own site",
+"size": [
+"Founded 2006; 65 employees (LinkedIn); Riyadh, Dammam, Jeddah offices"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 50/100 from evidence",
+"Size evidence: Founded 2006; 65 employees (LinkedIn); Riyadh, Dammam, Jeddah offices"
+],
+"flags": []
+}
 },
 {
 "id": "d51",
@@ -1410,7 +2093,19 @@
 "evidence": "Official Domty distributor: mango, guava, cocktail nectars (200 ml) in Riyadh & Jeddah.",
 "brands": [
 "Domty"
-]
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Distributor/e-shop — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 50/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d52",
@@ -1429,7 +2124,22 @@
 "o": true
 },
 "evidence": "One of KSA's largest FMCG distributors (since 1881); 55 brands, 1,500 SKUs; food-service network; works with \"Principals\".",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "FMCG distributor — per its own site",
+"size": [
+"Since 1881; 55 brands, 1,500+ SKUs; 859 trucks/day; 15K customers/day (site)"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 30/100 from evidence",
+"Size evidence: Since 1881; 55 brands, 1,500+ SKUs; 859 trucks/day; 15K customers/day (site)",
+"Publicly invites new brands"
+],
+"flags": []
+}
 },
 {
 "id": "d53",
@@ -1448,7 +2158,21 @@
 "evidence": "Imports Thai juices (durian, mangosteen, watermelon) and coconut water (WILDCOCO); recruiting regional agents.",
 "brands": [
 "WILDCOCO"
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Need 53/100 from evidence",
+"No public size data found"
+],
+"flags": [
+"Already sells competing Thai coconut water/juices"
 ]
+}
 },
 {
 "id": "d54",
@@ -1470,7 +2194,24 @@
 "brands": [],
 "signals": [
 "s141"
+],
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/brand manager — per its own site",
+"size": [
+"2 employees (LinkedIn)"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Need 55/100 from evidence",
+"Size evidence: 2 employees (LinkedIn)",
+"Publicly invites new brands"
+],
+"flags": [
+"Very small team (2 on LinkedIn)"
 ]
+}
 },
 {
 "id": "d55",
@@ -1489,7 +2230,19 @@
 "evidence": "Mainland general agent for Thai MIRAMAR coconut water and aloe drinks (FLCEAsia 2025 exhibitor).",
 "brands": [
 "MIRAMAR"
-]
+],
+"q": {
+"rtype": "Agent",
+"rtypeEv": "China general agent — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 53/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d56",
@@ -1509,7 +2262,23 @@
 "evidence": "Appointed IF coconut water distributor (Sep 2025), 1M+ points of sale — tied to a direct competitor.",
 "brands": [
 "IF"
+],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "State trading distributor — per its own site",
+"size": [
+"1,000,000+ points of sale for IF (IFBH release, Sep 2025)"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 58/100 from evidence",
+"Size evidence: 1,000,000+ points of sale for IF (IFBH release, Sep 2025)"
+],
+"flags": [
+"Tied to IF (direct Thai competitor)"
 ]
+}
 },
 {
 "id": "d57",
@@ -1527,7 +2296,19 @@
 "d": true
 },
 "evidence": "Imported bakery/dessert/beverage ingredients for China foodservice (fruit purées, dairy).",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Distributor (foodservice)",
+"rtypeEv": "Foodservice importer — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 5/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d58",
@@ -1545,7 +2326,19 @@
 "a": false
 },
 "evidence": "Fine-food specialist for hotels/restaurants; chilled capability.",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Fine-food distributor — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 10/100 from evidence",
+"No public size data found"
+],
+"flags": []
+}
 },
 {
 "id": "d59",
@@ -1563,7 +2356,20 @@
 "o": true
 },
 "evidence": "Market-expansion services provider (distribution for principals).",
-"brands": []
+"brands": [],
+"q": {
+"rtype": "Distributor (services)",
+"rtypeEv": "Market expansion services — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Need 25/100 from evidence",
+"No public size data found",
+"Publicly invites new brands"
+],
+"flags": []
+}
 }
 ],
 "signals": [
@@ -1581,7 +2387,26 @@
 "id": "s1",
 "fit": 3,
 "age": 8,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Detail page not readable — listing only"
+],
+"detail": "",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -1598,7 +2423,28 @@
 "id": "s2",
 "fit": 3,
 "age": 14,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: Amatili Pty Ltd"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Country inconsistent (listing vs profile: Australia)"
+],
+"detail": "Buying Products : coconut water Country: Australia",
+"namePending": false,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -1614,7 +2460,27 @@
 "id": "s3",
 "fit": 3,
 "age": 16,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1000 Dozen",
+"Buying frequency: Daily"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Our coconut is 400 ml to 600 ml water inside .fresh coconut water.",
+"namePending": true,
+"score": 6
+}
 },
 {
 "src": "TradeKey",
@@ -1630,7 +2496,26 @@
 "id": "s4",
 "fit": 2,
 "age": 17,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Detail page not readable — listing only"
+],
+"detail": "",
+"namePending": true,
+"score": 1
+}
 },
 {
 "src": "TradeKey",
@@ -1646,7 +2531,24 @@
 "id": "s5",
 "fit": 3,
 "age": 17,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -1662,7 +2564,26 @@
 "id": "s6",
 "fit": 2,
 "age": 18,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Detail page not readable — listing only"
+],
+"detail": "",
+"namePending": true,
+"score": 1
+}
 },
 {
 "src": "TradeKey",
@@ -1679,7 +2600,29 @@
 "id": "s7",
 "fit": 3,
 "age": 20,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 2000 Carton",
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Spec may not match Malee (organic/raw/glass)"
+],
+"detail": "Glass bottled coconut water with pulp. 330 ml and 500 ml",
+"namePending": true,
+"score": 5
+}
 },
 {
 "src": "TradeKey",
@@ -1695,7 +2638,26 @@
 "id": "s8",
 "fit": 2,
 "age": 20,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: TRUGANINA FOODS"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products: Soft drinks and bottle juices Country: Australia",
+"namePending": false,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -1711,7 +2673,24 @@
 "id": "s9",
 "fit": 2,
 "age": 20,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products: juice Country: Australia",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -1727,7 +2706,24 @@
 "id": "s10",
 "fit": 2,
 "age": 22,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products: Juice Country: Australia",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -1744,7 +2740,24 @@
 "id": "s11",
 "fit": 3,
 "age": 26,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products: Juices, 3 flavours, Mango : 1000QTY , Mix Fruit cocktail : 2500QTY , Berry Blast : 2500 QTY Country: UAE",
+"namePending": true,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -1760,7 +2773,24 @@
 "id": "s12",
 "fit": 2,
 "age": 26,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "We are interested in Foods & Beverages products, frozen and sweets such as Nutella and others, fruit jams, cheese, and long-life juices.",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -1777,7 +2807,26 @@
 "id": "s13",
 "fit": 3,
 "age": 27,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: Proeye Agencies"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "hello.. We are looking to buy coconut water pouches from australia only. Quantity not decided that how much we require. It will be a regular buy. Kindly send in your quotations. Thanks n regards",
+"namePending": false,
+"score": 5
+}
 },
 {
 "src": "TradeKey",
@@ -1793,7 +2842,24 @@
 "id": "s14",
 "fit": 3,
 "age": 29,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products: Coconut Water Country: Australia",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -1810,7 +2876,26 @@
 "id": "s15",
 "fit": 3,
 "age": 32,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Brand owner (OEM buyer)",
+"rtypeEv": "Post asks for supply under its own brand",
+"size": [
+"Company named on post: NYC Organic"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Dear Brusiam Food Alliance, Im Adam Salem, owner of NYC Organic, a beverage distributor in New York City. Were interested in carrying your brand and exploring a private label partnership for our own coconut water line and coconut juice line. Could we discuss this further? Please reach out via email. I look forward to hearing from you. Thank you, Adam Salem Owner, NYC Organic",
+"namePending": false,
+"score": 5
+}
 },
 {
 "src": "TradeKey",
@@ -1827,7 +2912,24 @@
 "id": "s16",
 "fit": 3,
 "age": 33,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products: Coconut water and coconut milk Country: USA",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -1843,7 +2945,27 @@
 "id": "s17",
 "fit": 2,
 "age": 33,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 4 Twenty-Foot Container",
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "I am interested to buy fruit juice and food products",
+"namePending": true,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -1859,7 +2981,24 @@
 "id": "s18",
 "fit": 2,
 "age": 35,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products : juice Country: Saudi Arabia",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -1875,7 +3014,26 @@
 "id": "s19",
 "fit": 3,
 "age": 36,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: All Thingsfood for F"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products: Tropical Juice Country: UAE",
+"namePending": false,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -1892,7 +3050,26 @@
 "id": "s20",
 "fit": 3,
 "age": 36,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 2000 Case"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "We are looking for a co packer in Brazil/ South America to co pack lo cal carbonated juices in 330ml cans or similar",
+"namePending": true,
+"score": 5
+}
 },
 {
 "src": "TradeKey",
@@ -1908,7 +3085,26 @@
 "id": "s21",
 "fit": 2,
 "age": 36,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: some",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Activated charcoal coconut shell powder",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -1925,7 +3121,26 @@
 "id": "s22",
 "fit": 3,
 "age": 38,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Detail page not readable — listing only"
+],
+"detail": "",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -1942,7 +3157,26 @@
 "id": "s23",
 "fit": 3,
 "age": 40,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Brand owner (OEM buyer)",
+"rtypeEv": "Post asks for supply under its own brand",
+"size": [
+"Stated quantity: 1000 Liter"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "I am need conocut water, I am interested in buying canned coconut water and print my brand.",
+"namePending": true,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -1958,7 +3192,26 @@
 "id": "s24",
 "fit": 3,
 "age": 42,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Payment terms: T/T, L/C, D/A, D/P, Western Union, Money Gram"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please send a commercial offer for Coconut Water with clear specification, export packing details, shelf life, and pictures of current stock. We prefer suppliers who can arrange palletized packing, inspection before dispatch, and stable monthly supply after the first trial shipment.",
+"namePending": true,
+"score": 5
+}
 },
 {
 "src": "TradeKey",
@@ -1975,7 +3228,29 @@
 "id": "s25",
 "fit": 3,
 "age": 44,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 Barrel",
+"Buying frequency: Quarterly"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Spec may not match Malee (organic/raw/glass)"
+],
+"detail": "organic certified nop usda",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -1993,7 +3268,28 @@
 "id": "s26",
 "fit": 3,
 "age": 46,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: Urban Remedy Group Pty Ltd",
+"Stated quantity: 2000 litres",
+"Destination port: Sydney"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Need Coconut canned water - 100% pure, no additives, sugar or preservatives.Looking to buy canned coconut water. Must be 100% pure.Not sugar, preservatives or additives.Please send me quotation as soon as possible. If your quotation meets my desire criteria. We will be looking forward to begin a long term mutual business association with your esteemed organization very soon.",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "TradeKey",
@@ -2010,7 +3306,26 @@
 "id": "s27",
 "fit": 3,
 "age": 46,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: Brazilian Professionals, LLC."
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products : Coconut Water Country: USA",
+"namePending": false,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -2027,7 +3342,27 @@
 "id": "s28",
 "fit": 3,
 "age": 46,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 10000 Piece",
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "500 ml and 1 liter pure coconut water",
+"namePending": true,
+"score": 6
+}
 },
 {
 "src": "TradeKey",
@@ -2043,7 +3378,26 @@
 "id": "s29",
 "fit": 1,
 "age": 47,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●○○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Country inconsistent (listing vs profile: Spain)"
+],
+"detail": "Buying Products : organic seabuckthorn juice Country: Spain",
+"namePending": true,
+"score": 0
+}
 },
 {
 "src": "TradeKey",
@@ -2059,7 +3413,24 @@
 "id": "s30",
 "fit": 2,
 "age": 47,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "HiSupplier Name / Team My name is Tamara and Im the owner of a wellness-based juice company located in Texas, USA. We are currently looking to source fresh, high-quality soursop (Graviola) directly from trusted farms or exporters for retail and farmers market sales here in the U.S. We are specifically interested in: Fresh whole soursop fruit Bulk wholesale pricing Minimum order quantity (MOQ) Shipping to Texas Any ce",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2075,7 +3446,28 @@
 "id": "s31",
 "fit": 2,
 "age": 47,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Trader / broker",
+"rtypeEv": "Asks for many unrelated goods",
+"size": [
+"Company named on post: Sokad Group"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Looks like a trader reselling many goods"
+],
+"detail": "Buying Products: Fruit Juice, Spices, Herbs, Face Mask Seeds Country: USA",
+"namePending": false,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2091,7 +3483,28 @@
 "id": "s32",
 "fit": 2,
 "age": 47,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Trader / broker",
+"rtypeEv": "Asks for many unrelated goods",
+"size": [
+"Company named on post: Sokad Group"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Looks like a trader reselling many goods"
+],
+"detail": "Buying Products: Tea, Cosmetics, Fruit Juice, Seed, Herbal Products, Meat Country: USA",
+"namePending": false,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2109,7 +3522,29 @@
 "id": "s33",
 "fit": 3,
 "age": 49,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Buying frequency: Monthly",
+"Payment terms: T/T"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Asks for cooking coconut cream/milk — check if in Malee range"
+],
+"detail": "TUNA ALBACORE SOLID PACK IN WATER 66 OZ PREMIUM(INDONESIA) COCONUT MILK CS24/14OZ 17% TO 18% ESCARGOT, 96CT, CANNED",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2126,7 +3561,30 @@
 "id": "s34",
 "fit": 3,
 "age": 50,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: stiebs, llc",
+"Stated quantity: 38000 Pound",
+"Buying frequency: Quarterly"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Spec may not match Malee (organic/raw/glass)"
+],
+"detail": "organic unpasteurized king coconut water packed in frozen drums, multiple containers delivery as CFR Long Beach, CA, USA.",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "TradeKey",
@@ -2143,7 +3601,27 @@
 "id": "s35",
 "fit": 3,
 "age": 52,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Brand owner (OEM buyer)",
+"rtypeEv": "Post asks for supply under its own brand",
+"size": [
+"Stated quantity: 1 Twenty-Foot Container",
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Seeking custom packaged coconut water in 330ml and 1L (or similiar) containers. Must be preservative and additive free.",
+"namePending": true,
+"score": 6
+}
 },
 {
 "src": "TradeKey",
@@ -2160,7 +3638,28 @@
 "id": "s36",
 "fit": 3,
 "age": 53,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: The Wholefood Factory"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Detail page not readable — listing only"
+],
+"detail": "",
+"namePending": false,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2176,7 +3675,26 @@
 "id": "s37",
 "fit": 2,
 "age": 53,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Buying frequency: Quarterly"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "soft drinks,juices,caned food",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2193,7 +3711,26 @@
 "id": "s38",
 "fit": 3,
 "age": 54,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: G-ocean Inc"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products : Coconut water Country: USA",
+"namePending": false,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -2210,7 +3747,31 @@
 "id": "s39",
 "fit": 3,
 "age": 60,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 20 Metric Ton Annual Purchase Volume: 1000 Metric Ton",
+"Buying frequency: Weekly",
+"Payment terms: T/T",
+"Destination port: Long Beach, CA"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Spec may not match Malee (organic/raw/glass)"
+],
+"detail": "I would like to source organic fresh green coconuts, husk semi-removed, diamond shaped, packed 9 per carton. Need specification, FOB Pricing, lead time from harvest to shipment and payment terms.",
+"namePending": true,
+"score": 5
+}
 },
 {
 "src": "TradeKey",
@@ -2226,7 +3787,27 @@
 "id": "s40",
 "fit": 2,
 "age": 61,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1",
+"Buying frequency: One"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: some",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "i need one conainer of tang juice 2.5 kg packing",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2242,7 +3823,27 @@
 "id": "s41",
 "fit": 2,
 "age": 63,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 10 Box",
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "10 box of slimming with whitening juice",
+"namePending": true,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -2258,7 +3859,24 @@
 "id": "s42",
 "fit": 2,
 "age": 64,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "I am looking for Fruit juice",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2275,7 +3893,31 @@
 "id": "s43",
 "fit": 3,
 "age": 65,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Trader / broker",
+"rtypeEv": "Asks for many unrelated goods",
+"size": [
+"Stated quantity: 2 Twenty-Foot Container Annual Purchase Volume: 24 Twenty-Foot Container",
+"Buying frequency: Monthly",
+"Payment terms: L/C, D/A, D/P",
+"Destination port: sydney"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Looks like a trader reselling many goods"
+],
+"detail": "Hi, Our company from Sydney, Australia m & H international. we are looking for coconut products, water oil, in particular 1Litre coconut water from Thailand. I would like bring about 2 containers a month to start. I need FOB prices. Please give mentor best price FOB. Thanks Oshi",
+"namePending": true,
+"score": 6
+}
 },
 {
 "src": "TradeKey",
@@ -2291,7 +3933,26 @@
 "id": "s44",
 "fit": 2,
 "age": 67,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: Taj Al Mulook General Trading Est."
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "",
+"namePending": false,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2308,7 +3969,26 @@
 "id": "s45",
 "fit": 3,
 "age": 68,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Detail page not readable — listing only"
+],
+"detail": "",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2324,7 +4004,26 @@
 "id": "s46",
 "fit": 3,
 "age": 69,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "I need a supply of cococnut water",
+"namePending": true,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -2341,7 +4040,30 @@
 "id": "s47",
 "fit": 3,
 "age": 72,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Trader / broker",
+"rtypeEv": "Asks for many unrelated goods",
+"size": [
+"Stated quantity: 6000 Kilogram",
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Looks like a trader reselling many goods",
+"Spec may not match Malee (organic/raw/glass)"
+],
+"detail": "I represent a large group of organic farmers that are looking for bulk dried certified organic coconut water. Our current usage is 75,000 kilos per year, however with a good price, we could use 5-10 times this amount.",
+"namePending": true,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -2357,7 +4079,24 @@
 "id": "s48",
 "fit": 2,
 "age": 72,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products: Juices Country: USA",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2373,7 +4112,26 @@
 "id": "s49",
 "fit": 2,
 "age": 72,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Vague or one-line post"
+],
+"detail": "I want to buy Juices",
+"namePending": true,
+"score": 1
+}
 },
 {
 "src": "TradeKey",
@@ -2389,7 +4147,24 @@
 "id": "s50",
 "fit": 2,
 "age": 73,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "I'm interested to get a price, please contact me",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2405,7 +4180,28 @@
 "id": "s51",
 "fit": 2,
 "age": 74,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: AK SPARK INDIA PVT LTD CO. INDIA"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Detail page not readable — listing only"
+],
+"detail": "",
+"namePending": false,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2422,7 +4218,28 @@
 "id": "s52",
 "fit": 3,
 "age": 74,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: Abdullah AlDossary Trading and Est"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Detail page not readable — listing only"
+],
+"detail": "",
+"namePending": false,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -2439,7 +4256,26 @@
 "id": "s53",
 "fit": 3,
 "age": 76,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Detail page not readable — listing only"
+],
+"detail": "",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2455,7 +4291,24 @@
 "id": "s54",
 "fit": 3,
 "age": 77,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products : Coconut water Country: Australia",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2472,7 +4325,29 @@
 "id": "s55",
 "fit": 3,
 "age": 77,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Trader / broker",
+"rtypeEv": "Asks for many unrelated goods",
+"size": [
+"Company named on post: Dufotex Scaffolds Trading LLC/ Dufotex Foodstuff Trading LLC",
+"Buying frequency: Weekly"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Looks like a trader reselling many goods"
+],
+"detail": "canned beverage, vegetable, chicken,juice , fish",
+"namePending": false,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -2488,7 +4363,28 @@
 "id": "s56",
 "fit": 2,
 "age": 79,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: mYme international"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Detail page not readable — listing only"
+],
+"detail": "",
+"namePending": false,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2504,7 +4400,24 @@
 "id": "s57",
 "fit": 2,
 "age": 80,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products: CAN JUICE Country: UAE",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2520,7 +4433,24 @@
 "id": "s58",
 "fit": 2,
 "age": 80,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products : tropical dried fruits, concetrate juice, fom thailand Country: Australia",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2536,7 +4466,24 @@
 "id": "s59",
 "fit": 2,
 "age": 80,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2552,7 +4499,28 @@
 "id": "s60",
 "fit": 2,
 "age": 88,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Trader / broker",
+"rtypeEv": "Asks for many unrelated goods",
+"size": [
+"Company named on post: Al Waseem  Consulting LLC UAE"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Looks like a trader reselling many goods"
+],
+"detail": "Buying Products: Rice, Fruit juice, Cement, Honey and Salt Country: UAE",
+"namePending": false,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2568,7 +4536,26 @@
 "id": "s61",
 "fit": 2,
 "age": 88,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: Triton Investments Corporation"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buying Products: Cranberry Juice Country: USA",
+"namePending": false,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2584,7 +4571,26 @@
 "id": "s62",
 "fit": 2,
 "age": 90,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Small volume"
+],
+"detail": "Hoping to buy 200-300 of these coconuts. Can you provide pricing please? Thank you in advance!",
+"namePending": true,
+"score": 1
+}
 },
 {
 "src": "TradeKey",
@@ -2600,7 +4606,30 @@
 "id": "s63",
 "fit": 2,
 "age": 91,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: ND International Pty Ltd",
+"Stated quantity: 500 Kilogram",
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted 91 days ago"
+],
+"flags": [
+"Vague or one-line post"
+],
+"detail": "bbvfjvujwhgfbfqfbbfb",
+"namePending": false,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2616,7 +4645,29 @@
 "id": "s64",
 "fit": 2,
 "age": 91,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: Al Fadul Trading Co",
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: some",
+"Legitimacy signals: 1/4",
+"Posted 91 days ago"
+],
+"flags": [
+"Vague or one-line post"
+],
+"detail": "we can buy",
+"namePending": false,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2632,7 +4683,26 @@
 "id": "s65",
 "fit": 2,
 "age": 92,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Retailer",
+"rtypeEv": "Post mentions retail/store use",
+"size": [
+"Company named on post: Alusia Restaurant LLC"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 2/4",
+"Posted 92 days ago"
+],
+"flags": [],
+"detail": "I am writing to Buy about the credit facility options available through Alusia Restaurant LLC. We are interestedin exploring potential financing solutions to support our business growth and expansions plans. Could you please provide information regarding the types of credit facilities offered, including terms, interest rates, and any associated fees? Additionally, it would be helpful to understand the application pro",
+"namePending": false,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2650,7 +4720,26 @@
 "id": "s66",
 "fit": 3,
 "age": 92,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted 92 days ago"
+],
+"flags": [
+"Asks for cooking coconut cream/milk — check if in Malee range"
+],
+"detail": "I am looking for 40 metric tons of coconut milk with a minimum of 14%-16% fat content. Non-GMO preferably in the largest pack size you have. will need about 3-4 containers per year.",
+"namePending": true,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -2666,7 +4755,24 @@
 "id": "s67",
 "fit": 3,
 "age": 94,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted 94 days ago"
+],
+"flags": [],
+"detail": "We like to purchase Coconut Water. If you are a supplier of it then please send me a price list with images and MOQ. We are waiting to hear from you soon.",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2682,7 +4788,28 @@
 "id": "s68",
 "fit": 3,
 "age": 94,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: Diyafa Trading",
+"Stated quantity: 10000 Carton",
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted 94 days ago"
+],
+"flags": [],
+"detail": "We are looking a can products drinks coconut water with pulp",
+"namePending": false,
+"score": 5
+}
 },
 {
 "src": "TradeKey",
@@ -2698,7 +4825,24 @@
 "id": "s69",
 "fit": 2,
 "age": 94,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted 94 days ago"
+],
+"flags": [],
+"detail": "Buying Products: juice Country: USA",
+"namePending": true,
+"score": 1
+}
 },
 {
 "src": "TradeKey",
@@ -2714,7 +4858,27 @@
 "id": "s70",
 "fit": 3,
 "age": 97,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 Twenty-Foot Container",
+"Buying frequency: Quarterly"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted 97 days ago"
+],
+"flags": [],
+"detail": "Can you please give me fob sydney price for330ml and 520 ml canned coconut water with and without pulp. Regards khan",
+"namePending": true,
+"score": 5
+}
 },
 {
 "src": "TradeKey",
@@ -2730,7 +4894,24 @@
 "id": "s71",
 "fit": 2,
 "age": 98,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted 98 days ago"
+],
+"flags": [],
+"detail": "Buying Products: juices Model 2059 Country: USA",
+"namePending": true,
+"score": 1
+}
 },
 {
 "src": "TradeKey",
@@ -2747,7 +4928,26 @@
 "id": "s72",
 "fit": 3,
 "age": 101,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Buying frequency: Quarterly"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted 101 days ago"
+],
+"flags": [],
+"detail": "coconut water canned, battled",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2763,7 +4963,28 @@
 "id": "s73",
 "fit": 2,
 "age": 104,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: Kabbani Bros trading"
+],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted 104 days ago"
+],
+"flags": [
+"Small volume"
+],
+"detail": "Buying Products: Juice 2 kg Country: UAE",
+"namePending": false,
+"score": 1
+}
 },
 {
 "src": "TradeKey",
@@ -2781,7 +5002,28 @@
 "id": "s74",
 "fit": 3,
 "age": 105,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: Platinum Produce",
+"Stated quantity: 1 Twenty-Foot Container",
+"Buying frequency: Quarterly"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted 105 days ago"
+],
+"flags": [],
+"detail": "canned young green coconut water, chasing quotes on a container of canned coconut water",
+"namePending": false,
+"score": 5
+}
 },
 {
 "src": "TradeKey",
@@ -2798,7 +5040,27 @@
 "id": "s75",
 "fit": 3,
 "age": 109,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 50 Box",
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted 109 days ago"
+],
+"flags": [],
+"detail": "We have urgent requirement of coconut water. Interested suppliers are requested to send their quotations as soon as possible.",
+"namePending": true,
+"score": 5
+}
 },
 {
 "src": "TradeKey",
@@ -2814,7 +5076,28 @@
 "id": "s76",
 "fit": 1,
 "age": 110,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 Twenty-Foot Container Annual Purchase Volume: 12 Twenty-Foot Container",
+"Buying frequency: Monthly",
+"Payment terms: T/T, L/C"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●○○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted 110 days ago"
+],
+"flags": [],
+"detail": "natural juice & organic juice no sugar added juice different flavors",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2831,7 +5114,26 @@
 "id": "s77",
 "fit": 3,
 "age": 113,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: NYC Organic"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted 113 days ago"
+],
+"flags": [],
+"detail": "Buying Products: coconut water Country: USA",
+"namePending": false,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2848,7 +5150,26 @@
 "id": "s78",
 "fit": 3,
 "age": 114,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: The New Tea Company"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted 114 days ago"
+],
+"flags": [],
+"detail": "Buying Products : Coconut Water Country: Australia",
+"namePending": false,
+"score": 3
+}
 },
 {
 "src": "TradeKey",
@@ -2864,7 +5185,24 @@
 "id": "s79",
 "fit": 2,
 "age": 116,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted 116 days ago"
+],
+"flags": [],
+"detail": "Buying Products: juice Country: USA",
+"namePending": true,
+"score": 1
+}
 },
 {
 "src": "TradeKey",
@@ -2881,7 +5219,24 @@
 "id": "s80",
 "fit": 3,
 "age": 117,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [],
+"role": "Not posted",
+"worth": "Low",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 0/4",
+"Posted 117 days ago"
+],
+"flags": [],
+"detail": "Buying Products : Coconut water Country: USA",
+"namePending": true,
+"score": 2
+}
 },
 {
 "src": "TradeKey",
@@ -2898,7 +5253,28 @@
 "id": "s81",
 "fit": 3,
 "age": 125,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Company named on post: prudentia intl pty ltd"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 2/4",
+"Posted 125 days ago"
+],
+"flags": [
+"Small/individual buyer language or risky payment"
+],
+"detail": "I need to purchase Coconut Water and quantity would be around 3000 litters for per month. so I am looking for a sincere supplier who really wants to help me enlarge my business. Prefer to pay direct deposit. I hope I will get your swift response. Thank you.",
+"namePending": false,
+"score": 4
+}
 },
 {
 "src": "TradeKey",
@@ -2915,7 +5291,24 @@
 "id": "s82",
 "fit": 3,
 "age": 129,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Retailer",
+"rtypeEv": "Post mentions retail/store use",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 1/4",
+"Posted 129 days ago"
+],
+"flags": [],
+"detail": "A progressing company in market is searching for a supplier of COCONUT WATER. Shipment payment will be discussed. We request to the respected suppliers to please respond with their best quotation.",
+"namePending": true,
+"score": 3
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -2931,7 +5324,31 @@
 "id": "s83",
 "fit": 1,
 "age": 7,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 pallet",
+"Payment terms: To be discussed with sellers",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Fruit Juices | Juice"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●○○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Small volume"
+],
+"detail": "The buyer would like to receive quotations for - Product Name: Juice Specifications: Type: Bottled Pomegranate Juice Pictures Required Origin: Abidjan Qty: 1 Full Pallet Initially (Size Lbs); Up To 1 Container In Future HS Code : 200989",
+"namePending": false,
+"score": 4
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -2947,7 +5364,29 @@
 "id": "s84",
 "fit": 2,
 "age": 7,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Fruit Juices | Energy Drinks"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please quote for the following wholesale product requirement - Product Name: Beverages Specifications: Type: Fruit Juices, Soft Drinks, Carbonated Drinks, Energy Drinks, Flavoured Water, Tea, And Coffee Purpose: Retail Note: Contact Via Email Only Packaging Terms : Standard HS Code : 220299",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -2963,7 +5402,29 @@
 "id": "s85",
 "fit": 1,
 "age": 24,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Importer",
+"rtypeEv": "Post states an importer requirement",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Fruit Juices"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●○○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please provide a quotation to the following requirement from importer - Product Name: Fresh Apple Juice Specifications: Types: Freshly Squeezed Apple Juice, Pasteurized Apple Juice, NFC Apple Juice Material: Fresh Apples, Natural Apple Juice Uses: Retail Beverage Distribution, Foodservice & Hospitality Looking For Suppliers From England HS Code : 200989",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -2979,7 +5440,29 @@
 "id": "s86",
 "fit": 3,
 "age": 29,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 less than container load",
+"Payment terms: Bank Transfer",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Fruit Juices"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please quote for the following wholesale product requirement - Product Name : Fruit Juices Specifications: Type : Apple , Guava , Orange HS Code : 200911",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -2995,7 +5478,29 @@
 "id": "s87",
 "fit": 2,
 "age": 31,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Juice"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product Name: Beverages Specifications: Sample Required First Type: Soft Drinks, Juices (Like Flavored Drinks) Material: Liquid Product No Advance Payment Only LC For Now HS Code : 220299",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3011,7 +5516,29 @@
 "id": "s88",
 "fit": 2,
 "age": 35,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Importer",
+"rtypeEv": "Post states an importer requirement",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Fruit Juices"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please provide a quotation to the following requirement from importer - Product Name: Beverages Specifications: Type: Carbonated Beverages, Non-Carbonated Beverages (Like Soft Drinks, Fruit Juices) Material: Water-Based Beverage Formulations Uses: Retail Distribution, Foodservice Supply, Hospitality Catering Note: Contact Via Email Only HS Code : 220210",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3027,7 +5554,29 @@
 "id": "s89",
 "fit": 2,
 "age": 42,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Importer",
+"rtypeEv": "Post states an importer requirement",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C, T/T Or Bank Transfer",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Juice | Energy Drinks"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please provide a quotation to the following requirement from importer - Product Name: Beverages Specifications: Types: Juices, Soft Drinks, Energy Drinks, Bottled Water, Tea & Coffee Purpose: Retail/Distribution Note: Contact Via Email Only Packaging Terms : Standard HS Code : 220299",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3043,7 +5592,29 @@
 "id": "s90",
 "fit": 2,
 "age": 43,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C Or T/T",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Juice | Energy Drinks"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "The buyer would like to receive quotations for - Product Name: Beverages Specifications: Type: Juices, Soft Drinks, Energy Drinks, Bottled Water & Ready-To-Drink Tea/Coffee Form: Liquid, Concentrate & Powder Purpose: Wholesale/Distribution Note: Prefer To Be Contacted Via Whatsapp Packaging Terms : Standard HS Code : 220299",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3059,7 +5630,29 @@
 "id": "s91",
 "fit": 2,
 "age": 48,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Importer",
+"rtypeEv": "Post states an importer requirement",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Juice"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please provide a quotation to the following requirement from importer - Product Name: Beverages Specifications: Type: Soft Drinks, Juices (Like Flavored Drinks) Material: Liquid Product HS Code : 220299",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3075,7 +5668,29 @@
 "id": "s92",
 "fit": 2,
 "age": 51,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Importer",
+"rtypeEv": "Post states an importer requirement",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Juice"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please provide a quotation to the following requirement from importer - Product Name: Beverages Specifications: Type: Soft Drinks, Juices (Like Flavored Drinks) Material: Liquid Product Qty: Mixed Twenty-Foot Container Want American As Well HS Code : 220299",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3091,7 +5706,29 @@
 "id": "s93",
 "fit": 2,
 "age": 56,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Fruit Juices"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product Name: Beverages Specifications: Type: Carbonated Drinks, Non-Carbonated Drinks (Like Soft Drinks, Fruit Juice) Purpose: Retailer/Distribution Packaging Terms : Standard HS Code : 220200",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3107,7 +5744,29 @@
 "id": "s94",
 "fit": 2,
 "age": 58,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Energy Drinks"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please quote for the following wholesale product requirement - Product Name: Beverages Specifications: Type: Fruit Juice, Boom Boom Energy Drink, Sparkling Water, Red Bull, Soft Drinks, Etc HS Code : 220299",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3123,7 +5782,29 @@
 "id": "s95",
 "fit": 2,
 "age": 59,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 less than container load",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Fruit Juices | Juice | Energy Drinks"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: some",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product Name: Beverages Like Soft Drinks, Juices Beverages Specifications: Types: Soft Drinks, Pepsi, Cock, Juices, Red Bull HS Code : 220210",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3139,7 +5820,29 @@
 "id": "s96",
 "fit": 2,
 "age": 63,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Importer",
+"rtypeEv": "Post states an importer requirement",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Fruit Juices"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please provide a quotation to the following requirement from importer - Product Name: Beverages Specifications: Types: Carbonated Drinks, Non-Carbonated Drinks (Like Soft Drinks, Fruit Juices) Material: Water-Based Beverage Formulations Uses: Retail Distribution, Foodservice Supply, Hospitality Catering Note: Contact Via Email Only HS Code : 220299",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3155,7 +5858,29 @@
 "id": "s97",
 "fit": 1,
 "age": 64,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Tea | Coffee | Fruit Juices | Juice"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●○○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please quote for the following wholesale product requirement - Product Name: Organic Beverages Like Organic Juices, Organic Tea Specifications: Type: Organic Juices, Organic Tea & Coffee, Probiotic & Fermented Drinks HS Code : 200979",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3171,7 +5896,29 @@
 "id": "s98",
 "fit": 2,
 "age": 65,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Fruit Juices | Juice"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product Name: Packaged Beverages Like Fruit Drinks Specifications: Type: Fruit Drinks, Functional Beverages Like: Juices, Flavored Drinks Material: Fruit Extracts, Water, Natural Flavors Uses: Beverage Distribution, Retail Sales, Food Service Packaging Terms : Glass Bottles, Printed Cartons HS Code : 220210",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3187,7 +5934,29 @@
 "id": "s99",
 "fit": 2,
 "age": 65,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Importer",
+"rtypeEv": "Post states an importer requirement",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please provide a quotation to the following requirement from importer - Product Name: Beverages Specifications: Types: Fruit Beverages, Ready-To-Drink Beverages (Like Fruit Drinks, Flavored Drinks) Material: Fruit Extracts, Water, Natural Flavors Uses: Retail Distribution, Food Service, Beverage Manufacturing Note: Contact Via Email Only Main Product HS Code: 220299",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3203,7 +5972,29 @@
 "id": "s100",
 "fit": 2,
 "age": 65,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Fruit Juices"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "The buyer would like to receive quotations for - Product Name: Beverages Like Soft Drinks, Fruit Juices Specifications: Type: Non-Alcoholic Drinks (Soft Drinks, Fruit Juices), Functional Beverages (Energy Drinks, Sports Drinks) Like: Soft Drinks, Fruit Juices, Energy Drinks, Sports Drinks Material: Water, Fruit Extracts, Beverage Ingredients HS Code : 220210",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3219,7 +6010,29 @@
 "id": "s101",
 "fit": 2,
 "age": 69,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: CAD",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Juice"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product Name: Beverages Like Soft Drinks, Juices Specifications: Type: Soft Drinks, Juices Like: Flavored Drinks Material: Liquid Products Quantity: 1x20 FT Container HS Code : 220210",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3235,7 +6048,31 @@
 "id": "s102",
 "fit": 3,
 "age": 69,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 less than container load",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Coconut Water & Coconut Milk | Coconut Water"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Spec may not match Malee (organic/raw/glass)"
+],
+"detail": "The buyer would like to receive quotations for - Product Name: Organic Coconut Water Specifications: Type: Organic Coconut Water Packaging: 250ml Glass Bottle, 350ml Glass Bottle Supplier From: Sri Lanka HS Code : 200989",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3251,7 +6088,29 @@
 "id": "s103",
 "fit": 1,
 "age": 71,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Fruit Juices"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●○○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please quote for the following wholesale product requirement - Product Name: Apple Juice Specifications: Type: Apple Juice Style: 100% Natural Quantity: 1 By 20 FCL HS Code : 200971",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3267,7 +6126,29 @@
 "id": "s104",
 "fit": 3,
 "age": 76,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 less than container load",
+"Payment terms: Bank Transfer",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Fruit Juices"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product Name: Fruit Juices Specifications: Type: Apple, Guava, Orange HS Code: 200971, 200989, 200912",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3283,7 +6164,29 @@
 "id": "s105",
 "fit": 2,
 "age": 78,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 5 - 10 pallets",
+"Payment terms: Bank Transfer",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Juice"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: some",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product Name: Japanese Drinks Specifications : Quantity: Initially 5-10 Pallets Later Need More Type: Juice Drinks, Ramune & Others HS Code: 220299",
+"namePending": false,
+"score": 5
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3299,7 +6202,29 @@
 "id": "s106",
 "fit": 2,
 "age": 79,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Importer",
+"rtypeEv": "Post states an importer requirement",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Fruit Juices"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please provide a quotation to the following requirement from importer - Product Name: Beverages Like Fruit Juices, Soft Drinks Beverages Specifications: Type: Beverages Variety: Fruit Juices, Soft Drinks, Energy Drinks, Tea, Coffee, Ready-to-Drink Purpose: Manufacturing/Distribution Packaging: Standard HS Code: Fruit Juices: Soft Drinks: Energy Drinks: Tea: Coffee: Ready-to-Drink:",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3315,7 +6240,29 @@
 "id": "s107",
 "fit": 3,
 "age": 79,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Fruit Juices"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "The buyer would like to receive quotations for - Product Name: Fresh Fruit Juice Like Citrus, Tropical, Berry Juices Specifications: Type: Citrus, Tropical, Berry Style: Fresh HS Code Fresh Citrus Juice: HS Code Fresh Tropical Juice: HS Code Fresh Berry Juice:",
+"namePending": false,
+"score": 8
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3331,7 +6278,31 @@
 "id": "s108",
 "fit": 3,
 "age": 79,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Trader / broker",
+"rtypeEv": "Asks for many unrelated goods",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C (No advance)",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Canned Meat | Canned Chicken | Canned Fruits | Canned Pineapple | Canned Food"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Looks like a trader reselling many goods"
+],
+"detail": "Please quote for the following wholesale product requirement - Product Name: Canned Food Specifications : Type: Canned Meat And Canned Fruits Meat: Chicken, Corned Beef, Tuna, Salmon Fruits: Peaches, Pears, Pineapples, And Mixed Fruit Cocktails. Only Manufacturers Can Contact, No Traders No Advance Payment HS Code: 160232, 200820",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3347,7 +6318,29 @@
 "id": "s109",
 "fit": 2,
 "age": 84,
-"fresh": "fresh"
+"fresh": "fresh",
+"q": {
+"rtype": "Importer",
+"rtypeEv": "Post states an importer requirement",
+"size": [
+"Stated quantity: 1 less than container load",
+"Payment terms: Bank Transfer",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Tea | Coffee | Soft Drinks | Mineral Water | Fruit Juices"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: some",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "Please provide a quotation to the following requirement from importer - Product Name: Beverages Specifications : Types: Fruit Juices, Soft Drinks, Energy Drinks, Tea & Coffee Drinks, Bottled Water Purpose: Wholesaler. Packaging: Standard. Harmonized System (HS) Code: 2009, 2202.99, 0901.11",
+"namePending": false,
+"score": 5
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3363,7 +6356,29 @@
 "id": "s110",
 "fit": 2,
 "age": 94,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C, T/T Or Bank Transfer",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Fruit Juices | Juice | Energy Drinks"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted 94 days ago"
+],
+"flags": [],
+"detail": "Please quote for the following wholesale product requirement - Product Name: Fruit Juices And Beverages Specifications : Type: Fruit Juices, Carbonated Drinks, Energy Drinks, Soft Drink Need Good Brands With Catalogs For Each HS Code: 220299, 220210, 200989",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3379,7 +6394,29 @@
 "id": "s111",
 "fit": 2,
 "age": 104,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Juice"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted 104 days ago"
+],
+"flags": [],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product Name: Beverages Specifications : Type: Soft Drinks, Juices (like Flavored Drinks) Material: Liquid Product MIXED TWENTY FOOT CONTAINER *want American as well*",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3395,7 +6432,29 @@
 "id": "s112",
 "fit": 3,
 "age": 105,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Fruit Juices | Orange Juice"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted 105 days ago"
+],
+"flags": [],
+"detail": "Please quote for the following wholesale product requirement - Product Name: Fruit Juices Specifications : Pure Fruit Juices Type: Pomegranates, Guava, Orange, Apples, Mixed Fruit Juice Note: Need Catalogs By Email HS Code: 081090, 200989, 200912",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3411,7 +6470,29 @@
 "id": "s113",
 "fit": 3,
 "age": 108,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 less than container load",
+"Payment terms: Bank Transfer",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Fruit Juices | Apple Juice | Orange Juice"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 2/4",
+"Posted 108 days ago"
+],
+"flags": [],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product Name: Fruit Juices Specifications : Type: Apple, Guava, Orange HS Code: 200971, 200989, 200912",
+"namePending": false,
+"score": 5
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3427,7 +6508,29 @@
 "id": "s114",
 "fit": 3,
 "age": 126,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Importer",
+"rtypeEv": "Post states an importer requirement",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Fruit Juices"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted 126 days ago"
+],
+"flags": [],
+"detail": "Please provide a quotation to the following requirement from importer - Product Name: Fresh Fruit Juice Specifications : Type: Citrus, Tropical, And Berry Juice HS Code: 200912, 200989, 200989",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3444,7 +6547,29 @@
 "id": "s115",
 "fit": 3,
 "age": 128,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Fruit Juices | Orange Juice"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted 128 days ago"
+],
+"flags": [],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product Name: Fruit Juices Specifications : Type: Orange, Pineapple 100% Natural HS Code: 200912, 200941",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3461,7 +6586,29 @@
 "id": "s116",
 "fit": 3,
 "age": 141,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: Wire Transfer Or L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Fruit Juices | Mango Juice"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted 141 days ago"
+],
+"flags": [],
+"detail": "Please quote for the following wholesale product requirement - Product Name: Fruit Juices Specifications : Type: Mango, Guava, Cocktail, Passion, Etc. Juices In Glass Bottles And PET 200ml, 300ml, 500ml And 1 Liter",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3478,7 +6625,29 @@
 "id": "s117",
 "fit": 3,
 "age": 146,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Coconut Water & Coconut Milk"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted 146 days ago"
+],
+"flags": [],
+"detail": "Please quote for the following wholesale product requirement - Product Name: Coconut Water Specifications : Types: Natural Coconut Water, Packaged Coconut Water (like Tender Coconut Water, Tetra Pack Coconut Water) Material: Coconut Water Uses: Beverage Consumption, Retail Distribution, Food Service",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3495,7 +6664,29 @@
 "id": "s118",
 "fit": 3,
 "age": 150,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 less than container load",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Juice | Mango Juice | Apple Juice"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 3/4",
+"Posted 150 days ago"
+],
+"flags": [],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product Name: Juices Specifications : Type: Orange, Mango, Pineapple, Apple, Etc. Purity: 100% Taste: Sweet",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3511,7 +6702,29 @@
 "id": "s119",
 "fit": 2,
 "age": 154,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Fruit Juices | Vegetable Juices"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted 154 days ago"
+],
+"flags": [],
+"detail": "The buyer would like to receive quotations for - Product Name: Fresh Juice Specifications: Fruit and Vegetable Juice 1 20FCL",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3528,7 +6741,31 @@
 "id": "s120",
 "fit": 3,
 "age": 154,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: LC",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Canned Vegetables | Canned Foods | Canned Beans"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted 154 days ago"
+],
+"flags": [
+"Asks for cooking coconut cream/milk — check if in Malee range"
+],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product Name: Canned Food Specifications: Type : Coconut Cream , Cream canned mushroom , corn etc",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3544,7 +6781,29 @@
 "id": "s121",
 "fit": 2,
 "age": 160,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: LC/TT",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Fruit Juices | Energy Drinks"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted 160 days ago"
+],
+"flags": [],
+"detail": "Buyer is interested to receive quotations for the following RFQ - Product name: Beverages Specifications: Types: Fruit Beverages, Malt Beverages (like juice drinks, energy drinks) Material: Beverage formulations Uses: Refreshment, retail distribution Contact email only",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3560,7 +6819,29 @@
 "id": "s122",
 "fit": 2,
 "age": 161,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 less than container load",
+"Payment terms: L/C 30 Days After Invoice",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Juice"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: some",
+"Legitimacy signals: 3/4",
+"Posted 161 days ago"
+],
+"flags": [],
+"detail": "Please quote for the following wholesale product requirement - Product Name: Beverages Specifications : Type: Soft Drinks, Juices (like Flavored Drinks) Material: Liquid Product",
+"namePending": false,
+"score": 5
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3576,7 +6857,29 @@
 "id": "s123",
 "fit": 2,
 "age": 161,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C Or T/T",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Soft Drinks | Fruit Juices | Energy Drinks"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●○",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted 161 days ago"
+],
+"flags": [],
+"detail": "The buyer would like to receive quotations for - Product Name: Beverages Specifications : Type: Soft Drinks, Fruit Juices, Energy Drinks, Sports Drinks, Carbonated Beverages, Mineral Water, Flavored Water, Ready-to-drink Beverages Note: Contact Via Email Only",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3594,7 +6897,29 @@
 "id": "s124",
 "fit": 3,
 "age": 168,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: L/C",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Coconut Water & Coconut Milk | Coconut Milk | Coconut Water"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 3/4",
+"Posted 168 days ago"
+],
+"flags": [],
+"detail": "The buyer would like to receive quotations for - Product Name: Coconut Product Specifications : Type: Coconut Water, Coconut Milk (cooking), Coconut Milk Drink",
+"namePending": false,
+"score": 7
+}
 },
 {
 "src": "go4WorldBusiness",
@@ -3610,7 +6935,29 @@
 "id": "s125",
 "fit": 3,
 "age": 176,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Stated quantity: 1 twenty-foot container",
+"Payment terms: By Bank Transfer",
+"go4WorldBusiness: VERIFIED buyer",
+"Buyer of: Beverages | Fruit Juices | Juice"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 2/4",
+"Posted 176 days ago"
+],
+"flags": [],
+"detail": "Please quote for the following wholesale product requirement - Product Name : Juices Specifications: Type : Orange Juice, Mix Fruit Juice, Mango Juice, Pomegranate Juice Contact Via Email Only",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "TradeKey",
@@ -3618,7 +6965,7 @@
 "country": "PK",
 "company": "Venus Foods (Lahore)",
 "said": "Importer with national distribution; main lines pineapple, fruit cocktail and pure juices \"mainly from Thailand\"; wants a canner ONLY from Thailand/Malaysia; 30 FCLs.",
-"date": "2026-04-24",
+"date": "2026-08-09",
 "url": "https://importer.tradekey.com/buyoffer/Canned-Prineapple-And-Fruit-Cocktail-725248.html",
 "prods": [
 "canned",
@@ -3627,8 +6974,29 @@
 "manual": true,
 "id": "s126",
 "fit": 3,
-"age": 216,
-"fresh": "recent"
+"age": 109,
+"fresh": "recent",
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "\"We are importers with strong distribution network in all major cities of Pakistan\"",
+"size": [
+"Company named on post: Venus Foods (Lahore)",
+"Stated quantity: 30 FCLs",
+"\"Strong distribution network in all major cities of Pakistan\" (post)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Exact fit: canned pineapple, fruit cocktail, juices \"mainly from Thailand\"",
+"Volume: 30 FCLs stated",
+"Named company with street address on post",
+"Posted 9 Aug 2026 (TradeKey page date) — confirm still active"
+],
+"flags": [],
+"detail": "We are importers with strong distribution network in all major cities of Pakistan. Our main line is pineapple, fruit cocktails and pure juices, mainly from Thailand. We are looking fr reliable canning company ONLY FROM THAILAND & MALAYSIA to offer competitive rates with regular supplies. pls contact Venus Foods, Venus Plaza, 7-E, Egerton Road, Lahore-Pakistan",
+"namePending": false,
+"score": 6
+}
 },
 {
 "src": "TradeKey",
@@ -3636,7 +7004,7 @@
 "country": "PK",
 "company": "",
 "said": "Urgently needs canned fruit cocktail and canned pineapple, 3 containers a month.",
-"date": "2026-06-29",
+"date": "2026-11-06",
 "url": "https://importer.tradekey.com/buyoffer/Canned-Fruit-Cocktail-And-Pineapple-789103.html",
 "prods": [
 "canned"
@@ -3644,8 +7012,28 @@
 "manual": true,
 "id": "s127",
 "fit": 3,
-"age": 150,
-"fresh": "recent"
+"age": 20,
+"fresh": "fresh",
+"q": {
+"rtype": "Unknown",
+"rtypeEv": "Post does not say",
+"size": [
+"Stated quantity: 3 contanier a month",
+"Destination port: pakistan"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "we need on urgent basis canned fruit cocktail and canned pineapple. so interested people can touch us on urgent basis at or contact me at",
+"namePending": true,
+"score": 6
+}
 },
 {
 "src": "TradeKey",
@@ -3653,7 +7041,7 @@
 "country": "PH",
 "company": "",
 "said": "Coconut water supplier required: 33,000 L monthly, UHT 330 ml/500 ml/1 L twist cap; \"can provide own brand labelling\".",
-"date": "2026-08-16",
+"date": "2026-09-10",
 "url": "https://importer.tradekey.com/buyoffer/Coconut-Water-Supplier-Required-2135369.html",
 "prods": [
 "coco",
@@ -3662,8 +7050,28 @@
 "manual": true,
 "id": "s128",
 "fit": 3,
-"age": 102,
-"fresh": "recent"
+"age": 77,
+"fresh": "fresh",
+"q": {
+"rtype": "Brand owner (OEM buyer)",
+"rtypeEv": "Post asks for supply under its own brand",
+"size": [
+"Stated quantity: 33000 Liter",
+"Buying frequency: Monthly"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: container-scale or recurring",
+"Legitimacy signals: 1/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "UHT packaging is 330ml, 500ml and 1 liter with twist cap. Can provide own brand labelling",
+"namePending": true,
+"score": 6
+}
 },
 {
 "src": "TradeKey",
@@ -3671,7 +7079,7 @@
 "country": "VN",
 "company": "HAMOON Co., Ltd",
 "said": "Needs original coconut water, no sugar, 330 ml PET or paper pack; wants to move fast.",
-"date": "2026-09-05",
+"date": "2026-11-08",
 "url": "https://importer.tradekey.com/buyoffer/Buy-About-Coconut-Water-Beverage-3492353.html",
 "prods": [
 "coco"
@@ -3679,8 +7087,27 @@
 "manual": true,
 "id": "s129",
 "fit": 3,
-"age": 82,
-"fresh": "fresh"
+"age": 18,
+"fresh": "fresh",
+"q": {
+"rtype": "Importer (company named)",
+"rtypeEv": "\"My company is HAMOON CO.,LTD, from VietNam\"",
+"size": [
+"Company named on post: HAMOON Co., Ltd"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [],
+"detail": "My company is HAMOON CO.,LTD, from VietNam. We need the original coconut water, with no sugar, size: 330ml Pet bottle/ paper pack. Please send me your Quotation soon. We need to speed up the process. Please contact me via WhatsApp. Thanks",
+"namePending": false,
+"score": 5
+}
 },
 {
 "src": "TradeKey",
@@ -3688,7 +7115,7 @@
 "country": "MV",
 "company": "",
 "said": "Adding organic tender coconut water to a regional wholesale range; opening order then scalable replenishment; pilot lot, FOB/CIF.",
-"date": "2026-08-20",
+"date": "2026-11-18",
 "url": "https://importer.tradekey.com/buyoffer/Looking-For-Manufacturers-Of-Organic-Tender-Coconut-Water-For-Maldives-3870925.html",
 "prods": [
 "coco"
@@ -3696,8 +7123,29 @@
 "manual": true,
 "id": "s130",
 "fit": 3,
-"age": 98,
-"fresh": "recent"
+"age": 8,
+"fresh": "fresh",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Payment terms: T/T, L/C, D/A, D/P, Western Union, Money Gram"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: not stated",
+"Legitimacy signals: 2/4",
+"Posted ≤90 days ago"
+],
+"flags": [
+"Spec may not match Malee (organic/raw/glass)"
+],
+"detail": "We plan to add organic tender coconut water to a regional wholesale range and need a supplier that can support both an opening order and scalable replenishment. Required technical information: Product should be tender-coconut water; state single-strength or concentrate form, Brix, pH, ingredient list and added-sugar/preservative status. Confirm organic certification if claimed, aseptic/UHT processing, microbiological",
+"namePending": true,
+"score": 4
+}
 },
 {
 "src": "Tradewheel",
@@ -3714,7 +7162,28 @@
 "id": "s131",
 "fit": 3,
 "age": 265,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Distributor / wholesaler",
+"rtypeEv": "Post mentions distribution/wholesale use",
+"size": [
+"Tradewheel member since Mar 2026 · trust 88/100"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Fit to Malee: ●●●",
+"Volume: some",
+"Legitimacy signals: 1/4",
+"Posted 265 days ago"
+],
+"flags": [
+"Spec may not match Malee (organic/raw/glass)"
+],
+"detail": "Our beverage distribution company is looking for a supplier of 100% natural, pure coconut water. Specs : Processing : UHT treated or NFC (Not From Concentrate). Sugar Content : No added sugar; Brix level 4.5%–5.5%. Packaging : 330ml or 1L Tetra Pak, or bulk aseptic bags for bottling. Certifications : HACCP, ISO, and Organic (USDA/EU) preferred. 82% High-Quality RFQ This request includes verified contact details, a cl",
+"namePending": false,
+"score": 3
+}
 },
 {
 "src": "Company website",
@@ -3733,7 +7202,23 @@
 "fit": 3,
 "age": null,
 "fresh": "standing",
-"dist": "d35"
+"dist": "d35",
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [
+"In SM, Robinsons, Waltermart; YCH 3PL warehousing (site / WOFEX 2026)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 80/100 from evidence",
+"Size evidence: In SM, Robinsons, Waltermart; YCH 3PL warehousing (site / WOFEX 2026)",
+"Publicly invites new brands",
+"Standing \"we want brands\" page — no volume stated"
+],
+"flags": []
+}
 },
 {
 "src": "Company website",
@@ -3752,7 +7237,23 @@
 "fit": 3,
 "age": null,
 "fresh": "standing",
-"dist": "d47"
+"dist": "d47",
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Distributor/brand builder — per its own site",
+"size": [
+"3 hubs; 27 cities; 9,441+ channel reach points (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 85/100 from evidence",
+"Size evidence: 3 hubs; 27 cities; 9,441+ channel reach points (site)",
+"Publicly invites new brands",
+"Standing \"we want brands\" page — no volume stated"
+],
+"flags": []
+}
 },
 {
 "src": "Company website",
@@ -3771,7 +7272,23 @@
 "fit": 3,
 "age": null,
 "fresh": "standing",
-"dist": "d48"
+"dist": "d48",
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "FMCG importer — per its own site",
+"size": [
+"12 retail/marketplace/app partners; Riyadh HQ (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 80/100 from evidence",
+"Size evidence: 12 retail/marketplace/app partners; Riyadh HQ (site)",
+"Publicly invites new brands",
+"Standing \"we want brands\" page — no volume stated"
+],
+"flags": []
+}
 },
 {
 "src": "Company website",
@@ -3791,7 +7308,23 @@
 "fit": 3,
 "age": null,
 "fresh": "standing",
-"dist": "d20"
+"dist": "d20",
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [
+"DCs in Sydney, Melbourne, Brisbane (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 75/100 from evidence",
+"Size evidence: DCs in Sydney, Melbourne, Brisbane (site)",
+"Publicly invites new brands",
+"Standing \"we want brands\" page — no volume stated"
+],
+"flags": []
+}
 },
 {
 "src": "LinkedIn",
@@ -3810,7 +7343,24 @@
 "fit": 3,
 "age": null,
 "fresh": "standing",
-"dist": "d11"
+"dist": "d11",
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "Boutique beverage distributor — per its own site",
+"size": [
+"6 employees (LinkedIn)",
+"Refrigerated truck fleet (LinkedIn)"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 75/100 from evidence",
+"Size evidence: 6 employees (LinkedIn)",
+"Publicly invites new brands",
+"Standing \"we want brands\" page — no volume stated"
+],
+"flags": []
+}
 },
 {
 "src": "Company website",
@@ -3828,7 +7378,23 @@
 "fit": 2,
 "age": null,
 "fresh": "standing",
-"dist": "d41"
+"dist": "d41",
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "FMCG distributor — per its own site",
+"size": [
+"1,500+ retail doors UAE/GCC (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 85/100 from evidence",
+"Size evidence: 1,500+ retail doors UAE/GCC (site)",
+"Publicly invites new brands",
+"Standing \"we want brands\" page — no volume stated"
+],
+"flags": []
+}
 },
 {
 "src": "Company website",
@@ -3846,7 +7412,21 @@
 "fit": 2,
 "age": null,
 "fresh": "standing",
-"dist": "d42"
+"dist": "d42",
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 85/100 from evidence",
+"No public size data found",
+"Publicly invites new brands",
+"Standing \"we want brands\" page — no volume stated"
+],
+"flags": []
+}
 },
 {
 "src": "Company website",
@@ -3864,7 +7444,23 @@
 "fit": 2,
 "age": null,
 "fresh": "standing",
-"dist": "d49"
+"dist": "d49",
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/distributor — per its own site",
+"size": [
+"400+ products (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 80/100 from evidence",
+"Size evidence: 400+ products (site)",
+"Publicly invites new brands",
+"Standing \"we want brands\" page — no volume stated"
+],
+"flags": []
+}
 },
 {
 "src": "Company website",
@@ -3883,7 +7479,23 @@
 "fit": 2,
 "age": null,
 "fresh": "standing",
-"dist": "d29"
+"dist": "d29",
+"q": {
+"rtype": "Distributor",
+"rtypeEv": "F&B distributor — per its own site",
+"size": [
+"Since 2014; 4,200+ foodservice outlets, 350+ retailers/wholesalers; 2,000+ products (site)"
+],
+"role": "Not posted",
+"worth": "High",
+"reasons": [
+"Need 80/100 from evidence",
+"Size evidence: Since 2014; 4,200+ foodservice outlets, 350+ retailers/wholesalers; 2,000+ products (site)",
+"Publicly invites new brands",
+"Standing \"we want brands\" page — no volume stated"
+],
+"flags": []
+}
 },
 {
 "src": "LinkedIn",
@@ -3902,7 +7514,25 @@
 "fit": 3,
 "age": null,
 "fresh": "standing",
-"dist": "d54"
+"dist": "d54",
+"q": {
+"rtype": "Importer / distributor",
+"rtypeEv": "Importer/brand manager — per its own site",
+"size": [
+"2 employees (LinkedIn)"
+],
+"role": "Not posted",
+"worth": "Verify first",
+"reasons": [
+"Need 55/100 from evidence",
+"Size evidence: 2 employees (LinkedIn)",
+"Publicly invites new brands",
+"Standing \"we want brands\" page — no volume stated"
+],
+"flags": [
+"Very small team (2 on LinkedIn)"
+]
+}
 },
 {
 "src": "Company website",
@@ -3921,7 +7551,21 @@
 "fit": 3,
 "age": null,
 "fresh": "standing",
-"dist": "d21"
+"dist": "d21",
+"q": {
+"rtype": "Wholesaler",
+"rtypeEv": "Thai importer-wholesaler — per its own site",
+"size": [],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Need 55/100 from evidence",
+"No public size data found",
+"Publicly invites new brands",
+"Standing \"we want brands\" page — no volume stated"
+],
+"flags": []
+}
 },
 {
 "src": "ThaiTradeUSA (DITP)",
@@ -3939,7 +7583,22 @@
 "id": "s143",
 "fit": 3,
 "age": 212,
-"fresh": "recent"
+"fresh": "recent",
+"q": {
+"rtype": "Trade-promotion program",
+"rtypeEv": "DITP business matching for US buyers",
+"size": [
+"Government-run; buyer list via Thai Trade Center LA"
+],
+"role": "Not posted",
+"worth": "Medium",
+"reasons": [
+"Buyers pre-screened by DITP",
+"Event already held Apr 2026 — follow up for the buyer list"
+],
+"flags": [],
+"detail": ""
+}
 }
 ],
 "built": "2026-11-26"
